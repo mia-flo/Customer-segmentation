@@ -1,0 +1,4344 @@
+﻿CustomerID,CustomerStatus,Country,Units,Spent,Order_Count
+12346-UK,One time,United Kingdom,74215,77183.6,1
+12347-ICLD,Return,Iceland,2458,4310,7
+12348-FIN,Return,Finland,2341,1797.24,4
+12349-ITLY,One time,Italy,631,1757.55,1
+12350-NORW,One time,Norway,197,334.4,1
+12352-NORW,Return,Norway,536,2506.04,8
+12353-BAHR,One time,Bahrain,20,89,1
+12354-SPN,One time,Spain,530,1079.4,1
+12355-BAHR,One time,Bahrain,240,459.4,1
+12356-PORT,Return,Portugal,1591,2811.43,3
+12357-SWTZ,One time,Switzerland,2708,6207.67,1
+12358-AUT,New,Austria,248,1168.06,2
+12359-CYPR,Return,Cyprus,1622,6372.58,4
+12360-AUT,Return,Austria,1165,2662.06,3
+12361-BELG,One time,Belgium,91,189.9,1
+12362-BELG,Regular,Belgium,2229,5226.23,10
+12364-BELG,Regular,Belgium,1506,1313.1,4
+12365-CYPR,New,Cyprus,174,641.38,2
+12367-DEN,One time,Denmark,173,168.9,1
+12370-AUT,One time,Austria,51,277.2,1
+12370-CYPR,Return,Cyprus,2302,3268.49,3
+12371-SWTZ,New,Switzerland,591,1887.96,2
+12372-DEN,Return,Denmark,794,1298.04,3
+12373-AUT,One time,Austria,197,364.6,1
+12374-AUT,One time,Austria,342,742.93,1
+12375-FIN,New,Finland,178,457.5,2
+12377-SWTZ,New,Switzerland,944,1628.12,2
+12378-SWTZ,One time,Switzerland,2529,4008.62,1
+12379-BELG,New,Belgium,407,852.24,2
+12380-BELG,Regular,Belgium,1127,2724.81,4
+12381-NORW,Regular,Norway,808,1845.31,5
+12383-BELG,Regular,Belgium,1532,1850.56,5
+12384-SWTZ,New,Switzerland,126,585.27,2
+12386-AUS,New,Australia,354,401.9,2
+12388-AUS,Regular,Australia,1462,2780.66,6
+12390-BELG,One time,Belgium,353,549.84,1
+12391-CYPR,One time,Cyprus,300,460.89,1
+12393-AUS,Return,Australia,816,1582.6,4
+12394-BELG,One time,Belgium,182,381.08,1
+12394-DEN,One time,Denmark,637,891.4,1
+12395-BELG,Regular,Belgium,2118,3018.63,12
+12397-BELG,New,Belgium,1263,2409.9,2
+12398-SWTZ,One time,Switzerland,1394,1635.66,1
+12399-BELG,Return,Belgium,1178,1108.65,4
+12401-BELG,One time,Belgium,11,84.3,1
+12402-BELG,One time,Belgium,94,225.6,1
+12403-DEN,One time,Denmark,96,427.7,1
+12405-FIN,One time,Finland,857,1710.39,1
+12406-DEN,New,Denmark,1818,3415.3,2
+12407-BELG,Return,Belgium,1416,1708.12,5
+12408-BELG,Return,Belgium,1409,2888.55,5
+12409-SWTZ,Return,Switzerland,5551,11072.67,3
+12410-SWTZ,New,Switzerland,211,693.33,2
+12412-DEN,Return,Denmark,829,1226.88,3
+12413-FRAN,Return,France,286,758.1,3
+12414-AUT,Return,Austria,300,562.41,3
+12415-AUS,Regular,Australia,77670,124914.53,21
+12417-BELG,Return,Belgium,1285,3212.8,8
+12417-SPN,One time,Spain,267,436.3,1
+12418-SWTZ,One time,Switzerland,407,668.58,1
+12420-CYPR,One time,Cyprus,345,600.39,1
+12421-SPN,Return,Spain,484,807.04,4
+12422-AUS,New,Australia,195,386.2,2
+12422-SWTZ,One time,Switzerland,175,417.36,1
+12423-BELG,Regular,Belgium,1339,1859.31,8
+12424-AUS,New,Australia,740,1760.96,2
+12425-PORT,One time,Portugal,496,777.2,1
+12426-GER,One time,Germany,258,582.73,1
+12427-GER,Return,Germany,533,825.8,3
+12428-FIN,Regular,Finland,3536,7956.46,9
+12429-AUT,One time,Austria,198,437.98,1
+12429-DEN,Return,Denmark,1359,3312.42,3
+12430-NORW,One time,Norway,117,256.4,1
+12431-AUS,Regular,Australia,2443,5514.67,13
+12431-BELG,New,Belgium,475,972.78,2
+12432-NORW,Return,Norway,1801,5059.32,5
+12433-NORW,Regular,Norway,11071,13375.87,7
+12434-AUS,New,Australia,394,806.14,2
+12435-DEN,New,Denmark,2055,7829.89,2
+12436-NORW,One time,Norway,211,509.01,1
+12437-FRAN,Regular,France,2923,4951.41,18
+12438-NORW,New,Norway,1180,2906.85,2
+12441-FRAN,One time,France,121,173.55,1
+12442-SPN,One time,Spain,182,172.06,1
+12444-NORW,Regular,Norway,1155,5005.46,5
+12445-SPN,One time,Spain,62,133.4,1
+12446-RSA,One time,Republic of South Africa,352,1002.31,1
+12447-BELG,One time,Belgium,190,476.49,1
+12448-SPN,One time,Spain,243,449.45,1
+12449-BELG,Return,Belgium,1553,4067.29,4
+12450-SPN,New,Spain,128,197.88,2
+12451-SWTZ,Return,Switzerland,6575,9035.52,5
+12452-SWTZ,New,Switzerland,185,430.57,2
+12453-AUT,One time,Austria,473,707.09,1
+12454-SPN,One time,Spain,1006,3528.34,1
+12455-CYPR,New,Cyprus,1523,1698.9,2
+12455-SPN,Regular,Spain,566,767.96,4
+12456-SWTZ,Return,Switzerland,1633,3181.04,3
+12457-CYPR,New,Cyprus,66,392.7,2
+12457-SWTZ,Return,Switzerland,778,1970.53,5
+12458-SWTZ,New,Switzerland,506,947.4,2
+12461-SWTZ,New,Switzerland,287,826.88,2
+12462-SPN,New,Spain,536,1189.59,2
+12463-BELG,Regular,Belgium,776,1344.78,4
+12464-BELG,Return,Belgium,112,1212.05,8
+12465-BELG,New,Belgium,479,742.19,2
+12468-GER,New,Germany,366,729.54,2
+12471-GER,Regular,Germany,8212,19824.05,30
+12472-GER,Regular,Germany,4148,6572.11,7
+12473-GER,Return,Germany,2439,3938.55,5
+12474-GER,Regular,Germany,4847,7375.79,18
+12475-GER,One time,Germany,535,723.38,1
+12476-GER,Regular,Germany,2408,6816.42,11
+12477-GER,Return,Germany,3653,13219.74,6
+12478-GRC,One time,Greece,236,680.99,1
+12479-GER,One time,Germany,385,527.2,1
+12480-GER,Return,Germany,1707,3281.63,4
+12481-GER,Regular,Germany,3304,5596.32,10
+12483-SWDN,Regular,Sweden,1110,2484.98,8
+12484-SPN,Return,Spain,2191,4541.72,6
+12488-FRAN,Regular,France,529,1298.66,3
+12489-FRAN,One time,France,105,334.93,1
+12490-FRAN,Regular,France,3064,5417.93,10
+12491-FRAN,One time,France,260,460.4,1
+12492-GER,New,Germany,192,263.21,2
+12493-FRAN,New,France,207,433.74,2
+12494-FRAN,Return,France,707,1246.1,7
+12497-GER,One time,Germany,1236,1043.1,1
+12498-GER,Return,Germany,159,403.7,3
+12500-GER,Regular,Germany,2678,4257.82,11
+12501-GER,One time,Germany,1783,2169.39,1
+12502-SPN,Regular,Spain,820,3723.87,5
+12504-GER,New,Germany,90,482.05,2
+12506-FRAN,One time,France,23,73.5,1
+12507-SPN,Return,Spain,905,1304.81,3
+12508-FRAN,New,France,272,398.27,2
+12509-FRAN,One time,France,55,176.5,1
+12510-SPN,New,Spain,353,982.57,2
+12512-ISRL,New,Israel,99,138.03,2
+12513-FRAN,One time,France,462,612.29,1
+12514-ITLY,One time,Italy,440,1017.68,1
+12515-ITLY,One time,Italy,131,383.7,1
+12516-GER,New,Germany,875,1312.06,2
+12517-GER,Return,Germany,1371,2502.84,5
+12518-GER,Regular,Germany,1318,2056.89,5
+12519-GER,One time,Germany,183,340.84,1
+12520-GER,Return,Germany,1439,2634.26,5
+12521-GER,One time,Germany,309,599.68,1
+12522-GER,New,Germany,194,192.72,2
+12523-FRAN,Regular,France,865,1789.77,11
+12524-GER,Regular,Germany,3699,4485.72,8
+12526-GER,Return,Germany,632,1316.66,3
+12527-GER,Return,Germany,234,348.71,3
+12528-GER,Regular,Germany,756,1933.48,6
+12530-GER,Return,Germany,913,1662.28,4
+12531-GER,One time,Germany,45,125.22,1
+12532-FRAN,One time,France,153,349.83,1
+12534-GER,One time,Germany,651,1089.18,1
+12535-FRAN,New,France,219,716.35,2
+12536-FRAN,Return,France,2803,12601.83,3
+12538-SPN,One time,Spain,191,363.95,1
+12539-SPN,Return,Spain,2067,5568.35,4
+12540-SPN,Regular,Spain,6685,13400.24,17
+12541-SPN,Return,Spain,680,981.18,3
+12544-SPN,One time,Spain,136,372.7,1
+12545-SPN,New,Spain,523,1000.39,2
+12546-SPN,New,Spain,633,1161.5,2
+12547-SPN,New,Spain,134,207.8,2
+12548-SPN,One time,Spain,49,95.2,1
+12550-SPN,One time,Spain,569,964.83,1
+12551-SPN,One time,Spain,100,168,1
+12552-ITLY,New,Italy,88,437.82,2
+12553-FRAN,Regular,France,1965,3692.28,10
+12556-SPN,New,Spain,358,603.71,2
+12557-SPN,Return,Spain,4384,11990.96,5
+12558-USA,One time,United States,196,269.96,1
+12559-GER,New,Germany,283,561.71,2
+12560-GER,Return,Germany,1110,2134.01,3
+12561-GER,One time,Germany,177,238.85,1
+12562-FRAN,Regular,France,1779,3781.74,7
+12564-FRAN,One time,France,133,456.9,1
+12565-SARB,One time,Saudi Arabia,80,145.92,1
+12566-GER,One time,Germany,265,351.65,1
+12567-FRAN,Regular,France,4305,9401.28,10
+12569-GER,Regular,Germany,1801,4124.69,32
+12571-FRAN,New,France,523,519.61,2
+12572-GER,New,Germany,452,1020.42,2
+12573-FRAN,One time,France,84,160.54,1
+12574-FRAN,One time,France,61,218.45,1
+12576-POL,Return,Poland,967,1315.83,5
+12577-FRAN,Return,France,472,657.8,3
+12578-ITLY,New,Italy,1196,2794.51,2
+12579-FRAN,One time,France,285,440.42,1
+12580-GER,One time,Germany,238,415.7,1
+12581-GER,One time,Germany,161,197.71,1
+12582-FIN,New,Finland,300,511.36,2
+12583-FRAN,Regular,France,5060,7281.38,15
+12584-ITLY,Regular,Italy,416,2338.15,9
+12585-GER,New,Germany,1279,2040.1,2
+12586-ITLY,One time,Italy,79,196.94,1
+12587-FIN,One time,Finland,51,144,1
+12588-FIN,One time,Finland,53,214.9,1
+12589-FRAN,New,France,306,646.68,2
+12590-GER,New,Germany,4283,9864.26,2
+12591-ITLY,One time,Italy,228,452.85,1
+12592-GER,New,Germany,290,437.6,2
+12593-FRAN,Return,France,206,418.1,3
+12594-ITLY,Regular,Italy,1777,3338.22,10
+12596-SPN,New,Spain,474,618.27,2
+12597-SPN,Return,Spain,2236,3811.22,4
+12598-FRAN,Return,France,1964,3023.08,8
+12599-FRAN,Regular,France,956,1032.58,7
+12600-GER,Regular,Germany,774,2599.04,10
+12601-GER,Regular,Germany,245,577.06,5
+12602-FRAN,One time,France,162,153.12,1
+12603-GER,One time,Germany,64,739.2,1
+12604-FRAN,New,France,201,254.18,2
+12607-USA,One time,United States,1228,1579.51,1
+12609-GER,Return,Germany,648,1126.85,3
+12610-ITLY,Return,Italy,1049,2099.54,5
+12611-ITLY,One time,Italy,846,1193.32,1
+12612-GER,One time,Germany,262,704.04,1
+12613-GER,Return,Germany,1644,3344.38,5
+12614-GER,One time,Germany,76,315.6,1
+12615-FRAN,Return,France,1376,2291.19,4
+12616-FRAN,New,France,284,713.3,2
+12617-FRAN,One time,France,213,355.53,1
+12618-ITLY,One time,Italy,96,177.31,1
+12619-GER,Regular,Germany,3378,3641.24,9
+12620-FRAN,Return,France,1181,1339.41,3
+12621-GER,Regular,Germany,7440,13689.67,20
+12622-GER,One time,Germany,69,180.1,1
+12623-GER,One time,Germany,191,305.1,1
+12624-FRAN,New,France,355,641.13,2
+12625-GER,New,Germany,1612,2683.82,2
+12626-GER,Regular,Germany,3453,6620.48,9
+12627-GER,Regular,Germany,2752,4478.53,7
+12628-GER,Regular,Germany,448,786.46,3
+12630-FIN,New,Finland,548,1270.88,2
+12631-FIN,One time,Finland,236,640.5,1
+12633-GER,Return,Germany,1162,2163.98,4
+12635-GER,New,Germany,1172,1689.18,2
+12637-FRAN,Regular,France,3002,6021.9,8
+12638-SWDN,One time,Sweden,577,671.69,1
+12639-SWDN,One time,Sweden,201,486.1,1
+12640-FRAN,Return,France,311,1174.58,3
+12641-SWDN,One time,Sweden,72,185.9,1
+12642-GER,Return,Germany,552,1013.26,3
+12643-FRAN,Return,France,1808,3344.64,6
+12644-GER,One time,Germany,325,477.91,1
+12645-GER,Return,Germany,1084,1775.18,4
+12646-USA,New,United States,897,1346.97,2
+12647-GER,Regular,Germany,1432,3722.82,12
+12648-GER,One time,Germany,160,318.05,1
+12649-GER,Return,Germany,586,623.51,3
+12650-FRAN,One time,France,254,314.44,1
+12651-FRAN,One time,France,78,114,1
+12652-FRAN,One time,France,505,919.98,1
+12653-ISRL,New,Israel,919,2209.85,2
+12654-GER,Return,Germany,264,601.98,5
+12656-FRAN,Regular,France,1723,4051.17,5
+12657-FRAN,Regular,France,1044,1643.18,4
+12658-GER,One time,Germany,320,686.05,1
+12659-FRAN,One time,France,105,91.68,1
+12660-FRAN,One time,France,127,245.1,1
+12662-GER,Regular,Germany,2058,3849.78,11
+12664-FIN,Regular,Finland,1203,4881.88,9
+12665-GER,One time,Germany,37,63,1
+12667-FIN,One time,Finland,395,620.13,1
+12668-GER,Return,Germany,1634,3807.15,4
+12669-FRAN,Return,France,1115,2744.03,3
+12670-FRAN,Return,France,1397,2996.05,5
+12672-FRAN,One time,France,78,225.9,1
+12673-GER,New,Germany,351,610.52,2
+12674-FRAN,Return,France,1133,1970.6,4
+12676-SWDN,Regular,Sweden,670,1331.39,6
+12678-FRAN,Regular,France,10923,17628.46,12
+12679-FRAN,Return,France,554,1113.02,4
+12680-FRAN,Return,France,443,862.81,4
+12681-FRAN,Regular,France,7536,13787.54,22
+12682-FRAN,Regular,France,5575,12288.22,31
+12683-FRAN,Regular,France,4987,8476.57,15
+12684-FRAN,Regular,France,1985,2283.63,7
+12685-FRAN,Regular,France,1523,2863.08,6
+12686-FRAN,One time,France,107,89.14,1
+12688-ISRL,One time,Israel,3028,4873.81,1
+12689-FRAN,New,France,628,1247.61,2
+12690-FRAN,One time,France,106,389.01,1
+12691-FRAN,Regular,France,394,1035.8,6
+12693-GER,Return,Germany,255,855.91,4
+12694-FRAN,New,France,509,869.67,2
+12695-FRAN,Return,France,220,582.1,4
+12697-SWDN,Return,Sweden,508,957.59,3
+12700-FRAN,Return,France,2967,4939.99,4
+12701-GER,New,Germany,678,797.71,2
+12702-GER,One time,Germany,53,219,1
+12703-GER,One time,Germany,164,283.55,1
+12704-FIN,Regular,Finland,1006,2340.84,8
+12705-GER,Regular,Germany,3997,6868.29,9
+12707-FRAN,One time,France,256,603.42,1
+12708-GER,Regular,Germany,1307,2712.91,10
+12709-GER,Regular,Germany,3936,9736.52,15
+12710-GER,Return,Germany,851,1149.02,3
+12712-GER,Regular,Germany,1062,4396.13,13
+12713-GER,One time,Germany,508,848.55,1
+12714-FRAN,Return,France,3069,4708.86,5
+12715-SWDN,One time,Sweden,197,353.86,1
+12716-FRAN,New,France,708,1053.49,2
+12717-GRC,New,Greece,506,1030.98,2
+12718-FRAN,One time,France,203,238.25,1
+12719-FRAN,New,France,374,644.95,2
+12720-GER,Regular,Germany,4672,5781.73,25
+12721-FRAN,Return,France,1959,2656.13,6
+12722-FRAN,Regular,France,566,997.63,4
+12723-FRAN,Regular,France,434,725.07,5
+12724-FRAN,Return,France,445,1031.41,4
+12725-ITLY,One time,Italy,164,427.8,1
+12726-FRAN,Regular,France,3143,2609.1,7
+12727-FRAN,Regular,France,2098,3980.7,7
+12728-FRAN,Regular,France,419,836.33,4
+12729-FRAN,One time,France,233,453.01,1
+12731-FRAN,Regular,France,8437,18895.91,12
+12732-FRAN,One time,France,111,236.26,1
+12733-USA,One time,United States,137,383.95,1
+12734-FRAN,One time,France,88,110.4,1
+12735-FRAN,New,France,368,779.57,2
+12736-FRAN,One time,France,173,234,1
+12738-GER,One time,Germany,148,155.35,1
+12739-UAE,New,United Arab Emirates,486,1013.04,2
+12740-FRAN,One time,France,342,427.6,1
+12744-SING,Return,Singapore,5241,21279.29,7
+12747-UK,Regular,United Kingdom,1275,4196.01,11
+12748-UK,Regular,United Kingdom,25748,33719.73,210
+12749-UK,Return,United Kingdom,1471,4090.88,5
+12750-POL,One time,Poland,137,275.88,1
+12752-NORW,One time,Norway,2262,4366.78,1
+12753-JPN,Regular,Japan,11421,21429.39,6
+12754-JPN,Regular,Japan,6481,3010.74,3
+12755-JPN,New,Japan,1491,3811.95,2
+12756-JPN,One time,Japan,144,112.08,1
+12757-PORT,Regular,Portugal,2402,7857.1,13
+12758-PORT,New,Portugal,2135,2791.59,2
+12759-NETH,Return,Netherlands,902,1531.44,3
+12762-PORT,New,Portugal,1227,1898.52,2
+12763-JPN,New,Japan,316,494.08,2
+12764-LEBN,One time,Lebanon,386,1693.88,1
+12766-PORT,Regular,Portugal,3646,6989.63,7
+12769-BRZL,One time,Brazil,356,1143.6,1
+12770-JPN,One time,Japan,743,1351.45,1
+12772-PORT,One time,Portugal,556,892.47,1
+12775-NETH,Regular,Netherlands,877,1386.04,5
+12778-NETH,Return,Netherlands,825,822.23,6
+12779-POL,Regular,Poland,2024,3981.36,8
+12781-,New,Czech Republic,671,826.74,2
+12782-PORT,Return,Portugal,1086,2330.92,5
+12783-PORT,Regular,Portugal,624,2225.91,6
+12784-PORT,New,Portugal,300,574.42,2
+12785-PORT,One time,Portugal,131,311.95,1
+12787-NETH,Return,Netherlands,261,463.66,3
+12789-NETH,One time,Netherlands,4,91.85,1
+12790-NETH,One time,Netherlands,166,324.92,1
+12791-NETH,One time,Netherlands,97,192.6,1
+12792-PORT,One time,Portugal,217,400.54,1
+12793-PORT,New,Portugal,295,545.48,2
+12794-PORT,New,Portugal,592,860.41,2
+12795-PORT,One time,Portugal,68,430.48,1
+12797-PORT,One time,Portugal,118,254.03,1
+12798-JPN,Return,Japan,5256,6977.04,3
+12802-NETH,One time,Netherlands,314,427.58,1
+12808-PORT,Return,Portugal,188,483.65,3
+12809-PORT,One time,Portugal,220,489.31,1
+12811-PORT,Return,Portugal,230,514.85,3
+12812-JPN,One time,Japan,164,229.64,1
+12814-POL,One time,Poland,49,125.92,1
+12815-POL,New,Poland,379,1063.46,2
+12816-POL,New,Poland,128,572.2,2
+12817-AUT,One time,Austria,53,166.04,1
+12818-AUT,One time,Austria,929,1542.08,1
+12820-UK,Return,United Kingdom,722,942.34,4
+12821-UK,One time,United Kingdom,70,92.72,1
+12822-UK,New,United Kingdom,550,948.88,2
+12823-UK,Regular,United Kingdom,230,1759.5,5
+12824-UK,One time,United Kingdom,232,397.12,1
+12826-UK,Regular,United Kingdom,1058,1474.72,7
+12827-UK,Regular,United Kingdom,197,430.15,3
+12828-UK,Regular,United Kingdom,494,1018.71,6
+12829-UK,New,United Kingdom,376,293,2
+12830-UK,Return,United Kingdom,9848,6814.64,6
+12831-UK,One time,United Kingdom,135,215.05,1
+12832-UK,New,United Kingdom,195,383.03,2
+12833-UK,One time,United Kingdom,156,417.38,1
+12834-UK,One time,United Kingdom,110,312.38,1
+12836-UK,Return,United Kingdom,1064,2612.86,4
+12837-UK,One time,United Kingdom,24,134.1,1
+12838-UK,New,United Kingdom,359,683.13,2
+12839-UK,Regular,United Kingdom,3807,5591.42,14
+12840-UK,Regular,United Kingdom,1511,2726.77,4
+12841-UK,Regular,United Kingdom,2757,4022.35,25
+12842-UK,New,United Kingdom,547,1118.99,2
+12843-UK,Regular,United Kingdom,781,1702.26,8
+12844-UK,New,United Kingdom,125,325.96,2
+12845-UK,Return,United Kingdom,204,354.09,4
+12847-UK,One time,United Kingdom,909,871.54,1
+12849-UK,New,United Kingdom,623,1050.89,2
+12851-UK,One time,United Kingdom,109,135.18,1
+12852-UK,One time,United Kingdom,149,311.55,1
+12853-UK,Return,United Kingdom,800,1957.1,6
+12854-UK,Return,United Kingdom,627,1324.5,3
+12855-UK,One time,United Kingdom,30,38.1,1
+12856-UK,Regular,United Kingdom,1079,2179.93,6
+12857-UK,New,United Kingdom,343,1106.4,2
+12863-UK,One time,United Kingdom,188,521.2,1
+12864-UK,One time,United Kingdom,216,147.12,1
+12865-AUT,New,Austria,925,1568.23,2
+12866-BELG,One time,Belgium,171,559.12,1
+12867-UK,Regular,United Kingdom,4298,4036.82,7
+12868-UK,Regular,United Kingdom,928,1607.06,6
+12871-UK,New,United Kingdom,200,380.64,2
+12872-UK,New,United Kingdom,319,599.97,2
+12873-UK,One time,United Kingdom,128,374,1
+12875-UK,New,United Kingdom,2019,343.23,2
+12876-BELG,New,Belgium,1941,2218.02,2
+12877-UK,Regular,United Kingdom,1178,1535.77,12
+12878-UK,New,United Kingdom,547,854.99,2
+12879-UK,Return,United Kingdom,370,573.22,3
+12881-UK,One time,United Kingdom,21,298,1
+12882-UK,New,United Kingdom,246,1463.04,2
+12883-UK,Return,United Kingdom,196,703.47,4
+12884-UK,One time,United Kingdom,43,309.05,1
+12885-UK,Return,United Kingdom,655,1175.22,3
+12886-UK,New,United Kingdom,770,1378.4,2
+12888-UK,New,United Kingdom,76,354.12,2
+12890-UK,One time,United Kingdom,259,380.47,1
+12891-UK,Return,United Kingdom,950,331,3
+12893-UK,One time,United Kingdom,96,188.14,1
+12895-UK,New,United Kingdom,210,372.8,2
+12897-UK,New,United Kingdom,110,216.5,2
+12901-UK,Regular,United Kingdom,23075,17654.54,28
+12902-UK,One time,United Kingdom,66,138.68,1
+12904-UK,New,United Kingdom,302,509.58,2
+12906-UK,Return,United Kingdom,1749,2919.81,5
+12908-UK,New,United Kingdom,1200,750,2
+12909-UK,Return,United Kingdom,1280,2178.67,5
+12910-UK,Regular,United Kingdom,1692,3075.04,8
+12912-UK,Regular,United Kingdom,670,1662.3,5
+12913-UK,Regular,United Kingdom,1419,2483.63,5
+12915-UK,New,United Kingdom,93,363.65,2
+12916-UK,Return,United Kingdom,1119,3006.15,4
+12917-UK,One time,United Kingdom,120,594,1
+12919-UK,Regular,United Kingdom,673,1335.19,6
+12920-UK,One time,United Kingdom,129,164.23,1
+12921-UK,Regular,United Kingdom,9526,16587.09,37
+12922-UK,One time,United Kingdom,370,405.38,1
+12923-UK,One time,United Kingdom,69,176.97,1
+12924-UK,Return,United Kingdom,481,933.7,4
+12925-UK,New,United Kingdom,541,694.05,2
+12928-UK,Return,United Kingdom,1472,2062.7,5
+12929-UK,One time,United Kingdom,37,117.85,1
+12930-UK,New,United Kingdom,252,415.8,2
+12931-UK,Regular,United Kingdom,28004,42055.96,15
+12933-UK,Return,United Kingdom,499,607.53,3
+12935-UK,Regular,United Kingdom,1853,2160.7,7
+12936-UK,Return,United Kingdom,559,1063.9,4
+12937-UK,Return,United Kingdom,1007,1504.27,4
+12938-UK,One time,United Kingdom,140,114.14,1
+12939-UK,Regular,United Kingdom,4876,11581.8,8
+12940-UK,New,United Kingdom,411,913.54,2
+12942-UK,Return,United Kingdom,203,683.9,3
+12944-UK,New,United Kingdom,289,604.51,2
+12945-UK,One time,United Kingdom,165,462.95,1
+12947-UK,Regular,United Kingdom,1165,1603.99,6
+12948-UK,Return,United Kingdom,1080,2064.95,7
+12949-UK,Return,United Kingdom,2381,4167.22,8
+12950-UK,Return,United Kingdom,1380,1843,3
+12951-UK,Regular,United Kingdom,503,1064.07,6
+12952-UK,Return,United Kingdom,653,1387.79,4
+12953-UK,One time,United Kingdom,84,329.85,1
+12955-UK,Regular,United Kingdom,3664,4757.16,11
+12956-UK,One time,United Kingdom,34,108.07,1
+12957-UK,Return,United Kingdom,2549,4017.54,8
+12962-UK,New,United Kingdom,129,266.39,2
+12963-UK,Regular,United Kingdom,881,1856.63,8
+12965-UK,One time,United Kingdom,283,771.91,1
+12966-UK,One time,United Kingdom,75,160.18,1
+12967-UK,New,United Kingdom,438,1660.9,2
+12968-UK,One time,United Kingdom,73,135.95,1
+12970-UK,Return,United Kingdom,310,452.24,4
+12971-UK,Regular,United Kingdom,9289,11189.91,86
+12974-UK,One time,United Kingdom,24,144.8,1
+12976-UK,One time,United Kingdom,561,738.6,1
+12977-UK,One time,United Kingdom,12,39.24,1
+12980-UK,Regular,United Kingdom,886,7374.9,9
+12981-UK,New,United Kingdom,242,372.22,2
+12982-UK,One time,United Kingdom,288,390.54,1
+12984-UK,One time,United Kingdom,26,97.5,1
+12985-UK,New,United Kingdom,1533,1239.38,2
+12987-UK,New,United Kingdom,219,558.7,2
+12988-UK,One time,United Kingdom,136,535.32,1
+12989-UK,Regular,United Kingdom,2943,6924.11,15
+12990-UK,Return,United Kingdom,200,409.5,3
+12991-UK,New,United Kingdom,405,503.76,2
+12993-UK,Return,United Kingdom,240,414.76,4
+12994-UK,Return,United Kingdom,459,974.42,3
+12995-UK,One time,United Kingdom,108,211.32,1
+12997-UK,Return,United Kingdom,664,1226.89,4
+12999-UK,Return,United Kingdom,342,455.88,3
+13000-UK,Return,United Kingdom,379,534.85,3
+13001-UK,Regular,United Kingdom,5505,9818.82,13
+13002-UK,One time,United Kingdom,73,120.95,1
+13003-UK,Return,United Kingdom,103,149.05,3
+13004-UK,Regular,United Kingdom,4822,5655.91,18
+13005-UK,New,United Kingdom,172,513.7,2
+13006-UK,One time,United Kingdom,55,81.57,1
+13008-UK,One time,United Kingdom,175,229.47,1
+13011-UK,One time,United Kingdom,13,50.55,1
+13012-UK,Return,United Kingdom,824,1661.84,8
+13013-UK,Regular,United Kingdom,2224,4810.94,13
+13014-UK,Regular,United Kingdom,907,3466.28,10
+13015-UK,Return,United Kingdom,1617,3346.28,5
+13016-UK,Return,United Kingdom,527,789.89,3
+13017-UK,One time,United Kingdom,48,204,1
+13018-UK,Regular,United Kingdom,5435,7277.7,28
+13021-UK,Regular,United Kingdom,1352,2616.38,9
+13023-UK,New,United Kingdom,286,689.9,2
+13026-UK,Return,United Kingdom,1620,975.36,5
+13027-UK,Regular,United Kingdom,17280,6912,6
+13028-UK,New,United Kingdom,798,661.32,2
+13029-UK,Return,United Kingdom,134,1247.5,3
+13030-UK,New,United Kingdom,394,799.48,2
+13032-UK,New,United Kingdom,375,1010.18,2
+13033-UK,One time,United Kingdom,83,190.55,1
+13034-UK,New,United Kingdom,369,642.77,2
+13035-UK,New,United Kingdom,644,921.88,2
+13037-UK,Return,United Kingdom,431,881.07,3
+13038-UK,Return,United Kingdom,360,908.46,3
+13040-UK,New,United Kingdom,355,676.99,2
+13043-UK,One time,United Kingdom,254,516.42,1
+13044-UK,One time,United Kingdom,429,560.47,1
+13045-UK,One time,United Kingdom,221,305.28,1
+13046-UK,New,United Kingdom,264,629.31,2
+13047-UK,Regular,United Kingdom,1391,3237.54,10
+13048-UK,Return,United Kingdom,1238,1835.91,4
+13049-UK,New,United Kingdom,268,656.68,2
+13050-UK,Regular,United Kingdom,3748,5836.86,17
+13052-UK,One time,United Kingdom,222,348.15,1
+13055-UK,Return,United Kingdom,894,1214.41,3
+13058-UK,Return,United Kingdom,52,271.4,3
+13059-UK,One time,United Kingdom,35,183.4,1
+13060-UK,One time,United Kingdom,123,307.53,1
+13061-UK,One time,United Kingdom,107,248.61,1
+13062-UK,One time,United Kingdom,343,346.98,1
+13064-UK,Return,United Kingdom,516,1119.49,4
+13065-UK,One time,United Kingdom,74,205.86,1
+13066-UK,New,United Kingdom,322,470.8,2
+13067-UK,One time,United Kingdom,32,115.46,1
+13068-UK,New,United Kingdom,200,344,2
+13069-UK,Regular,United Kingdom,5885,4436.12,24
+13070-UK,One time,United Kingdom,110,228.8,1
+13072-UK,One time,United Kingdom,69,177.15,1
+13075-UK,One time,United Kingdom,485,919.61,1
+13077-UK,Return,United Kingdom,863,729.27,4
+13078-UK,Regular,United Kingdom,5630,12627.94,26
+13079-UK,Return,United Kingdom,62,220.1,5
+13080-UK,One time,United Kingdom,120,58.08,1
+13081-UK,Regular,United Kingdom,19160,28337.38,11
+13082-UK,Regular,United Kingdom,4324,3613.63,9
+13083-UK,New,United Kingdom,187,303.75,2
+13085-UK,New,United Kingdom,216,416.08,2
+13089-UK,Regular,United Kingdom,31070,58825.83,97
+13090-UK,Regular,United Kingdom,2263,8910.82,14
+13091-UK,One time,United Kingdom,466,345.82,1
+13092-UK,Regular,United Kingdom,279,477.83,5
+13093-UK,Regular,United Kingdom,3961,7832.47,8
+13094-UK,Regular,United Kingdom,1716,1927.32,12
+13095-UK,One time,United Kingdom,144,74.4,1
+13097-UK,Regular,United Kingdom,2363,6010.42,10
+13098-UK,Regular,United Kingdom,15968,28882.44,28
+13099-UK,One time,United Kingdom,288,207.36,1
+13101-UK,One time,United Kingdom,113,101.19,1
+13102-UK,Regular,United Kingdom,4204,6424.09,24
+13103-UK,One time,United Kingdom,82,243.94,1
+13104-UK,Return,United Kingdom,504,1098.48,6
+13106-UK,One time,United Kingdom,18,76.5,1
+13107-UK,Return,United Kingdom,1293,1531.62,4
+13108-UK,One time,United Kingdom,298,350.06,1
+13109-UK,New,United Kingdom,520,786.54,2
+13110-UK,Regular,United Kingdom,388,1488.67,7
+13113-UK,Regular,United Kingdom,3050,12245.96,24
+13115-UK,Return,United Kingdom,1567,2294.78,4
+13116-UK,One time,United Kingdom,291,501.14,1
+13117-UK,Regular,United Kingdom,945,984.91,8
+13118-UK,Return,United Kingdom,410,1197.81,5
+13120-UK,One time,United Kingdom,12,30.6,1
+13121-UK,One time,United Kingdom,252,283.73,1
+13122-UK,New,United Kingdom,585,922.39,2
+13124-UK,Return,United Kingdom,2147,3866.33,3
+13126-UK,Regular,United Kingdom,2143,2099.64,8
+13127-UK,One time,United Kingdom,127,259.17,1
+13130-UK,One time,United Kingdom,32,64,1
+13131-UK,Return,United Kingdom,447,1073.3,3
+13132-UK,One time,United Kingdom,20,77.3,1
+13133-UK,New,United Kingdom,32,109.8,2
+13134-UK,Return,United Kingdom,1059,1793.58,4
+13135-UK,One time,United Kingdom,4300,3096,1
+13136-UK,Return,United Kingdom,1328,2607.61,5
+13137-UK,Regular,United Kingdom,2226,3650.41,8
+13138-UK,Regular,United Kingdom,473,962.39,6
+13139-UK,Return,United Kingdom,2425,5064.94,7
+13140-UK,Return,United Kingdom,186,423.72,3
+13141-UK,Return,United Kingdom,1548,2388.75,5
+13142-UK,One time,United Kingdom,258,307.09,1
+13144-UK,One time,United Kingdom,21,110.95,1
+13145-UK,Regular,United Kingdom,145,618.52,4
+13146-UK,One time,United Kingdom,154,228.91,1
+13147-UK,Regular,United Kingdom,144,712.8,4
+13148-UK,Regular,United Kingdom,1975,3707.12,12
+13149-UK,Return,United Kingdom,1280,1676.06,4
+13151-UK,One time,United Kingdom,363,1257.87,1
+13153-UK,One time,United Kingdom,418,486.22,1
+13155-UK,Return,United Kingdom,497,971.76,4
+13157-UK,Return,United Kingdom,1439,1741.22,4
+13158-UK,Regular,United Kingdom,784,1201.06,4
+13159-UK,Return,United Kingdom,1059,1437.85,4
+13160-UK,One time,United Kingdom,56,91.8,1
+13161-UK,One time,United Kingdom,29,112.75,1
+13162-UK,Return,United Kingdom,1713,1688.29,4
+13165-UK,New,United Kingdom,1376,1021.48,2
+13166-UK,One time,United Kingdom,216,417.2,1
+13167-UK,Regular,United Kingdom,785,791.33,4
+13168-UK,Return,United Kingdom,682,1319.19,4
+13169-UK,New,United Kingdom,272,712.88,2
+13170-UK,One time,United Kingdom,147,116.01,1
+13171-UK,Return,United Kingdom,229,468.41,3
+13173-UK,New,United Kingdom,277,353.65,2
+13174-UK,Return,United Kingdom,1395,2817.03,3
+13176-UK,One time,United Kingdom,453,492.84,1
+13177-UK,One time,United Kingdom,91,282.45,1
+13178-UK,Regular,United Kingdom,3570,5725.47,11
+13182-UK,One time,United Kingdom,201,121.18,1
+13183-UK,Regular,United Kingdom,2208,3957.78,9
+13184-UK,Regular,United Kingdom,1692,1701.29,10
+13185-UK,One time,United Kingdom,12,71.4,1
+13186-UK,Regular,United Kingdom,820,1575.89,3
+13187-UK,One time,United Kingdom,95,236.02,1
+13188-UK,One time,United Kingdom,25,114.6,1
+13189-UK,New,United Kingdom,842,260.68,2
+13192-UK,New,United Kingdom,595,911.94,2
+13193-UK,One time,United Kingdom,50,117.88,1
+13194-UK,One time,United Kingdom,26,60.7,1
+13196-UK,Return,United Kingdom,1224,1797.78,4
+13198-UK,Regular,United Kingdom,2648,3401.24,6
+13199-UK,Regular,United Kingdom,6176,9817.12,38
+13200-UK,Return,United Kingdom,516,870.09,4
+13203-UK,Return,United Kingdom,800,869.46,4
+13207-UK,New,United Kingdom,130,250.26,2
+13208-UK,Return,United Kingdom,804,1223.9,6
+13209-UK,Regular,United Kingdom,4253,5891.61,8
+13210-UK,One time,United Kingdom,316,353.48,1
+13211-UK,Return,United Kingdom,874,1197.42,3
+13212-UK,Return,United Kingdom,310,788.08,3
+13213-UK,Return,United Kingdom,1360,1520.58,5
+13216-UK,One time,United Kingdom,297,333.74,1
+13217-UK,Return,United Kingdom,262,533.98,3
+13218-UK,One time,United Kingdom,88,62.64,1
+13220-UK,Regular,United Kingdom,196,819.29,4
+13221-UK,New,United Kingdom,244,847.41,2
+13223-UK,New,United Kingdom,88,163.2,2
+13224-UK,New,United Kingdom,1518,2155.95,2
+13225-UK,Return,United Kingdom,3416,6463.84,7
+13226-UK,One time,United Kingdom,80,108.21,1
+13227-UK,One time,United Kingdom,99,257.7,1
+13228-UK,One time,United Kingdom,200,358,1
+13229-UK,One time,United Kingdom,63,160.95,1
+13230-UK,Regular,United Kingdom,1665,2806.97,14
+13232-UK,Regular,United Kingdom,778,1357.6,7
+13233-UK,New,United Kingdom,1004,605.12,2
+13235-UK,One time,United Kingdom,441,1031.07,1
+13236-UK,New,United Kingdom,416,744.85,2
+13238-UK,Return,United Kingdom,298,700.73,4
+13239-UK,One time,United Kingdom,363,329.56,1
+13240-UK,Return,United Kingdom,298,663.65,4
+13242-UK,Return,United Kingdom,130,270.4,3
+13243-UK,One time,United Kingdom,233,600.07,1
+13244-UK,One time,United Kingdom,38,121.74,1
+13245-UK,One time,United Kingdom,125,430.5,1
+13246-UK,Regular,United Kingdom,1602,1987.3,6
+13247-UK,Regular,United Kingdom,328,501.12,4
+13248-UK,New,United Kingdom,305,465.68,2
+13249-UK,Return,United Kingdom,546,711.41,3
+13253-UK,New,United Kingdom,1572,1030.4,2
+13255-UK,New,United Kingdom,177,399.51,2
+13256-UK,One time,United Kingdom,12540,0,1
+13258-UK,Return,United Kingdom,287,698.58,3
+13259-UK,One time,United Kingdom,132,292.32,1
+13260-UK,One time,United Kingdom,142,557.62,1
+13261-UK,New,United Kingdom,210,944.1,2
+13262-UK,One time,United Kingdom,125,200.29,1
+13263-UK,Regular,United Kingdom,4780,7454.07,35
+13265-UK,Regular,United Kingdom,1752,2107.66,5
+13266-UK,Regular,United Kingdom,4428,3834.26,12
+13267-UK,Regular,United Kingdom,1969,4521.49,19
+13268-UK,Regular,United Kingdom,3658,3214.69,11
+13269-UK,Regular,United Kingdom,3514,5346.23,15
+13270-UK,One time,United Kingdom,200,590,1
+13271-UK,One time,United Kingdom,253,217.38,1
+13272-UK,New,United Kingdom,96,276.56,2
+13273-UK,One time,United Kingdom,153,138.98,1
+13276-UK,New,United Kingdom,161,590.93,2
+13277-UK,Return,United Kingdom,176,258.4,4
+13278-UK,One time,United Kingdom,537,542.73,1
+13279-UK,One time,United Kingdom,73,137.75,1
+13280-UK,Return,United Kingdom,522,814.86,3
+13282-UK,Return,United Kingdom,307,1132.14,3
+13283-UK,New,United Kingdom,90,93.66,2
+13284-UK,One time,United Kingdom,91,201.19,1
+13285-UK,Return,United Kingdom,2051,2709.12,4
+13291-UK,One time,United Kingdom,233,361.11,1
+13292-UK,New,United Kingdom,347,578.94,2
+13294-UK,New,United Kingdom,453,873.74,2
+13295-UK,One time,United Kingdom,82,201.2,1
+13296-UK,One time,United Kingdom,78,87.4,1
+13297-UK,Regular,United Kingdom,963,2089.85,4
+13298-UK,One time,United Kingdom,96,360,1
+13299-UK,One time,United Kingdom,30,142.5,1
+13300-UK,One time,United Kingdom,203,371.89,1
+13301-UK,Return,United Kingdom,345,618.09,4
+13302-UK,One time,United Kingdom,5,63.75,1
+13304-UK,One time,United Kingdom,238,300.42,1
+13305-UK,Regular,United Kingdom,1232,2000.86,10
+13307-UK,One time,United Kingdom,4,15,1
+13308-UK,Return,United Kingdom,843,1385.51,3
+13309-UK,Return,United Kingdom,1544,1456.79,5
+13310-UK,Return,United Kingdom,587,1132.03,3
+13311-UK,New,United Kingdom,305,598.57,2
+13313-UK,Return,United Kingdom,851,1555.32,5
+13314-UK,Return,United Kingdom,560,775.94,3
+13316-UK,Return,United Kingdom,6948,5977.73,4
+13317-UK,Return,United Kingdom,1035,2273.68,6
+13318-UK,Return,United Kingdom,304,640.76,3
+13319-UK,Regular,United Kingdom,4724,10845.55,26
+13320-UK,Return,United Kingdom,1096,1548.7,4
+13321-UK,New,United Kingdom,372,567.36,2
+13322-UK,One time,United Kingdom,117,199.48,1
+13323-UK,Return,United Kingdom,175,787.85,5
+13324-UK,Regular,United Kingdom,5205,7121.95,10
+13325-UK,One time,United Kingdom,240,675.3,1
+13327-UK,Regular,United Kingdom,1600,3627.77,8
+13328-UK,One time,United Kingdom,680,1308.48,1
+13329-UK,New,United Kingdom,463,789,2
+13330-UK,Return,United Kingdom,751,1140.93,3
+13332-UK,One time,United Kingdom,179,350.9,1
+13334-UK,Return,United Kingdom,1774,3536.82,3
+13336-UK,One time,United Kingdom,559,795.12,1
+13338-UK,One time,United Kingdom,256,487.02,1
+13339-UK,One time,United Kingdom,326,860.12,1
+13340-UK,Return,United Kingdom,5770,10736.48,7
+13341-UK,One time,United Kingdom,301,775.85,1
+13343-UK,One time,United Kingdom,135,353.43,1
+13344-UK,Return,United Kingdom,971,2543.72,3
+13345-UK,One time,United Kingdom,141,389.5,1
+13347-UK,One time,United Kingdom,205,341.36,1
+13348-UK,One time,United Kingdom,136,233.76,1
+13349-UK,One time,United Kingdom,225,247.32,1
+13350-UK,New,United Kingdom,287,979.12,2
+13351-UK,One time,United Kingdom,117,373.94,1
+13352-UK,One time,United Kingdom,321,397.98,1
+13354-UK,One time,United Kingdom,604,743.53,1
+13355-UK,One time,United Kingdom,314,674.7,1
+13356-UK,One time,United Kingdom,325,768.24,1
+13357-UK,One time,United Kingdom,322,609.95,1
+13358-UK,One time,United Kingdom,285,439.03,1
+13359-UK,One time,United Kingdom,161,439.56,1
+13362-UK,Return,United Kingdom,1382,3090.74,4
+13363-UK,New,United Kingdom,710,992.5,2
+13364-UK,One time,United Kingdom,71,134.96,1
+13365-UK,New,United Kingdom,1247,2225.37,2
+13366-UK,One time,United Kingdom,144,56.16,1
+13368-UK,New,United Kingdom,327,623.4,2
+13369-UK,One time,United Kingdom,149,308.28,1
+13370-UK,One time,United Kingdom,343,754.87,1
+13372-UK,One time,United Kingdom,159,378.64,1
+13373-UK,Return,United Kingdom,1651,3312.25,3
+13375-UK,One time,United Kingdom,442,778.65,1
+13376-UK,Return,United Kingdom,493,1019.76,3
+13379-UK,Return,United Kingdom,601,572.56,3
+13381-UK,Regular,United Kingdom,2029,3639.31,6
+13382-UK,One time,United Kingdom,131,222.99,1
+13384-UK,Regular,United Kingdom,2422,4151.93,7
+13385-UK,One time,United Kingdom,281,534.57,1
+13388-UK,New,United Kingdom,282,677.1,2
+13389-UK,Return,United Kingdom,429,797.96,3
+13390-UK,One time,United Kingdom,224,544.08,1
+13391-UK,One time,United Kingdom,4,59.8,1
+13394-UK,Regular,United Kingdom,2392,2520.02,8
+13395-UK,One time,United Kingdom,336,307.72,1
+13396-UK,New,United Kingdom,600,1360.99,2
+13397-UK,Regular,United Kingdom,430,1544.13,5
+13398-UK,One time,United Kingdom,281,457.34,1
+13402-UK,New,United Kingdom,479,621.23,2
+13403-UK,One time,United Kingdom,44,75,1
+13404-UK,New,United Kingdom,111,252.49,2
+13405-UK,Return,United Kingdom,165,572.45,3
+13408-UK,Regular,United Kingdom,16232,28117.04,62
+13410-UK,Return,United Kingdom,518,1003.06,5
+13411-UK,One time,United Kingdom,72,213.55,1
+13414-UK,Return,United Kingdom,1574,1390.5,3
+13416-UK,New,United Kingdom,142,712.5,2
+13417-UK,New,United Kingdom,162,640.83,2
+13418-UK,Regular,United Kingdom,3918,6127.43,18
+13419-UK,One time,United Kingdom,275,221.06,1
+13420-UK,New,United Kingdom,101,159.85,2
+13421-UK,New,United Kingdom,1181,1851.08,2
+13422-UK,One time,United Kingdom,1326,2626.3,1
+13425-UK,Return,United Kingdom,1123,1624.21,3
+13426-UK,Regular,United Kingdom,2245,3641.32,10
+13427-UK,Return,United Kingdom,545,582.6,3
+13428-UK,One time,United Kingdom,156,218.47,1
+13429-UK,Regular,United Kingdom,1390,1006.8,4
+13430-UK,New,United Kingdom,751,679.45,2
+13431-UK,New,United Kingdom,672,1269.1,2
+13434-UK,New,United Kingdom,300,534.24,2
+13435-UK,Regular,United Kingdom,2129,3809.89,7
+13436-UK,One time,United Kingdom,76,196.89,1
+13437-UK,Return,United Kingdom,1283,3408.06,7
+13439-UK,One time,United Kingdom,242,283.71,1
+13441-UK,One time,United Kingdom,204,296.64,1
+13447-UK,Return,United Kingdom,584,1129.14,3
+13448-UK,Return,United Kingdom,1660,3539.37,6
+13449-UK,One time,United Kingdom,222,291.88,1
+13450-UK,Regular,United Kingdom,1982,2043.72,6
+13451-UK,Return,United Kingdom,2149,2976.15,5
+13452-UK,New,United Kingdom,2,590,2
+13453-UK,New,United Kingdom,134,356.98,2
+13455-UK,New,United Kingdom,354,1058.34,2
+13456-UK,Regular,United Kingdom,765,1766.72,6
+13458-UK,Regular,United Kingdom,5508,9646.57,14
+13460-UK,New,United Kingdom,286,183.44,2
+13461-UK,Return,United Kingdom,1170,1445,3
+13462-UK,One time,United Kingdom,62,151.5,1
+13464-UK,One time,United Kingdom,403,674.68,1
+13466-UK,One time,United Kingdom,259,307.9,1
+13467-UK,New,United Kingdom,584,1083.71,2
+13468-UK,Regular,United Kingdom,2589,5704.97,37
+13470-UK,New,United Kingdom,100,165,2
+13471-UK,Regular,United Kingdom,1590,2531.58,4
+13473-UK,New,United Kingdom,266,422.64,2
+13474-UK,One time,United Kingdom,132,229.59,1
+13475-UK,Regular,United Kingdom,1012,1431.78,4
+13476-UK,New,United Kingdom,417,1238.47,2
+13477-UK,Regular,United Kingdom,1021,1454.58,6
+13479-UK,New,United Kingdom,134,300.95,2
+13481-UK,Return,United Kingdom,1142,1804.56,5
+13482-UK,One time,United Kingdom,116,184.64,1
+13483-UK,One time,United Kingdom,160,140.34,1
+13484-UK,One time,United Kingdom,44,313.8,1
+13485-UK,One time,United Kingdom,277,454.24,1
+13486-UK,Regular,United Kingdom,669,1122.41,3
+13487-UK,Return,United Kingdom,265,575.4,3
+13488-UK,Regular,United Kingdom,4518,8968.31,13
+13489-UK,Return,United Kingdom,560,449.52,4
+13491-UK,Regular,United Kingdom,903,1215.82,10
+13492-SWTZ,Return,Switzerland,408,1269.84,3
+13493-SWTZ,New,Switzerland,380,618.63,2
+13494-UK,One time,United Kingdom,162,316.26,1
+13495-UK,Return,United Kingdom,829,2044.87,5
+13496-UK,New,United Kingdom,341,653.33,2
+13497-UK,New,United Kingdom,163,348.05,2
+13499-UK,Return,United Kingdom,1365,1159.11,5
+13500-UK,Return,United Kingdom,609,1166.77,3
+13501-SWTZ,One time,Switzerland,560,1340.32,1
+13502-UK,Return,United Kingdom,264,292,3
+13503-UK,One time,United Kingdom,248,216.85,1
+13504-UK,One time,United Kingdom,178,295.93,1
+13505-SWTZ,Regular,Switzerland,2486,4393.63,4
+13506-UK,New,United Kingdom,324,458.52,2
+13507-UK,Regular,United Kingdom,1597,2479.16,4
+13508-UK,One time,United Kingdom,24,110.97,1
+13509-UK,Regular,United Kingdom,1106,979.72,7
+13510-UK,Return,United Kingdom,1386,1791.56,4
+13512-UK,One time,United Kingdom,143,251.21,1
+13513-UK,One time,United Kingdom,109,205.1,1
+13514-UK,One time,United Kingdom,40,152.2,1
+13515-UK,Regular,United Kingdom,681,891.12,4
+13516-UK,Return,United Kingdom,985,1389.41,3
+13517-UK,Return,United Kingdom,1369,2128.42,3
+13518-UK,One time,United Kingdom,392,659.44,1
+13519-UK,One time,United Kingdom,23,122.75,1
+13520-SWTZ,Regular,Switzerland,1649,3624.35,6
+13521-UK,Return,United Kingdom,736,1093.65,3
+13522-UK,One time,United Kingdom,44,125.8,1
+13523-UK,Return,United Kingdom,1752,3964.88,5
+13524-UK,Regular,United Kingdom,324,680.18,5
+13525-UK,New,United Kingdom,394,628.78,2
+13527-UK,Return,United Kingdom,1692,2287.51,7
+13529-UK,New,United Kingdom,74,307.76,2
+13531-UK,New,United Kingdom,174,483.8,2
+13532-UK,One time,United Kingdom,129,210.31,1
+13533-UK,Return,United Kingdom,204,270.79,3
+13534-UK,Regular,United Kingdom,2961,5870.08,25
+13536-UK,Regular,United Kingdom,2136,3448.29,7
+13538-UK,Regular,United Kingdom,175,1280.85,7
+13539-UK,Return,United Kingdom,320,631.34,3
+13544-UK,New,United Kingdom,127,291.41,2
+13546-UK,Return,United Kingdom,359,626.99,3
+13548-UK,New,United Kingdom,441,682.41,2
+13549-UK,Regular,United Kingdom,458,918.2,7
+13551-UK,One time,United Kingdom,12,91.8,1
+13552-UK,Regular,United Kingdom,1417,3740.07,12
+13555-UK,Return,United Kingdom,2660,4149.28,4
+13557-UK,New,United Kingdom,546,584.06,2
+13558-UK,Regular,United Kingdom,344,605.06,4
+13560-UK,One time,United Kingdom,64,174.37,1
+13561-UK,One time,United Kingdom,83,141.86,1
+13562-UK,Return,United Kingdom,757,1799.33,3
+13563-UK,New,United Kingdom,209,777.53,2
+13564-UK,Return,United Kingdom,661,1749.02,3
+13565-UK,New,United Kingdom,172,240.22,2
+13566-UK,New,United Kingdom,575,874.71,2
+13568-UK,One time,United Kingdom,70,192.85,1
+13569-UK,New,United Kingdom,164,373.75,2
+13570-UK,One time,United Kingdom,161,239.49,1
+13571-UK,Regular,United Kingdom,1759,2092.32,12
+13572-UK,One time,United Kingdom,534,1384.25,1
+13573-UK,New,United Kingdom,303,294.4,2
+13575-UK,Regular,United Kingdom,449,732.07,5
+13576-UK,Regular,United Kingdom,2646,6717.34,18
+13577-UK,Return,United Kingdom,791,1687.6,4
+13579-UK,New,United Kingdom,176,467.04,2
+13581-UK,One time,United Kingdom,30,118,1
+13583-UK,One time,United Kingdom,725,781.03,1
+13584-UK,One time,United Kingdom,37,142.4,1
+13587-UK,One time,United Kingdom,180,712.4,1
+13588-UK,Regular,United Kingdom,2606,2478.95,9
+13589-UK,New,United Kingdom,114,379.65,2
+13590-UK,Regular,United Kingdom,1848,1981.92,6
+13591-UK,Return,United Kingdom,485,1117.13,3
+13592-UK,Return,United Kingdom,84,247.96,4
+13593-UK,Return,United Kingdom,731,2037.08,5
+13594-UK,One time,United Kingdom,359,396.97,1
+13596-UK,New,United Kingdom,406,697.04,2
+13598-UK,One time,United Kingdom,58,180.17,1
+13599-UK,Regular,United Kingdom,3294,5153.67,21
+13600-UK,One time,United Kingdom,324,219.52,1
+13601-UK,New,United Kingdom,548,693.32,2
+13602-UK,One time,United Kingdom,267,428.89,1
+13603-UK,One time,United Kingdom,164,164.34,1
+13606-UK,Return,United Kingdom,279,280.54,3
+13607-UK,One time,United Kingdom,290,678.01,1
+13610-UK,Regular,United Kingdom,516,1131.88,7
+13611-UK,Return,United Kingdom,766,1171.8,3
+13614-UK,Return,United Kingdom,570,1610.46,4
+13615-UK,One time,United Kingdom,189,417.69,1
+13617-UK,Return,United Kingdom,300,544.18,3
+13618-UK,One time,United Kingdom,246,177.34,1
+13621-UK,One time,United Kingdom,343,213.85,1
+13623-UK,Regular,United Kingdom,294,747.78,5
+13626-UK,One time,United Kingdom,209,257.23,1
+13627-UK,Regular,United Kingdom,1269,1638.47,5
+13629-UK,Regular,United Kingdom,4372,7792.36,11
+13630-UK,Return,United Kingdom,1391,2031.78,7
+13631-UK,Regular,United Kingdom,467,3070.42,11
+13632-UK,Return,United Kingdom,1037,2121.27,5
+13634-UK,Return,United Kingdom,704,1575.16,5
+13635-UK,One time,United Kingdom,677,1071.03,1
+13636-UK,Regular,United Kingdom,592,949.12,5
+13637-UK,Return,United Kingdom,409,810.5,3
+13638-UK,One time,United Kingdom,93,122.64,1
+13639-UK,One time,United Kingdom,800,1033.34,1
+13642-UK,One time,United Kingdom,173,354.8,1
+13643-UK,Return,United Kingdom,273,519.44,3
+13644-UK,Regular,United Kingdom,2067,2624.26,4
+13645-UK,One time,United Kingdom,158,252.1,1
+13647-UK,Return,United Kingdom,895,1678.12,4
+13649-UK,New,United Kingdom,139,346.6,2
+13650-UK,Regular,United Kingdom,922,1836.34,6
+13651-UK,New,United Kingdom,33,94.2,2
+13652-UK,Return,United Kingdom,578,1095.08,3
+13654-UK,Regular,United Kingdom,2182,2707.33,6
+13655-UK,New,United Kingdom,605,932.97,2
+13656-UK,New,United Kingdom,490,379.65,2
+13657-UK,New,United Kingdom,209,382.14,2
+13658-UK,Return,United Kingdom,1019,2639.17,5
+13659-UK,New,United Kingdom,894,1573.2,2
+13662-UK,Return,United Kingdom,543,897.76,3
+13663-UK,One time,United Kingdom,91,189.47,1
+13666-UK,Return,United Kingdom,41,84.65,3
+13667-UK,One time,United Kingdom,154,305.02,1
+13668-UK,Regular,United Kingdom,3742,6363.59,21
+13669-UK,New,United Kingdom,237,218.55,2
+13670-UK,One time,United Kingdom,282,349.7,1
+13672-UK,New,United Kingdom,57,186.39,2
+13673-UK,New,United Kingdom,119,396.92,2
+13675-UK,New,United Kingdom,330,486.82,2
+13678-UK,One time,United Kingdom,924,232.6,1
+13680-UK,Return,United Kingdom,1936,3722.42,4
+13681-UK,Return,United Kingdom,360,827.83,4
+13682-UK,One time,United Kingdom,10,59.5,1
+13684-UK,One time,United Kingdom,39,67.23,1
+13685-UK,Return,United Kingdom,5056,3119.44,7
+13686-UK,One time,United Kingdom,70,72,1
+13689-UK,One time,United Kingdom,512,910,1
+13690-UK,One time,United Kingdom,67,172.25,1
+13692-UK,Return,United Kingdom,1226,1488.32,3
+13694-UK,Regular,United Kingdom,63312,65039.62,50
+13695-UK,Regular,United Kingdom,1603,2504.13,15
+13697-UK,One time,United Kingdom,177,151.3,1
+13699-UK,One time,United Kingdom,66,308.58,1
+13700-UK,Regular,United Kingdom,2304,2265.12,10
+13703-UK,One time,United Kingdom,10,99.5,1
+13704-UK,Regular,United Kingdom,1531,2308.06,9
+13705-UK,Return,United Kingdom,363,711.86,3
+13706-UK,One time,United Kingdom,189,330.79,1
+13707-UK,New,United Kingdom,351,806.41,2
+13708-UK,One time,United Kingdom,306,296.88,1
+13709-UK,Regular,United Kingdom,3516,6328.05,13
+13710-UK,One time,United Kingdom,176,180.48,1
+13711-UK,New,United Kingdom,140,252.06,2
+13712-UK,One time,United Kingdom,352,228.84,1
+13715-UK,Return,United Kingdom,563,1079.34,5
+13716-UK,One time,United Kingdom,138,138.28,1
+13717-UK,Return,United Kingdom,1959,1445.01,6
+13718-UK,New,United Kingdom,173,306.55,2
+13719-UK,Regular,United Kingdom,609,1041.68,5
+13720-UK,Return,United Kingdom,501,799.9,4
+13721-UK,One time,United Kingdom,316,524.14,1
+13722-UK,Return,United Kingdom,1401,2375.41,3
+13723-UK,One time,United Kingdom,43,199.85,1
+13725-UK,Regular,United Kingdom,806,1980.56,8
+13726-UK,New,United Kingdom,1054,1079.66,2
+13727-UK,New,United Kingdom,162,333.48,2
+13728-UK,Regular,United Kingdom,458,1016.14,6
+13730-UK,New,United Kingdom,488,752.6,2
+13731-UK,New,United Kingdom,278,610.59,2
+13732-UK,One time,United Kingdom,498,491.86,1
+13735-UK,Return,United Kingdom,1130,2885.24,4
+13736-UK,New,United Kingdom,497,731.9,2
+13737-UK,One time,United Kingdom,125,339.6,1
+13739-UK,One time,United Kingdom,54,216.9,1
+13740-UK,One time,United Kingdom,425,350.75,1
+13741-UK,Return,United Kingdom,218,668.43,3
+13742-UK,Regular,United Kingdom,1124,3131.02,12
+13743-UK,Regular,United Kingdom,1776,1341.6,7
+13744-UK,New,United Kingdom,1249,1156.36,2
+13745-UK,One time,United Kingdom,496,300.04,1
+13747-UK,One time,United Kingdom,8,79.6,1
+13748-UK,Return,United Kingdom,439,948.25,5
+13750-UK,Regular,United Kingdom,516,1647.26,5
+13751-UK,One time,United Kingdom,152,296.25,1
+13752-UK,Regular,United Kingdom,876,1186.28,6
+13753-UK,One time,United Kingdom,512,741.26,1
+13754-UK,New,United Kingdom,214,282.6,2
+13755-UK,Regular,United Kingdom,1264,2161.35,9
+13756-UK,Regular,United Kingdom,3188,5189.52,14
+13758-UK,Regular,United Kingdom,1844,3190.55,7
+13759-UK,New,United Kingdom,287,659.41,2
+13760-UK,New,United Kingdom,197,286.79,2
+13761-UK,New,United Kingdom,642,1070.65,2
+13762-UK,One time,United Kingdom,272,306.72,1
+13763-UK,One time,United Kingdom,728,1714.96,1
+13764-UK,Return,United Kingdom,932,1521.76,3
+13767-UK,Regular,United Kingdom,7322,17220.36,37
+13769-UK,Regular,United Kingdom,1163,2796.51,10
+13771-UK,Return,United Kingdom,1477,2634.45,4
+13772-UK,Return,United Kingdom,546,1132.13,3
+13774-UK,One time,United Kingdom,192,345,1
+13777-UK,Regular,United Kingdom,12897,25977.16,33
+13778-UK,One time,United Kingdom,70,178.7,1
+13780-UK,New,United Kingdom,318,360.01,2
+13781-UK,One time,United Kingdom,30,127.84,1
+13782-UK,Return,United Kingdom,371,912,6
+13784-UK,Regular,United Kingdom,2493,2462.79,11
+13786-UK,One time,United Kingdom,136,230.4,1
+13787-UK,New,United Kingdom,337,309.04,2
+13790-UK,One time,United Kingdom,748,348.8,1
+13791-UK,New,United Kingdom,1200,1516,2
+13792-UK,New,United Kingdom,92,195.55,2
+13798-UK,Regular,United Kingdom,23948,37153.85,57
+13799-UK,New,United Kingdom,402,688.86,2
+13800-UK,One time,United Kingdom,331,558.32,1
+13801-UK,One time,United Kingdom,168,324.8,1
+13802-UK,Return,United Kingdom,2572,4599.42,3
+13803-UK,One time,United Kingdom,121,277.07,1
+13804-UK,Return,United Kingdom,1498,2635.79,7
+13805-UK,New,United Kingdom,1900,924.6,2
+13806-UK,One time,United Kingdom,56,256.38,1
+13807-UK,One time,United Kingdom,36,112.6,1
+13808-UK,Return,United Kingdom,782,1747.66,5
+13809-CYPR,One time,Cyprus,29,155.05,1
+13810-GER,Return,Germany,312,1499.01,3
+13811-GER,Return,Germany,68,814.5,3
+13812-GER,Return,Germany,333,539,3
+13813-GER,Return,Germany,552,1366.86,4
+13814-GER,New,Germany,864,1579.12,2
+13815-GER,Return,Germany,2560,4027.36,4
+13816-GER,New,Germany,269,571.67,2
+13817-GER,New,Germany,211,382.98,2
+13819-UK,Return,United Kingdom,1109,1140.35,3
+13821-UK,New,United Kingdom,153,385.64,2
+13822-UK,New,United Kingdom,611,632,2
+13823-UK,New,United Kingdom,439,957.66,2
+13824-UK,Return,United Kingdom,768,1698.94,5
+13826-UK,One time,United Kingdom,82,189.5,1
+13827-UK,Return,United Kingdom,141,412.05,3
+13828-UK,One time,United Kingdom,311,209.49,1
+13831-UK,Return,United Kingdom,745,2202.99,6
+13832-UK,One time,United Kingdom,28,52.2,1
+13833-UK,One time,United Kingdom,118,384.8,1
+13835-UK,Return,United Kingdom,442,834.57,4
+13837-UK,New,United Kingdom,183,271.24,2
+13838-UK,Return,United Kingdom,263,691.73,4
+13841-UK,One time,United Kingdom,100,85,1
+13842-UK,Regular,United Kingdom,1768,3385.62,9
+13844-UK,One time,United Kingdom,196,361.62,1
+13845-UK,One time,United Kingdom,182,312.98,1
+13846-UK,Return,United Kingdom,388,865.06,3
+13848-UK,Return,United Kingdom,3700,1255,3
+13849-UK,New,United Kingdom,1016,1537.95,2
+13850-UK,One time,United Kingdom,944,1595.48,1
+13851-UK,Return,United Kingdom,1705,2651.46,3
+13853-UK,One time,United Kingdom,312,1090.14,1
+13854-UK,Regular,United Kingdom,2296,8109.52,25
+13856-UK,Return,United Kingdom,494,388.5,3
+13858-UK,One time,United Kingdom,75,216.17,1
+13859-UK,One time,United Kingdom,129,201.16,1
+13860-UK,Regular,United Kingdom,591,1245.9,5
+13862-UK,Regular,United Kingdom,1688,2209.36,8
+13863-UK,One time,United Kingdom,224,305.78,1
+13865-UK,Return,United Kingdom,204,501.56,4
+13866-UK,One time,United Kingdom,57,145.67,1
+13867-UK,Return,United Kingdom,513,1015.29,3
+13868-UK,New,United Kingdom,1964,3192.54,2
+13869-UK,Return,United Kingdom,1721,3104.95,4
+13870-UK,Regular,United Kingdom,1325,2770.94,8
+13871-UK,Regular,United Kingdom,2806,6403.25,13
+13873-UK,Return,United Kingdom,140,389.6,3
+13874-UK,One time,United Kingdom,180,540.45,1
+13875-UK,Regular,United Kingdom,1316,1786.79,5
+13876-UK,One time,United Kingdom,36,122.7,1
+13877-UK,One time,United Kingdom,108,117.24,1
+13878-UK,One time,United Kingdom,475,1281.53,1
+13880-UK,Regular,United Kingdom,1842,3219.77,13
+13881-UK,Regular,United Kingdom,10118,17159.52,20
+13882-UK,Regular,United Kingdom,953,1191.13,5
+13883-UK,Return,United Kingdom,1436,2674.48,5
+13884-UK,Return,United Kingdom,300,787.6,5
+13885-UK,New,United Kingdom,182,506.8,2
+13886-UK,One time,United Kingdom,126,243.56,1
+13887-UK,One time,United Kingdom,147,349.55,1
+13888-UK,New,United Kingdom,258,605.63,2
+13889-UK,One time,United Kingdom,146,416.9,1
+13890-UK,Regular,United Kingdom,831,1883.81,10
+13892-UK,Return,United Kingdom,983,632.97,4
+13893-UK,One time,United Kingdom,190,821.1,1
+13894-UK,Return,United Kingdom,354,564.62,3
+13895-UK,Regular,United Kingdom,1365,2593.07,4
+13897-UK,One time,United Kingdom,200,311.16,1
+13898-UK,One time,United Kingdom,133,155.93,1
+13899-UK,New,United Kingdom,156,388.52,2
+13900-UK,Return,United Kingdom,430,740.95,3
+13901-UK,Regular,United Kingdom,1739,2867.2,5
+13904-UK,New,United Kingdom,332,332.64,2
+13908-UK,Return,United Kingdom,1478,2369.55,4
+13911-UK,Regular,United Kingdom,2731,2580.91,9
+13914-UK,New,United Kingdom,380,626.45,2
+13917-UK,New,United Kingdom,228,272.04,2
+13918-UK,New,United Kingdom,1140,1212.84,2
+13919-DEN,New,Denmark,474,384.81,2
+13922-UK,One time,United Kingdom,93,172.25,1
+13923-UK,One time,United Kingdom,185,351.13,1
+13924-UK,Regular,United Kingdom,1575,1838.85,6
+13925-UK,Regular,United Kingdom,331,678.25,4
+13926-UK,One time,United Kingdom,104,223.85,1
+13927-UK,One time,United Kingdom,214,348.99,1
+13928-UK,Return,United Kingdom,129,464.57,4
+13929-UK,New,United Kingdom,143,842.65,2
+13930-UK,New,United Kingdom,274,337.34,2
+13931-UK,New,United Kingdom,725,1237.53,2
+13932-UK,One time,United Kingdom,72,307.4,1
+13933-UK,New,United Kingdom,205,608.79,2
+13934-UK,One time,United Kingdom,390,922.1,1
+13936-UK,One time,United Kingdom,330,376.58,1
+13937-UK,One time,United Kingdom,123,158.85,1
+13938-UK,One time,United Kingdom,70,71.66,1
+13939-UK,Return,United Kingdom,847,568.55,3
+13940-UK,Regular,United Kingdom,516,839.14,4
+13941-UK,Return,United Kingdom,2364,5112.96,5
+13946-UK,Return,United Kingdom,443,561.57,3
+13947-UK,One time,United Kingdom,44,90.6,1
+13948-UK,One time,United Kingdom,40,102,1
+13949-UK,Regular,United Kingdom,2474,2427.32,6
+13950-UK,Return,United Kingdom,323,745.06,4
+13951-UK,Return,United Kingdom,459,674.45,3
+13952-UK,New,United Kingdom,1431,3251.07,2
+13953-UK,Return,United Kingdom,2724,3515.68,7
+13954-UK,New,United Kingdom,150,439.92,2
+13955-UK,New,United Kingdom,154,322.96,2
+13956-UK,Return,United Kingdom,491,1026.42,5
+13959-UK,Return,United Kingdom,357,598.2,3
+13960-UK,New,United Kingdom,142,230.22,2
+13962-UK,New,United Kingdom,87,169.55,2
+13963-UK,Regular,United Kingdom,460,664.54,4
+13967-UK,One time,United Kingdom,42,80.7,1
+13969-UK,Regular,United Kingdom,4542,9053.94,18
+13971-UK,Regular,United Kingdom,1844,2758.26,8
+13972-UK,New,United Kingdom,187,190.25,2
+13973-UK,One time,United Kingdom,109,264.7,1
+13974-UK,One time,United Kingdom,249,413.59,1
+13975-UK,Return,United Kingdom,1732,2526.28,6
+13976-UK,One time,United Kingdom,154,357.98,1
+13978-UK,New,United Kingdom,315,196.79,2
+13979-UK,One time,United Kingdom,639,869.87,1
+13980-UK,One time,United Kingdom,172,200.14,1
+13982-UK,Return,United Kingdom,1136,1871.81,4
+13983-UK,Regular,United Kingdom,1183,2603.43,12
+13984-UK,Return,United Kingdom,679,920.51,5
+13985-UK,Regular,United Kingdom,3447,7060.13,15
+13986-UK,One time,United Kingdom,430,320.46,1
+13988-UK,Regular,United Kingdom,3044,4147.96,6
+13989-UK,New,United Kingdom,1313,1266.08,2
+13990-UK,One time,United Kingdom,190,311.3,1
+13991-UK,Regular,United Kingdom,998,855.97,6
+13992-UK,One time,United Kingdom,64,76.8,1
+13993-UK,Regular,United Kingdom,900,3466.36,9
+13994-UK,Regular,United Kingdom,940,2313.14,6
+13995-UK,Regular,United Kingdom,879,1393.69,5
+13999-UK,Regular,United Kingdom,2243,3901.81,12
+14000-UK,One time,United Kingdom,710,635.66,1
+14001-UK,Return,United Kingdom,962,2043.08,3
+14002-UK,New,United Kingdom,877,529.73,2
+14004-UK,Regular,United Kingdom,2668,4582.64,7
+14005-UK,Regular,United Kingdom,2478,2874.72,5
+14006-UK,Return,United Kingdom,641,962.19,3
+14009-UK,New,United Kingdom,365,695.61,2
+14012-UK,One time,United Kingdom,160,328.8,1
+14013-UK,Return,United Kingdom,462,473.02,3
+14014-UK,One time,United Kingdom,1076,505.18,1
+14015-UK,One time,United Kingdom,378,917.34,1
+14016-IRE,Return,Ireland,2125,4341.21,4
+14019-UK,Return,United Kingdom,1037,1421.61,3
+14020-UK,New,United Kingdom,441,642.8,2
+14021-UK,Return,United Kingdom,192,631.9,3
+14022-UK,One time,United Kingdom,487,440,1
+14023-UK,New,United Kingdom,345,584.07,2
+14024-UK,New,United Kingdom,150,327.7,2
+14027-UK,One time,United Kingdom,62,104.82,1
+14029-UK,New,United Kingdom,198,467.66,2
+14030-UK,Return,United Kingdom,1479,2360.09,8
+14031-UK,Regular,United Kingdom,5788,17286.86,19
+14032-UK,Regular,United Kingdom,2032,2975.59,11
+14034-UK,Return,United Kingdom,423,651.82,3
+14035-UK,Regular,United Kingdom,739,1428.02,5
+14036-UK,One time,United Kingdom,268,626.65,1
+14037-UK,New,United Kingdom,46,147.2,2
+14038-UK,Return,United Kingdom,965,1560.38,3
+14039-UK,One time,United Kingdom,92,152.2,1
+14040-UK,Regular,United Kingdom,1554,3614.92,12
+14041-UK,One time,United Kingdom,94,141.41,1
+14044-UK,Return,United Kingdom,308,652.82,4
+14045-UK,Return,United Kingdom,535,1659.75,4
+14046-UK,One time,United Kingdom,460,154.99,1
+14047-UK,Return,United Kingdom,381,1308.61,5
+14048-UK,One time,United Kingdom,288,409.93,1
+14049-UK,Return,United Kingdom,3870,5681.72,4
+14050-UK,New,United Kingdom,689,746.36,2
+14051-UK,Regular,United Kingdom,3756,15610.39,23
+14052-UK,One time,United Kingdom,89,225.36,1
+14053-UK,New,United Kingdom,215,260.25,2
+14054-UK,One time,United Kingdom,62,92.46,1
+14055-UK,One time,United Kingdom,216,725.64,1
+14056-UK,Regular,United Kingdom,4273,8214.65,23
+14057-UK,Regular,United Kingdom,4876,6217.96,17
+14059-UK,One time,United Kingdom,128,183.6,1
+14060-UK,Regular,United Kingdom,5386,6140.42,19
+14062-UK,Regular,United Kingdom,5593,10464.85,12
+14064-UK,Return,United Kingdom,1788,1353.74,5
+14066-UK,One time,United Kingdom,45,152.55,1
+14067-UK,New,United Kingdom,361,374.7,2
+14068-UK,One time,United Kingdom,73,265.85,1
+14071-UK,Regular,United Kingdom,995,1438.82,8
+14073-UK,One time,United Kingdom,130,151.04,1
+14075-UK,Return,United Kingdom,754,942.26,3
+14076-UK,One time,United Kingdom,81,122.47,1
+14077-UK,Regular,United Kingdom,268,499.42,5
+14078-UK,Regular,United Kingdom,310,1049.37,6
+14079-UK,One time,United Kingdom,301,375.1,1
+14080-UK,One time,United Kingdom,48,45.6,1
+14081-UK,New,United Kingdom,596,934.52,2
+14082-UK,One time,United Kingdom,110,182.25,1
+14083-UK,Return,United Kingdom,732,1018.43,9
+14085-UK,Regular,United Kingdom,3184,4448.54,18
+14087-UK,One time,United Kingdom,251,194.42,1
+14088-UK,Regular,United Kingdom,12665,50491.81,13
+14089-UK,One time,United Kingdom,134,161,1
+14090-UK,One time,United Kingdom,72,76.32,1
+14092-UK,Regular,United Kingdom,2066,4076.91,14
+14093-UK,One time,United Kingdom,406,442.85,1
+14096-UK,Regular,United Kingdom,16352,65164.79,17
+14098-UK,One time,United Kingdom,104,147.35,1
+14099-UK,Regular,United Kingdom,2179,3104.17,11
+14100-UK,One time,United Kingdom,64,194.9,1
+14101-UK,Regular,United Kingdom,6942,5976.79,6
+14102-UK,Regular,United Kingdom,961,1360.28,5
+14104-UK,New,United Kingdom,72,216.21,2
+14105-UK,One time,United Kingdom,800,1266.23,1
+14107-UK,Regular,United Kingdom,1793,2703.23,7
+14108-UK,New,United Kingdom,381,597.91,2
+14109-UK,One time,United Kingdom,88,144.2,1
+14110-UK,Regular,United Kingdom,2457,5683.15,12
+14111-UK,Return,United Kingdom,458,692.85,4
+14112-UK,Return,United Kingdom,1651,2915.15,7
+14113-UK,Return,United Kingdom,745,1840.42,4
+14114-UK,New,United Kingdom,101,386.53,2
+14116-UK,Regular,United Kingdom,707,1382.74,5
+14117-UK,One time,United Kingdom,72,90,1
+14121-UK,Regular,United Kingdom,2082,2780.15,4
+14124-UK,One time,United Kingdom,1618,419.58,1
+14125-UK,Return,United Kingdom,1640,2740.43,3
+14126-UK,Return,United Kingdom,508,706.13,3
+14127-UK,Return,United Kingdom,321,709.71,3
+14128-UK,New,United Kingdom,564,637.5,2
+14129-UK,Return,United Kingdom,592,1123.86,5
+14130-UK,One time,United Kingdom,258,483.86,1
+14132-UK,Regular,United Kingdom,3368,3586.03,11
+14133-UK,Return,United Kingdom,348,605.64,3
+14135-UK,Regular,United Kingdom,3850,4690.31,15
+14138-UK,New,United Kingdom,610,982.38,2
+14139-UK,One time,United Kingdom,510,415.82,1
+14140-UK,New,United Kingdom,811,935.05,2
+14141-UK,Regular,United Kingdom,355,915.13,4
+14142-UK,One time,United Kingdom,313,311.81,1
+14143-UK,One time,United Kingdom,30,115.8,1
+14145-UK,Return,United Kingdom,756,3742.2,4
+14146-UK,Return,United Kingdom,2437,4191,5
+14147-UK,New,United Kingdom,108,483.4,2
+14148-UK,One time,United Kingdom,16,157.2,1
+14149-UK,One time,United Kingdom,218,446.62,1
+14150-UK,New,United Kingdom,496,658.64,2
+14152-UK,New,United Kingdom,711,621.29,2
+14154-UK,New,United Kingdom,465,1345.62,2
+14155-UK,One time,United Kingdom,25,118.75,1
+14156-IRE,Regular,Ireland,57885,117379.63,55
+14157-UK,New,United Kingdom,284,432.88,2
+14158-UK,One time,United Kingdom,781,507.66,1
+14159-UK,Regular,United Kingdom,4408,4693.01,11
+14161-UK,Return,United Kingdom,455,1110.52,3
+14162-UK,New,United Kingdom,142,289.36,2
+14163-UK,Return,United Kingdom,893,2445.91,4
+14164-UK,New,United Kingdom,1033,1631.77,2
+14165-UK,One time,United Kingdom,54,122.54,1
+14167-UK,Return,United Kingdom,150,574.84,4
+14171-UK,One time,United Kingdom,167,363.79,1
+14173-UK,Return,United Kingdom,150,450.84,4
+14174-UK,One time,United Kingdom,94,134.46,1
+14175-UK,Return,United Kingdom,1515,3222.3,3
+14176-UK,Regular,United Kingdom,209,576.9,4
+14177-UK,Return,United Kingdom,205,559.41,4
+14178-UK,Regular,United Kingdom,1505,1620.93,7
+14179-UK,New,United Kingdom,330,719.78,2
+14180-UK,Regular,United Kingdom,719,4748.52,25
+14184-UK,One time,United Kingdom,127,452.89,1
+14185-UK,One time,United Kingdom,6,197.65,1
+14188-UK,Regular,United Kingdom,1162,2054.36,6
+14189-UK,Regular,United Kingdom,3937,4654.08,15
+14191-UK,Regular,United Kingdom,3662,4684.76,13
+14193-UK,New,United Kingdom,445,853.39,2
+14194-UK,Regular,United Kingdom,5840,11349.52,21
+14195-UK,New,United Kingdom,760,1012,2
+14196-UK,One time,United Kingdom,142,335.52,1
+14198-UK,Return,United Kingdom,290,701.4,4
+14199-UK,One time,United Kingdom,28,185.4,1
+14201-UK,Regular,United Kingdom,590,747.44,7
+14204-UK,One time,United Kingdom,82,161.03,1
+14205-UK,New,United Kingdom,204,466.7,2
+14206-UK,One time,United Kingdom,276,328.16,1
+14208-UK,One time,United Kingdom,114,151.74,1
+14209-UK,Return,United Kingdom,691,2073.43,6
+14210-UK,Regular,United Kingdom,760,1905.84,6
+14211-UK,Regular,United Kingdom,1242,2241.1,9
+14212-UK,One time,United Kingdom,1152,1070.48,1
+14214-UK,Regular,United Kingdom,751,1004.38,5
+14215-UK,Return,United Kingdom,1358,1789.72,6
+14216-UK,Return,United Kingdom,594,1839.3,4
+14217-UK,Regular,United Kingdom,689,2004.98,17
+14218-UK,One time,United Kingdom,160,169.48,1
+14219-UK,One time,United Kingdom,78,89.94,1
+14220-UK,New,United Kingdom,272,632.4,2
+14221-UK,Regular,United Kingdom,2191,3432.8,9
+14222-UK,One time,United Kingdom,607,683.17,1
+14223-UK,Return,United Kingdom,585,991.13,3
+14224-UK,Return,United Kingdom,514,1050.12,4
+14226-UK,Return,United Kingdom,1308,2232.19,5
+14227-UK,Return,United Kingdom,1820,3350.96,10
+14229-UK,Return,United Kingdom,610,1547.2,3
+14231-UK,Return,United Kingdom,409,925.71,3
+14232-UK,Regular,United Kingdom,1941,2048.07,5
+14233-UK,Return,United Kingdom,680,1462.72,4
+14234-UK,Return,United Kingdom,963,775.46,4
+14235-UK,Return,United Kingdom,1959,3144.86,5
+14236-UK,New,United Kingdom,310,490.86,2
+14237-UK,One time,United Kingdom,38,161,1
+14238-UK,One time,United Kingdom,111,146.85,1
+14239-UK,Regular,United Kingdom,993,2380.85,11
+14240-UK,New,United Kingdom,418,890.34,2
+14241-UK,One time,United Kingdom,146,213.7,1
+14242-UK,New,United Kingdom,123,280.55,2
+14243-UK,Regular,United Kingdom,1221,2588.77,10
+14245-UK,New,United Kingdom,976,1693.45,2
+14246-UK,Return,United Kingdom,804,1474.06,3
+14247-UK,One time,United Kingdom,47,136.77,1
+14248-UK,One time,United Kingdom,102,302.58,1
+14250-UK,Return,United Kingdom,1200,1904.05,3
+14251-UK,Regular,United Kingdom,1674,2879.7,5
+14256-UK,New,United Kingdom,414,969.06,2
+14257-UK,Regular,United Kingdom,1682,3099.72,5
+14258-UK,Regular,United Kingdom,7100,12669.98,9
+14259-UK,One time,United Kingdom,68,120,1
+14261-UK,New,United Kingdom,406,1163.45,2
+14262-UK,Regular,United Kingdom,1645,2618.23,8
+14264-UK,New,United Kingdom,70,333.97,2
+14267-UK,Return,United Kingdom,530,1516.24,3
+14270-UK,One time,United Kingdom,197,492.65,1
+14271-UK,One time,United Kingdom,88,112.32,1
+14272-UK,New,United Kingdom,599,437.96,2
+14273-UK,Return,United Kingdom,264,559.97,4
+14276-UK,Return,United Kingdom,744,1119.74,3
+14277-FRAN,Return,France,1984,4216.2,3
+14280-UK,One time,United Kingdom,52,134.04,1
+14282-UK,Regular,United Kingdom,2668,3729.34,15
+14284-UK,New,United Kingdom,161,595.25,2
+14285-UK,Return,United Kingdom,541,1910.01,4
+14286-UK,Return,United Kingdom,4338,4628.75,3
+14287-UK,Return,United Kingdom,261,176.63,3
+14288-UK,One time,United Kingdom,188,426.6,1
+14289-UK,Regular,United Kingdom,292,911.26,6
+14290-UK,Regular,United Kingdom,915,2314.65,5
+14291-UK,Return,United Kingdom,2749,3883.25,11
+14292-UK,Return,United Kingdom,1663,4871.93,9
+14293-UK,Return,United Kingdom,709,1046.56,4
+14295-UK,One time,United Kingdom,84,166.2,1
+14297-UK,Return,United Kingdom,865,1305.33,4
+14298-UK,Regular,United Kingdom,58343,51527.3,44
+14299-UK,Regular,United Kingdom,2149,3965.62,9
+14300-UK,One time,United Kingdom,32,43.2,1
+14301-UK,One time,United Kingdom,606,640.14,1
+14304-UK,One time,United Kingdom,139,383.45,1
+14305-UK,Regular,United Kingdom,1089,1858.96,3
+14306-UK,New,United Kingdom,1075,2093.32,2
+14307-UK,Return,United Kingdom,2058,2995.72,6
+14309-UK,Return,United Kingdom,1633,2352.53,9
+14311-UK,One time,United Kingdom,146,310.26,1
+14312-UK,Regular,United Kingdom,1012,1611.59,6
+14314-UK,One time,United Kingdom,296,120,1
+14315-UK,Regular,United Kingdom,1021,2481.13,6
+14317-UK,One time,United Kingdom,255,508.58,1
+14320-UK,New,United Kingdom,325,477.79,2
+14321-UK,Return,United Kingdom,2406,1530.75,5
+14323-UK,New,United Kingdom,350,605.06,2
+14326-UK,One time,United Kingdom,103,183.85,1
+14327-UK,One time,United Kingdom,139,311.65,1
+14329-UK,Return,United Kingdom,3095,5014.84,7
+14331-UK,New,United Kingdom,252,462.66,2
+14332-UK,Return,United Kingdom,481,866.31,3
+14333-UK,One time,United Kingdom,58,415.2,1
+14334-UK,Regular,United Kingdom,1731,2552.21,8
+14335-GER,New,Germany,379,468.26,2
+14336-UK,Return,United Kingdom,1759,1614.91,4
+14338-UK,New,United Kingdom,335,588.22,2
+14339-UK,One time,United Kingdom,168,309.52,1
+14340-UK,One time,United Kingdom,58,134.7,1
+14341-UK,Return,United Kingdom,1403,2182.28,8
+14342-UK,Return,United Kingdom,347,668.56,4
+14344-UK,Return,United Kingdom,477,889.93,8
+14345-UK,One time,United Kingdom,50,108.98,1
+14346-UK,New,United Kingdom,605,1021.58,2
+14348-UK,One time,United Kingdom,183,409.57,1
+14349-UK,One time,United Kingdom,86,133.5,1
+14350-UK,One time,United Kingdom,183,282.93,1
+14351-UK,One time,United Kingdom,12,51,1
+14352-UK,Return,United Kingdom,538,1078.96,4
+14353-UK,One time,United Kingdom,64,90.6,1
+14354-UK,New,United Kingdom,210,163.62,2
+14355-UK,One time,United Kingdom,92,174.4,1
+14356-UK,New,United Kingdom,277,701.23,2
+14357-UK,One time,United Kingdom,148,225.77,1
+14359-UK,Regular,United Kingdom,371,912.18,3
+14360-UK,Regular,United Kingdom,1151,2128.23,4
+14362-UK,One time,United Kingdom,100,161.2,1
+14364-UK,Regular,United Kingdom,1967,3717.35,8
+14367-UK,Regular,United Kingdom,4438,9261.52,16
+14368-UK,One time,United Kingdom,36,155,1
+14371-UK,One time,United Kingdom,34,100.5,1
+14373-UK,One time,United Kingdom,17,76.55,1
+14375-UK,One time,United Kingdom,194,257.68,1
+14377-UK,New,United Kingdom,219,617.05,2
+14379-UK,New,United Kingdom,292,348.1,2
+14381-UK,One time,United Kingdom,146,202.68,1
+14382-UK,One time,United Kingdom,1237,626.07,1
+14383-UK,Return,United Kingdom,817,1247.69,3
+14385-UK,Return,United Kingdom,159,202.11,3
+14386-UK,One time,United Kingdom,54,142.4,1
+14387-UK,Return,United Kingdom,819,1770.56,3
+14388-UK,Regular,United Kingdom,1941,3212.84,8
+14389-UK,New,United Kingdom,729,1043.46,2
+14390-UK,Regular,United Kingdom,2136,4652.82,9
+14393-UK,One time,United Kingdom,13,67.95,1
+14395-UK,Regular,United Kingdom,1693,3507.71,9
+14396-UK,New,United Kingdom,225,487.99,2
+14397-UK,Regular,United Kingdom,1890,2612.96,19
+14400-UK,One time,United Kingdom,454,574.7,1
+14401-UK,Regular,United Kingdom,4507,4051.48,13
+14403-UK,Regular,United Kingdom,519,1475.81,4
+14404-UK,Return,United Kingdom,839,1474.32,6
+14406-UK,One time,United Kingdom,77,156.75,1
+14407-UK,Return,United Kingdom,1415,2157.73,6
+14408-UK,Regular,United Kingdom,1616,2606.53,7
+14409-UK,Regular,United Kingdom,1230,2059.45,6
+14410-UK,Regular,United Kingdom,573,1105.07,9
+14411-UK,One time,United Kingdom,196,1063,1
+14412-UK,New,United Kingdom,786,770.03,2
+14413-UK,One time,United Kingdom,68,122.7,1
+14414-UK,Regular,United Kingdom,2512,1496.98,7
+14415-UK,Regular,United Kingdom,3011,5900.28,13
+14416-UK,New,United Kingdom,326,490.22,2
+14418-UK,Return,United Kingdom,1711,1937.25,3
+14419-UK,Regular,United Kingdom,487,1058.06,6
+14420-UK,One time,United Kingdom,334,387.52,1
+14421-UK,New,United Kingdom,365,813.11,2
+14422-UK,Regular,United Kingdom,2906,4263.64,6
+14423-UK,One time,United Kingdom,120,265.2,1
+14424-UK,One time,United Kingdom,48,322.08,1
+14426-UK,Return,United Kingdom,2699,4481.67,10
+14427-UK,New,United Kingdom,228,363.34,2
+14428-UK,Return,United Kingdom,436,1244.83,5
+14431-UK,One time,United Kingdom,130,470.36,1
+14432-UK,Regular,United Kingdom,2070,2255.51,6
+14434-UK,Regular,United Kingdom,368,1372.8,6
+14436-UK,One time,United Kingdom,129,89.06,1
+14437-UK,One time,United Kingdom,60,63,1
+14438-UK,One time,United Kingdom,82,131.9,1
+14439-GRC,One time,Greece,526,2661.24,1
+14440-UK,Regular,United Kingdom,588,2357.68,5
+14441-UK,Return,United Kingdom,446,1712.89,4
+14442-CHI,New,Channel Islands,482,1589.82,2
+14443-UK,Return,United Kingdom,938,1420.2,4
+14446-UK,Return,United Kingdom,933,1039.58,4
+14447-UK,Return,United Kingdom,571,1163.23,5
+14448-UK,New,United Kingdom,104,375.35,2
+14449-UK,Return,United Kingdom,757,907.1,4
+14450-UK,Return,United Kingdom,241,483.25,3
+14451-UK,New,United Kingdom,389,662.59,2
+14452-UK,New,United Kingdom,119,264.44,2
+14453-UK,One time,United Kingdom,49,119.93,1
+14456-UK,Regular,United Kingdom,2908,3062.4,9
+14457-UK,One time,United Kingdom,88,113.64,1
+14459-UK,One time,United Kingdom,760,1837.92,1
+14460-UK,Return,United Kingdom,881,434.34,3
+14461-UK,Return,United Kingdom,766,2103.06,3
+14462-UK,Regular,United Kingdom,964,2004.02,11
+14463-UK,Return,United Kingdom,179,529.62,3
+14465-UK,Return,United Kingdom,405,1058.62,3
+14466-UK,Regular,United Kingdom,1006,2272.4,7
+14467-UK,Return,United Kingdom,278,598.76,4
+14470-UK,New,United Kingdom,193,461.19,2
+14472-UK,Regular,United Kingdom,1160,1936.84,8
+14473-UK,New,United Kingdom,88,234.34,2
+14474-UK,One time,United Kingdom,140,547.66,1
+14475-UK,Return,United Kingdom,447,925.85,3
+14476-UK,One time,United Kingdom,132,215.7,1
+14477-UK,Return,United Kingdom,720,1309.6,4
+14479-UK,New,United Kingdom,117,316.25,2
+14480-UK,One time,United Kingdom,143,279.05,1
+14481-UK,New,United Kingdom,489,636.51,2
+14482-UK,Regular,United Kingdom,1646,2068.15,6
+14483-UK,One time,United Kingdom,97,137.1,1
+14484-UK,One time,United Kingdom,210,321.92,1
+14485-UK,One time,United Kingdom,71,165.75,1
+14487-UK,Regular,United Kingdom,735,1196.33,6
+14488-UK,One time,United Kingdom,799,1064.28,1
+14489-UK,One time,United Kingdom,299,463.38,1
+14491-UK,New,United Kingdom,139,340.93,2
+14493-UK,Regular,United Kingdom,1285,2383.24,5
+14494-UK,One time,United Kingdom,92,139.56,1
+14495-UK,New,United Kingdom,62,123.8,2
+14496-UK,New,United Kingdom,159,538.81,2
+14497-UK,One time,United Kingdom,235,475.37,1
+14498-UK,Regular,United Kingdom,1098,1957.32,5
+14499-UK,Return,United Kingdom,501,815.32,3
+14500-UK,Return,United Kingdom,117,356.85,3
+14501-UK,New,United Kingdom,161,251.21,2
+14502-UK,Regular,United Kingdom,1498,2470.67,11
+14503-UK,Return,United Kingdom,2004,3543.26,6
+14504-UK,Return,United Kingdom,308,673.26,4
+14505-UK,Return,United Kingdom,2759,5905.64,8
+14506-UK,Return,United Kingdom,730,2012.17,5
+14507-UK,Return,United Kingdom,600,1383.18,6
+14508-UK,New,United Kingdom,131,276.42,2
+14511-UK,Regular,United Kingdom,784,1314.81,5
+14512-UK,New,United Kingdom,122,275.28,2
+14513-UK,Return,United Kingdom,361,455.59,3
+14514-UK,Return,United Kingdom,589,1055.35,3
+14515-UK,Regular,United Kingdom,1134,2102.09,6
+14517-UK,New,United Kingdom,91,330.45,2
+14518-UK,One time,United Kingdom,278,174.37,1
+14520-UK,New,United Kingdom,146,270.6,2
+14522-UK,Return,United Kingdom,525,974.54,4
+14523-UK,One time,United Kingdom,251,241.09,1
+14524-UK,Return,United Kingdom,676,1867.68,9
+14525-UK,Regular,United Kingdom,2696,4332.2,9
+14527-UK,Regular,United Kingdom,2089,8508.82,55
+14528-UK,One time,United Kingdom,278,364.22,1
+14529-UK,Regular,United Kingdom,348,620.04,3
+14530-UK,Regular,United Kingdom,1410,2925.91,6
+14532-UK,Regular,United Kingdom,284,932.85,4
+14533-UK,Regular,United Kingdom,4019,1949.72,7
+14534-UK,Regular,United Kingdom,2047,4447.05,18
+14535-UK,Return,United Kingdom,1831,2864.19,3
+14536-UK,One time,United Kingdom,40,171.8,1
+14537-UK,One time,United Kingdom,120,355.56,1
+14538-UK,New,United Kingdom,155,388.25,2
+14539-UK,New,United Kingdom,428,537.48,2
+14540-UK,Return,United Kingdom,421,996.26,3
+14541-UK,Regular,United Kingdom,647,1461.65,8
+14542-UK,One time,United Kingdom,19,103.25,1
+14543-UK,Regular,United Kingdom,679,3630.33,16
+14544-UK,New,United Kingdom,1543,2024.45,2
+14546-UK,Regular,United Kingdom,1317,2578.09,5
+14547-UK,Regular,United Kingdom,2668,4007.54,8
+14548-UK,New,United Kingdom,256,652.8,2
+14549-UK,One time,United Kingdom,136,289.24,1
+14550-UK,New,United Kingdom,394,765.62,2
+14551-UK,New,United Kingdom,106,186.23,2
+14552-UK,One time,United Kingdom,91,165.07,1
+14553-UK,Return,United Kingdom,493,859.27,5
+14554-UK,Return,United Kingdom,1478,2381.04,4
+14555-UK,New,United Kingdom,130,324.14,2
+14557-UK,One time,United Kingdom,510,788.38,1
+14560-UK,Regular,United Kingdom,1260,2237.77,22
+14561-UK,Return,United Kingdom,1014,1080.76,3
+14562-UK,Regular,United Kingdom,1834,5074.77,18
+14565-UK,Return,United Kingdom,1540,3099.12,4
+14566-CHI,One time,Channel Islands,800,1432,1
+14567-UK,New,United Kingdom,412,1530.36,2
+14569-UK,One time,United Kingdom,79,227.39,1
+14570-UK,New,United Kingdom,95,218.06,2
+14572-UK,Return,United Kingdom,1428,2832.84,7
+14573-UK,Regular,United Kingdom,544,1653.42,9
+14576-UK,One time,United Kingdom,12,35.4,1
+14577-UK,Return,United Kingdom,353,859.71,4
+14578-UK,One time,United Kingdom,240,168.63,1
+14581-UK,One time,United Kingdom,217,138.6,1
+14582-UK,One time,United Kingdom,73,114.11,1
+14583-UK,Regular,United Kingdom,792,1052.55,5
+14584-UK,Return,United Kingdom,383,1042.26,4
+14585-UK,One time,United Kingdom,91,157.05,1
+14586-UK,One time,United Kingdom,444,237.36,1
+14587-UK,Regular,United Kingdom,761,1601.14,9
+14589-UK,One time,United Kingdom,5,39.75,1
+14591-UK,Return,United Kingdom,1297,1447.14,4
+14592-UK,Return,United Kingdom,415,570.46,3
+14593-UK,Return,United Kingdom,332,617.99,3
+14594-UK,New,United Kingdom,185,379.83,2
+14595-UK,Regular,United Kingdom,978,1740.6,6
+14597-UK,New,United Kingdom,577,883.15,2
+14598-UK,One time,United Kingdom,189,221.97,1
+14600-UK,One time,United Kingdom,125,393.33,1
+14601-UK,One time,United Kingdom,168,213.96,1
+14603-UK,One time,United Kingdom,400,660,1
+14606-UK,Regular,United Kingdom,6224,12156.65,93
+14607-UK,Return,United Kingdom,11766,16569.5,14
+14608-UK,Return,United Kingdom,437,1785.15,4
+14609-UK,Return,United Kingdom,7026,601.56,4
+14616-UK,Return,United Kingdom,104,406.08,3
+14618-UK,Return,United Kingdom,264,553.44,3
+14619-UK,One time,United Kingdom,152,394.44,1
+14620-UK,New,United Kingdom,214,412.78,2
+14621-UK,Regular,United Kingdom,993,1788.36,5
+14622-UK,One time,United Kingdom,146,320.58,1
+14623-UK,Return,United Kingdom,419,889.25,5
+14624-UK,New,United Kingdom,162,225.85,2
+14625-UK,New,United Kingdom,335,899.63,2
+14626-UK,Return,United Kingdom,1403,2791.27,4
+14628-UK,New,United Kingdom,272,671.96,2
+14629-UK,New,United Kingdom,380,959.01,2
+14631-UK,Return,United Kingdom,622,1006.98,3
+14632-UK,One time,United Kingdom,96,114.56,1
+14633-UK,One time,United Kingdom,96,344.9,1
+14636-UK,New,United Kingdom,241,609.85,2
+14638-UK,One time,United Kingdom,166,443.6,1
+14639-UK,Return,United Kingdom,1431,2984.49,6
+14640-UK,Regular,United Kingdom,886,2125.08,6
+14641-UK,One time,United Kingdom,90,110.46,1
+14642-UK,One time,United Kingdom,76,96.12,1
+14643-UK,New,United Kingdom,815,693.81,2
+14644-UK,New,United Kingdom,258,830.76,2
+14645-UK,New,United Kingdom,381,597.09,2
+14646-NETH,Regular,Netherlands,197491,280206.02,74
+14647-UK,One time,United Kingdom,95,243.22,1
+14649-UK,Return,United Kingdom,1018,1417.29,4
+14651-UK,New,United Kingdom,344,654.6,2
+14652-UK,One time,United Kingdom,53,114.18,1
+14653-UK,Regular,United Kingdom,950,1947.55,7
+14655-UK,Return,United Kingdom,1089,1932.23,4
+14656-UK,New,United Kingdom,120,291.05,2
+14657-UK,Return,United Kingdom,466,848.22,4
+14658-UK,New,United Kingdom,47,247.15,2
+14659-UK,Regular,United Kingdom,1195,2529.93,9
+14660-UK,New,United Kingdom,228,285.74,2
+14661-UK,One time,United Kingdom,35,107.95,1
+14662-UK,Return,United Kingdom,602,771.17,4
+14664-UK,New,United Kingdom,466,637.89,2
+14665-UK,Return,United Kingdom,740,1835.7,5
+14666-UK,One time,United Kingdom,161,195.25,1
+14667-UK,Regular,United Kingdom,5385,9241.2,25
+14669-UK,Return,United Kingdom,775,1269.99,3
+14670-UK,New,United Kingdom,337,411.53,2
+14672-UK,New,United Kingdom,454,765.55,2
+14673-UK,Return,United Kingdom,1004,1736.4,5
+14675-UK,One time,United Kingdom,341,604.75,1
+14676-UK,Return,United Kingdom,2500,2548.24,6
+14680-UK,Regular,United Kingdom,13476,28754.11,16
+14681-UK,Return,United Kingdom,76,498.95,3
+14682-UK,New,United Kingdom,80,52,2
+14684-UK,Regular,United Kingdom,853,1236.28,5
+14687-UK,One time,United Kingdom,470,628.38,1
+14688-UK,Regular,United Kingdom,3621,5630.87,21
+14689-UK,One time,United Kingdom,76,112.8,1
+14690-UK,New,United Kingdom,170,371.7,2
+14691-UK,Return,United Kingdom,707,2114.33,5
+14692-UK,Return,United Kingdom,265,591.55,4
+14693-UK,One time,United Kingdom,34,172.9,1
+14696-UK,Regular,United Kingdom,1630,2078.95,7
+14697-UK,New,United Kingdom,181,188.61,2
+14698-UK,Regular,United Kingdom,615,1250.76,5
+14699-UK,One time,United Kingdom,77,109.13,1
+14700-UK,Return,United Kingdom,1342,2235.3,3
+14701-UK,Regular,United Kingdom,932,2549.37,9
+14702-UK,Regular,United Kingdom,1454,3292.14,17
+14703-UK,One time,United Kingdom,183,318.17,1
+14704-UK,Regular,United Kingdom,1082,1546.91,9
+14705-UK,One time,United Kingdom,100,179,1
+14708-UK,Return,United Kingdom,621,1126.37,3
+14709-UK,Regular,United Kingdom,2484,4921.04,13
+14710-UK,Return,United Kingdom,378,606.13,4
+14711-UK,Regular,United Kingdom,978,2868.8,11
+14712-UK,Return,United Kingdom,315,917.07,3
+14713-UK,Regular,United Kingdom,1615,2666.36,11
+14714-UK,One time,United Kingdom,229,160.19,1
+14715-UK,Return,United Kingdom,521,867.38,4
+14716-UK,New,United Kingdom,604,329.68,2
+14719-UK,Regular,United Kingdom,1032,1602.13,5
+14720-UK,Return,United Kingdom,219,663.81,3
+14722-UK,One time,United Kingdom,120,187.92,1
+14723-UK,Return,United Kingdom,695,1158.3,6
+14725-UK,One time,United Kingdom,593,718.08,1
+14727-UK,One time,United Kingdom,62,268.58,1
+14729-UK,One time,United Kingdom,197,313.49,1
+14730-UK,Return,United Kingdom,1132,2005.06,8
+14731-UK,Return,United Kingdom,256,380.02,3
+14732-UK,Regular,United Kingdom,1405,2702.49,8
+14733-UK,Regular,United Kingdom,3764,9585.91,12
+14735-UK,Regular,United Kingdom,2264,6065.69,32
+14737-UK,Return,United Kingdom,345,1164.55,3
+14738-UK,Return,United Kingdom,601,1314.45,7
+14739-UK,Regular,United Kingdom,3820,3902.28,7
+14740-UK,Regular,United Kingdom,735,1448.21,3
+14741-UK,Return,United Kingdom,841,1400.34,6
+14744-UK,Regular,United Kingdom,627,1099.98,7
+14745-UK,Regular,United Kingdom,1038,1220.26,5
+14747-UK,One time,United Kingdom,84,328.2,1
+14748-UK,Return,United Kingdom,1223,1415.75,5
+14752-UK,One time,United Kingdom,260,389.64,1
+14753-UK,One time,United Kingdom,211,563.15,1
+14754-UK,New,United Kingdom,486,638.05,2
+14755-UK,Regular,United Kingdom,2219,5010.28,11
+14756-UK,One time,United Kingdom,416,738.96,1
+14757-UK,One time,United Kingdom,160,420.5,1
+14758-UK,Regular,United Kingdom,419,1484.06,4
+14759-UK,Return,United Kingdom,569,1625.97,3
+14760-UK,One time,United Kingdom,40,89.2,1
+14761-UK,New,United Kingdom,118,255.9,2
+14762-UK,One time,United Kingdom,341,300.52,1
+14764-UK,One time,United Kingdom,190,278.3,1
+14765-UK,Return,United Kingdom,135,254.11,3
+14766-UK,Return,United Kingdom,1349,2473.37,6
+14768-UK,New,United Kingdom,52,192.6,2
+14769-UK,Regular,United Kingdom,7436,10674.75,8
+14770-UK,New,United Kingdom,490,876.42,2
+14772-UK,One time,United Kingdom,82,139.26,1
+14775-UK,Return,United Kingdom,1174,1011.9,3
+14776-UK,Regular,United Kingdom,3134,2538.3,11
+14778-UK,New,United Kingdom,306,730.86,2
+14779-UK,Return,United Kingdom,84,386.15,3
+14780-UK,New,United Kingdom,310,447.68,2
+14782-UK,One time,United Kingdom,114,200.1,1
+14784-UK,New,United Kingdom,237,289.99,2
+14785-UK,New,United Kingdom,84,77.4,2
+14788-UK,New,United Kingdom,421,679.44,2
+14789-UK,One time,United Kingdom,116,197.64,1
+14790-UK,Return,United Kingdom,699,745.06,4
+14792-UK,One time,United Kingdom,2,6.2,1
+14793-UK,One time,United Kingdom,91,228.99,1
+14794-UK,Return,United Kingdom,673,1319.91,7
+14795-UK,One time,United Kingdom,17,131.45,1
+14796-UK,Regular,United Kingdom,6025,8022.49,17
+14798-UK,Return,United Kingdom,150,173.74,3
+14799-UK,One time,United Kingdom,146,157.7,1
+14800-UK,Regular,United Kingdom,3655,4339.74,12
+14801-UK,One time,United Kingdom,175,193.14,1
+14803-UK,Return,United Kingdom,370,845.55,3
+14804-UK,One time,United Kingdom,121,353.27,1
+14805-UK,Return,United Kingdom,115,554.65,4
+14806-UK,One time,United Kingdom,330,193.39,1
+14808-UK,Regular,United Kingdom,2147,2741.17,8
+14810-UK,Regular,United Kingdom,1016,2087.88,11
+14813-UK,New,United Kingdom,67,155.43,2
+14815-UK,New,United Kingdom,744,778.5,2
+14816-UK,One time,United Kingdom,5,271.85,1
+14817-UK,New,United Kingdom,655,1110.34,2
+14818-UK,Return,United Kingdom,324,657.8,3
+14819-UK,New,United Kingdom,109,272.07,2
+14820-UK,Return,United Kingdom,253,507.29,4
+14821-UK,One time,United Kingdom,20,48.8,1
+14823-UK,Return,United Kingdom,88,321.43,3
+14824-UK,Return,United Kingdom,525,1127.71,4
+14825-UK,Regular,United Kingdom,991,2226.91,12
+14828-UK,Return,United Kingdom,2172,2139.76,3
+14829-UK,Return,United Kingdom,452,697.55,4
+14830-UK,One time,United Kingdom,169,197.13,1
+14834-UK,Regular,United Kingdom,734,1720.3,6
+14836-UK,Return,United Kingdom,45,102.45,3
+14837-UK,Regular,United Kingdom,1436,1649.5,4
+14840-UK,One time,United Kingdom,31,62.85,1
+14841-UK,Return,United Kingdom,1778,3295.76,6
+14842-UK,Return,United Kingdom,1166,2824.69,4
+14844-UK,Return,United Kingdom,1833,3189.81,4
+14847-UK,One time,United Kingdom,120,309.4,1
+14849-UK,Regular,United Kingdom,5694,7930.54,25
+14850-UK,One time,United Kingdom,293,325.75,1
+14851-UK,New,United Kingdom,325,511.35,2
+14852-UK,Regular,United Kingdom,1747,2836.69,6
+14853-UK,New,United Kingdom,82,475.8,2
+14854-UK,Regular,United Kingdom,1832,2759.83,7
+14855-UK,New,United Kingdom,267,645.65,2
+14856-UK,Return,United Kingdom,714,1311.38,3
+14857-UK,New,United Kingdom,464,1173.12,2
+14859-UK,Return,United Kingdom,671,1353.74,4
+14860-UK,One time,United Kingdom,232,170.32,1
+14861-UK,One time,United Kingdom,117,125.79,1
+14862-UK,New,United Kingdom,772,841.2,2
+14863-UK,One time,United Kingdom,132,266.76,1
+14865-UK,New,United Kingdom,108,52.2,2
+14866-UK,Regular,United Kingdom,6752,14389.9,12
+14867-UK,Return,United Kingdom,328,710.28,3
+14868-UK,Regular,United Kingdom,1405,2953.59,8
+14869-UK,New,United Kingdom,550,725.7,2
+14870-UK,One time,United Kingdom,119,327.25,1
+14871-UK,Return,United Kingdom,185,522.38,4
+14873-UK,One time,United Kingdom,168,519.68,1
+14875-UK,New,United Kingdom,558,1465.32,2
+14878-UK,Regular,United Kingdom,802,1485.54,9
+14880-UK,Return,United Kingdom,373,706.19,3
+14881-UK,One time,United Kingdom,316,255.4,1
+14882-UK,New,United Kingdom,158,589.7,2
+14883-UK,Regular,United Kingdom,790,761.59,6
+14885-UK,One time,United Kingdom,724,765.32,1
+14886-UK,One time,United Kingdom,160,364.8,1
+14887-UK,One time,United Kingdom,1100,1862,1
+14888-UK,One time,United Kingdom,184,369.2,1
+14889-UK,One time,United Kingdom,90,135.9,1
+14890-UK,One time,United Kingdom,51,125.65,1
+14891-UK,New,United Kingdom,505,554.38,2
+14893-UK,New,United Kingdom,799,1237.85,2
+14894-UK,One time,United Kingdom,265,655.75,1
+14895-UK,Regular,United Kingdom,4851,11138.71,20
+14896-UK,New,United Kingdom,279,468.77,2
+14897-UK,Return,United Kingdom,468,1366.38,4
+14898-UK,Regular,United Kingdom,1020,1303.52,6
+14901-UK,Return,United Kingdom,661,1421.29,9
+14902-UK,One time,United Kingdom,218,332.66,1
+14903-UK,Regular,United Kingdom,1536,2810.63,5
+14904-UK,New,United Kingdom,1985,1025.44,2
+14905-UK,New,United Kingdom,287,616.15,2
+14907-UK,Return,United Kingdom,1691,3501.1,7
+14908-UK,One time,United Kingdom,132,277.8,1
+14910-UK,Regular,United Kingdom,238,434.35,4
+14911-IRE,Regular,Ireland,80515,143825.06,201
+14912-ITLY,New,Italy,971,867.85,2
+14913-UK,Return,United Kingdom,1743,1227.43,4
+14915-UK,New,United Kingdom,112,307.48,2
+14916-UK,Return,United Kingdom,1136,1268.98,4
+14918-UK,New,United Kingdom,675,1610.15,2
+14920-UK,New,United Kingdom,509,977.77,2
+14921-UK,New,United Kingdom,953,1316.07,2
+14923-UK,One time,United Kingdom,418,749.1,1
+14924-UK,One time,United Kingdom,64,310.05,1
+14929-UK,One time,United Kingdom,136,223.88,1
+14930-CHI,Return,Channel Islands,1166,2372.86,3
+14931-CHI,Regular,Channel Islands,417,1257.68,5
+14932-CHI,One time,Channel Islands,80,363.53,1
+14934-CHI,New,Channel Islands,1042,1890.94,2
+14935-CHI,One time,Channel Islands,935,1784.71,1
+14936-CHI,Return,Channel Islands,4085,8137.02,8
+14937-CHI,Return,Channel Islands,484,1621.88,3
+14944-UK,Regular,United Kingdom,2815,5900.25,12
+14946-UK,One time,United Kingdom,22,100.9,1
+14947-UK,New,United Kingdom,179,290.82,2
+14948-UK,Regular,United Kingdom,673,1101.97,6
+14950-UK,One time,United Kingdom,136,371.2,1
+14951-UK,One time,United Kingdom,311,311.69,1
+14952-UK,Return,United Kingdom,3355,8099.49,11
+14953-UK,One time,United Kingdom,225,289.82,1
+14954-UK,One time,United Kingdom,127,336.17,1
+14957-UK,One time,United Kingdom,34,58.49,1
+14958-UK,Return,United Kingdom,129,499.68,3
+14959-UK,Return,United Kingdom,494,695.42,4
+14960-UK,New,United Kingdom,221,221.27,2
+14961-UK,Return,United Kingdom,3708,7044.68,9
+14962-UK,One time,United Kingdom,44,126.7,1
+14963-UK,Return,United Kingdom,1176,1487.8,5
+14964-UK,One time,United Kingdom,143,206.21,1
+14965-UK,New,United Kingdom,365,599,2
+14966-UK,One time,United Kingdom,187,191.32,1
+14967-UK,One time,United Kingdom,140,463.8,1
+14968-UK,One time,United Kingdom,127,147.59,1
+14970-UK,Return,United Kingdom,250,1592.06,4
+14971-UK,Return,United Kingdom,644,1116.57,3
+14972-UK,One time,United Kingdom,28,114.77,1
+14973-UK,Return,United Kingdom,369,1314.45,3
+14974-UK,One time,United Kingdom,44,114.39,1
+14975-UK,One time,United Kingdom,380,279.94,1
+14976-UK,Return,United Kingdom,234,790.86,7
+14978-UK,Return,United Kingdom,525,1931.42,5
+14981-UK,One time,United Kingdom,97,102.12,1
+14984-UK,New,United Kingdom,60,213.27,2
+14985-UK,New,United Kingdom,260,296.75,2
+14987-UK,New,United Kingdom,128,326.4,2
+14988-UK,One time,United Kingdom,141,334.54,1
+14995-UK,New,United Kingdom,103,233.23,2
+14997-UK,Return,United Kingdom,1120,546.2,3
+14998-UK,New,United Kingdom,270,429.87,2
+15000-UK,One time,United Kingdom,218,490.52,1
+15002-UK,Regular,United Kingdom,862,1641.76,4
+15004-UK,One time,United Kingdom,630,1246.32,1
+15005-UK,Regular,United Kingdom,4247,6316.57,28
+15006-UK,One time,United Kingdom,302,502.09,1
+15007-UK,One time,United Kingdom,69,156.91,1
+15009-UK,Return,United Kingdom,642,1261.78,3
+15010-UK,One time,United Kingdom,184,308.94,1
+15012-UK,New,United Kingdom,231,423.04,2
+15014-UK,New,United Kingdom,151,260.17,2
+15016-UK,One time,United Kingdom,76,170.04,1
+15017-UK,One time,United Kingdom,63,125.58,1
+15018-UK,Return,United Kingdom,189,496.21,3
+15019-UK,One time,United Kingdom,159,266,1
+15021-UK,Regular,United Kingdom,847,1914.82,9
+15022-UK,Return,United Kingdom,543,905.04,4
+15023-UK,Regular,United Kingdom,2871,6802.76,11
+15024-UK,Return,United Kingdom,920,1661.33,10
+15025-UK,One time,United Kingdom,189,377.01,1
+15026-UK,Return,United Kingdom,285,469,3
+15027-UK,Regular,United Kingdom,565,1066.15,4
+15028-UK,Return,United Kingdom,459,627.13,4
+15030-UK,New,United Kingdom,372,518.28,2
+15031-UK,Return,United Kingdom,401,668.14,4
+15032-UK,Return,United Kingdom,2968,4959.1,3
+15033-UK,Regular,United Kingdom,1695,2586.67,10
+15034-UK,Regular,United Kingdom,2422,4308.61,8
+15035-UK,One time,United Kingdom,245,252.73,1
+15036-UK,Return,United Kingdom,327,465.55,3
+15038-UK,Regular,United Kingdom,217,705.49,6
+15039-UK,Regular,United Kingdom,9209,19914.44,47
+15041-UK,One time,United Kingdom,104,180.35,1
+15042-UK,One time,United Kingdom,30,135.93,1
+15043-UK,One time,United Kingdom,300,537,1
+15044-UK,Regular,United Kingdom,2795,7700.23,17
+15045-UK,New,United Kingdom,114,735.66,2
+15046-UK,Regular,United Kingdom,3451,5213.77,15
+15047-UK,One time,United Kingdom,222,343.62,1
+15048-UK,Return,United Kingdom,195,384.05,4
+15049-UK,One time,United Kingdom,63,121.17,1
+15050-UK,Return,United Kingdom,1224,1782.09,3
+15051-UK,Return,United Kingdom,1011,1391.61,3
+15052-UK,One time,United Kingdom,82,215.78,1
+15053-UK,Return,United Kingdom,986,697.79,3
+15054-UK,New,United Kingdom,198,302.1,2
+15057-UK,New,United Kingdom,668,1489.5,2
+15058-UK,Regular,United Kingdom,1069,2124.99,11
+15059-UK,Regular,United Kingdom,604,1337.72,9
+15060-UK,Return,United Kingdom,263,303.09,4
+15061-UK,Regular,United Kingdom,28920,54534.14,48
+15062-UK,Return,United Kingdom,763,987.86,4
+15063-UK,One time,United Kingdom,56,370.8,1
+15065-UK,Return,United Kingdom,1383,3158.13,4
+15066-UK,One time,United Kingdom,317,893.59,1
+15067-UK,Return,United Kingdom,954,1744.76,3
+15068-UK,New,United Kingdom,364,553.36,2
+15069-UK,One time,United Kingdom,520,1109.53,1
+15070-UK,One time,United Kingdom,36,106.2,1
+15071-UK,New,United Kingdom,269,982.07,2
+15073-UK,Return,United Kingdom,491,1043.41,3
+15074-UK,One time,United Kingdom,455,748.87,1
+15075-UK,One time,United Kingdom,447,773.03,1
+15076-UK,One time,United Kingdom,571,880.85,1
+15078-UK,Regular,United Kingdom,5105,9743.11,32
+15079-UK,Return,United Kingdom,389,895.61,4
+15081-UK,Regular,United Kingdom,190,504.8,5
+15083-UK,One time,United Kingdom,38,88.2,1
+15087-UK,One time,United Kingdom,470,306.94,1
+15088-UK,New,United Kingdom,460,1160.07,2
+15089-UK,Regular,United Kingdom,1359,2420.84,6
+15090-UK,One time,United Kingdom,208,381.32,1
+15091-UK,One time,United Kingdom,346,480.71,1
+15092-UK,New,United Kingdom,135,457.81,2
+15093-UK,Regular,United Kingdom,3760,4597.02,6
+15095-UK,Return,United Kingdom,1079,1370.6,4
+15096-UK,One time,United Kingdom,120,219.39,1
+15097-UK,One time,United Kingdom,170,248.08,1
+15098-UK,Return,United Kingdom,121,39916.5,3
+15099-UK,One time,United Kingdom,343,410.48,1
+15100-UK,Return,United Kingdom,80,876,3
+15101-UK,New,United Kingdom,241,317.53,2
+15103-UK,New,United Kingdom,329,703.36,2
+15104-UK,New,United Kingdom,637,1027.44,2
+15105-UK,Regular,United Kingdom,1211,2298.93,7
+15106-UK,Return,United Kingdom,1181,1422.52,5
+15107-UK,Regular,United Kingdom,170,319.5,6
+15108-EURO,Return,European Community,499,1300.25,4
+15109-UK,One time,United Kingdom,131,484.95,1
+15110-UK,Return,United Kingdom,246,996.1,4
+15111-UK,Return,United Kingdom,710,1567.48,3
+15113-UK,Return,United Kingdom,2386,3609.33,3
+15114-UK,Regular,United Kingdom,3096,2760.56,10
+15115-UK,One time,United Kingdom,157,340.11,1
+15116-UK,Return,United Kingdom,648,1352.75,4
+15117-UK,Return,United Kingdom,1948,1551.78,5
+15118-UK,One time,United Kingdom,1440,244.8,1
+15119-UK,One time,United Kingdom,88,266.4,1
+15120-UK,One time,United Kingdom,296,358.82,1
+15121-UK,New,United Kingdom,199,457.72,2
+15122-UK,Return,United Kingdom,800,1633.78,3
+15123-UK,New,United Kingdom,1195,2199.31,2
+15124-UK,New,United Kingdom,233,184.19,2
+15125-UK,Regular,United Kingdom,6193,11528.48,15
+15127-UK,One time,United Kingdom,251,406.53,1
+15128-UK,Return,United Kingdom,1343,1471,4
+15129-UK,Regular,United Kingdom,1794,3447.4,11
+15130-UK,One time,United Kingdom,197,330.11,1
+15132-UK,Return,United Kingdom,679,977.93,5
+15133-UK,Return,United Kingdom,680,982.42,3
+15134-UK,Regular,United Kingdom,887,1387.99,8
+15135-UK,One time,United Kingdom,43,139.05,1
+15136-UK,Return,United Kingdom,776,1286.7,4
+15139-UK,New,United Kingdom,208,178.96,2
+15140-UK,Regular,United Kingdom,1572,2354.25,7
+15142-UK,One time,United Kingdom,365,498.74,1
+15143-UK,One time,United Kingdom,150,259.45,1
+15144-UK,Regular,United Kingdom,3050,6580.44,17
+15145-UK,Return,United Kingdom,756,1194.73,4
+15146-UK,New,United Kingdom,1473,1327.16,2
+15147-UK,One time,United Kingdom,366,623.5,1
+15148-UK,One time,United Kingdom,187,301.29,1
+15149-UK,One time,United Kingdom,128,520.8,1
+15150-UK,Regular,United Kingdom,3658,5314.47,10
+15152-UK,Regular,United Kingdom,2704,4745.69,13
+15153-UK,One time,United Kingdom,198,329.25,1
+15154-UK,One time,United Kingdom,104,296.42,1
+15156-UK,Return,United Kingdom,597,961.49,3
+15157-UK,Return,United Kingdom,2392,1936.07,3
+15158-UK,One time,United Kingdom,198,401.4,1
+15159-UK,Regular,United Kingdom,11441,18641.01,30
+15160-UK,One time,United Kingdom,84,158.16,1
+15163-UK,New,United Kingdom,186,304.47,2
+15164-UK,Return,United Kingdom,360,843.05,3
+15165-UK,One time,United Kingdom,160,487.75,1
+15167-UK,One time,United Kingdom,67,163,1
+15168-UK,One time,United Kingdom,52,106.56,1
+15171-UK,One time,United Kingdom,290,1289.5,1
+15172-UK,Return,United Kingdom,1611,1624.05,5
+15174-UK,One time,United Kingdom,145,135.75,1
+15175-UK,One time,United Kingdom,454,224.14,1
+15178-UK,One time,United Kingdom,30,40.5,1
+15179-UK,Return,United Kingdom,1938,2206.95,5
+15180-UK,One time,United Kingdom,36,87.5,1
+15181-UK,Return,United Kingdom,544,689.48,3
+15182-UK,New,United Kingdom,253,622.85,2
+15184-UK,New,United Kingdom,223,406.76,2
+15185-UK,One time,United Kingdom,666,310.62,1
+15186-UK,New,United Kingdom,215,411.41,2
+15187-UK,Regular,United Kingdom,1887,4777.18,16
+15189-UK,Regular,United Kingdom,6149,16225.39,41
+15192-UK,Return,United Kingdom,918,1044.32,3
+15193-UK,One time,United Kingdom,144,499.32,1
+15194-UK,Regular,United Kingdom,5703,7616.53,15
+15195-UK,One time,United Kingdom,1404,3861,1
+15197-UK,Return,United Kingdom,469,1079.61,3
+15198-UK,New,United Kingdom,120,193.64,2
+15199-UK,Return,United Kingdom,396,1268.7,4
+15201-UK,Regular,United Kingdom,1210,1236.54,5
+15203-UK,Regular,United Kingdom,1753,1827.8,6
+15204-UK,One time,United Kingdom,258,316.58,1
+15205-UK,New,United Kingdom,378,653.24,2
+15206-UK,Return,United Kingdom,162,420.3,4
+15208-UK,Regular,United Kingdom,316,870.12,5
+15210-UK,One time,United Kingdom,228,331.18,1
+15211-UK,New,United Kingdom,240,894.41,2
+15212-UK,One time,United Kingdom,36,101.8,1
+15213-UK,New,United Kingdom,272,328.35,2
+15214-UK,Regular,United Kingdom,1254,1661.44,8
+15215-UK,Return,United Kingdom,225,734.94,3
+15216-UK,One time,United Kingdom,28,96.6,1
+15218-UK,Regular,United Kingdom,3329,5756.89,11
+15219-UK,One time,United Kingdom,45,305.75,1
+15220-UK,Regular,United Kingdom,1393,1778.96,6
+15221-UK,One time,United Kingdom,43,403.25,1
+15222-UK,One time,United Kingdom,440,585,1
+15223-UK,New,United Kingdom,213,755.75,2
+15224-UK,New,United Kingdom,152,322.08,2
+15225-UK,One time,United Kingdom,226,409.4,1
+15226-UK,One time,United Kingdom,71,154.41,1
+15227-UK,Return,United Kingdom,750,1219.4,5
+15228-UK,Return,United Kingdom,2255,3386.71,4
+15230-UK,New,United Kingdom,351,429.6,2
+15232-UK,New,United Kingdom,686,612.06,2
+15234-UK,One time,United Kingdom,196,197,1
+15235-UK,Regular,United Kingdom,1324,2247.51,12
+15236-UK,One time,United Kingdom,269,321.05,1
+15237-UK,Return,United Kingdom,1071,1412.32,4
+15238-UK,Return,United Kingdom,692,1071.99,3
+15239-UK,New,United Kingdom,594,780.59,2
+15240-UK,Return,United Kingdom,1369,1706.57,5
+15241-UK,Regular,United Kingdom,1818,1756.44,8
+15243-UK,One time,United Kingdom,185,316.68,1
+15244-UK,New,United Kingdom,405,631.57,2
+15245-UK,Return,United Kingdom,1784,2515.84,3
+15246-UK,New,United Kingdom,247,514.15,2
+15247-UK,One time,United Kingdom,160,356,1
+15249-UK,Regular,United Kingdom,3577,6688.46,13
+15251-UK,Regular,United Kingdom,6171,10484.99,11
+15252-UK,New,United Kingdom,522,740.78,2
+15253-UK,Return,United Kingdom,866,918.2,5
+15254-UK,One time,United Kingdom,275,300.36,1
+15255-UK,One time,United Kingdom,489,890.85,1
+15256-UK,One time,United Kingdom,55,98.45,1
+15257-UK,One time,United Kingdom,46,317.15,1
+15258-UK,New,United Kingdom,142,623.16,2
+15260-UK,Regular,United Kingdom,885,1810.77,7
+15261-UK,One time,United Kingdom,270,254.82,1
+15262-UK,One time,United Kingdom,73,178.95,1
+15263-UK,One time,United Kingdom,89,156.51,1
+15264-UK,One time,United Kingdom,265,393.74,1
+15265-UK,New,United Kingdom,612,1506.12,2
+15266-UK,One time,United Kingdom,18,119.3,1
+15267-UK,Regular,United Kingdom,944,1717.36,5
+15269-UK,One time,United Kingdom,26,408.8,1
+15270-UK,Return,United Kingdom,1521,2379.49,7
+15271-UK,Regular,United Kingdom,1262,2507.07,15
+15272-UK,New,United Kingdom,310,721.94,2
+15274-UK,New,United Kingdom,619,716.57,2
+15275-UK,One time,United Kingdom,498,615.14,1
+15276-UK,One time,United Kingdom,64,135.31,1
+15277-UK,One time,United Kingdom,205,255.9,1
+15279-UK,One time,United Kingdom,189,290.51,1
+15280-UK,One time,United Kingdom,154,113.12,1
+15281-UK,Regular,United Kingdom,1211,2332.15,9
+15286-UK,One time,United Kingdom,55,240.55,1
+15287-UK,New,United Kingdom,433,486.69,2
+15288-UK,Return,United Kingdom,775,2306.52,5
+15289-UK,Return,United Kingdom,1008,939.78,3
+15290-UK,Regular,United Kingdom,4501,7943.22,18
+15291-UK,Regular,United Kingdom,2103,4668.3,15
+15292-UK,One time,United Kingdom,56,180.94,1
+15296-UK,Return,United Kingdom,1766,3672.86,6
+15297-UK,Return,United Kingdom,292,641.94,3
+15298-UK,Regular,United Kingdom,3116,4799.9,12
+15299-UK,Return,United Kingdom,2948,4507.01,7
+15300-UK,One time,United Kingdom,292,496.44,1
+15301-UK,Regular,United Kingdom,2775,5070.35,12
+15303-UK,One time,United Kingdom,248,574.02,1
+15304-UK,Regular,United Kingdom,104,694.4,8
+15306-UK,Return,United Kingdom,810,1174.35,3
+15307-UK,One time,United Kingdom,37,205.3,1
+15308-UK,One time,United Kingdom,175,310.47,1
+15311-UK,Regular,United Kingdom,38194,60767.9,91
+15312-UK,Return,United Kingdom,516,924.85,4
+15313-UK,One time,United Kingdom,25,52,1
+15314-UK,One time,United Kingdom,313,327.97,1
+15315-UK,New,United Kingdom,862,570.5,2
+15316-UK,One time,United Kingdom,100,165,1
+15318-UK,One time,United Kingdom,642,312.62,1
+15319-UK,One time,United Kingdom,175,204.5,1
+15320-UK,One time,United Kingdom,326,267.13,1
+15321-UK,Return,United Kingdom,1181,2748.31,3
+15322-UK,One time,United Kingdom,416,679.68,1
+15325-UK,One time,United Kingdom,232,162.29,1
+15326-UK,One time,United Kingdom,386,311.71,1
+15327-UK,One time,United Kingdom,116,208.75,1
+15329-UK,Return,United Kingdom,486,1049.7,3
+15330-UK,New,United Kingdom,1312,714.96,2
+15332-LITH,Return,Lithuania,652,1661.06,4
+15333-UK,One time,United Kingdom,344,1028.56,1
+15334-UK,Return,United Kingdom,274,351.67,3
+15335-UK,One time,United Kingdom,80,173.97,1
+15339-UK,New,United Kingdom,416,574.07,2
+15341-UK,One time,United Kingdom,812,2020.52,1
+15342-UK,One time,United Kingdom,283,406.09,1
+15343-UK,One time,United Kingdom,84,364.5,1
+15344-UK,Return,United Kingdom,116,563.94,3
+15345-UK,One time,United Kingdom,81,393.54,1
+15346-UK,One time,United Kingdom,144,252.42,1
+15347-UK,One time,United Kingdom,130,201.6,1
+15348-UK,One time,United Kingdom,84,158.04,1
+15349-UK,New,United Kingdom,327,473.81,2
+15350-UK,One time,United Kingdom,51,115.65,1
+15351-UK,Regular,United Kingdom,753,1960.11,7
+15353-UK,New,United Kingdom,343,777.02,2
+15355-UK,New,United Kingdom,45,277.05,2
+15356-UK,Regular,United Kingdom,1673,2766.5,10
+15358-UK,Regular,United Kingdom,7050,8347.2,22
+15360-UK,One time,United Kingdom,223,427.93,1
+15361-UK,One time,United Kingdom,336,418.92,1
+15363-UK,One time,United Kingdom,144,326,1
+15364-UK,New,United Kingdom,493,913.19,2
+15365-UK,Return,United Kingdom,1084,2314.32,7
+15366-UK,New,United Kingdom,621,602.51,2
+15367-UK,Return,United Kingdom,1057,1877.59,4
+15368-UK,One time,United Kingdom,230,446.94,1
+15370-UK,Regular,United Kingdom,830,2386.05,7
+15372-UK,One time,United Kingdom,2924,2007.4,1
+15373-UK,Regular,United Kingdom,500,2415.91,12
+15374-UK,One time,United Kingdom,126,168,1
+15376-UK,Return,United Kingdom,619,1233.36,3
+15379-UK,Regular,United Kingdom,2305,3703.29,7
+15380-UK,Return,United Kingdom,376,1690.26,5
+15381-UK,New,United Kingdom,171,596.85,2
+15382-UK,Return,United Kingdom,4012,5955.71,6
+15384-UK,New,United Kingdom,596,642.41,2
+15385-UK,One time,United Kingdom,161,316.88,1
+15386-UK,One time,United Kingdom,446,394.14,1
+15388-CAN,One time,Canada,88,140.54,1
+15389-UK,One time,United Kingdom,400,500,1
+15392-UK,Return,United Kingdom,1277,1535.53,4
+15393-UK,New,United Kingdom,150,231.86,2
+15394-UK,Return,United Kingdom,910,2183.54,4
+15395-UK,One time,United Kingdom,17,107.45,1
+15396-UK,One time,United Kingdom,122,288.18,1
+15397-UK,One time,United Kingdom,20,94,1
+15398-UK,New,United Kingdom,769,1345.53,2
+15399-UK,Return,United Kingdom,611,815.77,3
+15400-UK,Return,United Kingdom,390,716.2,5
+15402-UK,New,United Kingdom,694,626.77,2
+15405-UK,One time,United Kingdom,193,349.1,1
+15406-UK,New,United Kingdom,254,510.71,2
+15407-UK,Return,United Kingdom,558,1056.44,4
+15408-UK,One time,United Kingdom,106,267.18,1
+15410-UK,Regular,United Kingdom,1200,3450.84,8
+15411-UK,Return,United Kingdom,530,1358.88,4
+15412-UK,One time,United Kingdom,108,190.53,1
+15414-UK,Return,United Kingdom,443,774.9,3
+15415-UK,One time,United Kingdom,575,572.81,1
+15416-UK,Return,United Kingdom,2090,3984.32,4
+15417-UK,One time,United Kingdom,284,508.8,1
+15419-UK,One time,United Kingdom,230,135.86,1
+15421-UK,Return,United Kingdom,500,950.36,4
+15422-UK,New,United Kingdom,38,97.7,2
+15423-UK,One time,United Kingdom,101,43.5,1
+15424-UK,New,United Kingdom,554,383.34,2
+15426-UK,Return,United Kingdom,674,1447.39,5
+15427-UK,Return,United Kingdom,1013,1483.14,3
+15428-UK,One time,United Kingdom,102,93.78,1
+15429-UK,New,United Kingdom,380,397.35,2
+15432-UK,One time,United Kingdom,65,171.19,1
+15433-UK,New,United Kingdom,534,533.3,2
+15434-UK,Return,United Kingdom,647,1041.48,5
+15435-UK,One time,United Kingdom,54,149.29,1
+15436-UK,Return,United Kingdom,613,1122.53,3
+15437-UK,One time,United Kingdom,79,200.16,1
+15438-UK,One time,United Kingdom,59,156.58,1
+15440-UK,Return,United Kingdom,197,383.68,3
+15442-UK,One time,United Kingdom,120,594,1
+15443-UK,Regular,United Kingdom,1663,3236.91,7
+15444-UK,New,United Kingdom,764,1418.26,2
+15445-UK,One time,United Kingdom,58,113.5,1
+15447-UK,One time,United Kingdom,85,155.17,1
+15448-UK,One time,United Kingdom,232,494.64,1
+15449-UK,Return,United Kingdom,812,974.52,3
+15450-UK,One time,United Kingdom,376,429.84,1
+15452-UK,Return,United Kingdom,283,538.73,3
+15453-UK,Regular,United Kingdom,845,1388.37,7
+15454-UK,One time,United Kingdom,86,179.1,1
+15456-UK,Return,United Kingdom,660,447.22,3
+15457-UK,One time,United Kingdom,132,237.07,1
+15458-UK,One time,United Kingdom,156,161.64,1
+15460-UK,One time,United Kingdom,109,216.76,1
+15462-UK,Return,United Kingdom,172,234.6,3
+15463-UK,One time,United Kingdom,106,126.14,1
+15464-UK,One time,United Kingdom,350,1048.85,1
+15465-UK,Regular,United Kingdom,1257,7354.62,18
+15466-UK,One time,United Kingdom,246,334.53,1
+15467-UK,Return,United Kingdom,310,524.88,3
+15468-UK,New,United Kingdom,155,467.51,2
+15469-UK,New,United Kingdom,153,538.55,2
+15471-UK,One time,United Kingdom,266,469.48,1
+15472-UK,One time,United Kingdom,251,371.56,1
+15473-UK,Return,United Kingdom,672,1771.2,7
+15475-UK,One time,United Kingdom,319,454.11,1
+15478-UK,New,United Kingdom,585,1441.42,2
+15480-MLTA,One time,Malta,303,905.5,1
+15482-UK,Return,United Kingdom,5020,11054.96,12
+15483-UK,Return,United Kingdom,295,233.81,4
+15484-UK,Regular,United Kingdom,3152,3594.31,4
+15485-UK,Return,United Kingdom,1306,2575,3
+15488-UK,One time,United Kingdom,73,91.32,1
+15489-UK,Return,United Kingdom,608,1134.28,3
+15491-UK,Regular,United Kingdom,1646,3100.09,6
+15492-UK,New,United Kingdom,483,659.46,2
+15493-UK,Return,United Kingdom,560,2001.8,5
+15494-UK,New,United Kingdom,1148,1299.23,2
+15497-UK,New,United Kingdom,624,1262.2,2
+15498-UK,Regular,United Kingdom,6105,13316.4,27
+15500-UK,Return,United Kingdom,572,1131.56,4
+15502-UK,Regular,United Kingdom,4236,10384.93,12
+15503-UK,One time,United Kingdom,74,147.09,1
+15504-UK,One time,United Kingdom,33,52.83,1
+15505-UK,Regular,United Kingdom,2390,3610.96,5
+15506-UK,Return,United Kingdom,848,979.26,3
+15507-UK,One time,United Kingdom,162,492.36,1
+15508-UK,Regular,United Kingdom,440,1000.27,6
+15510-UK,One time,United Kingdom,2,250,1
+15511-UK,Regular,United Kingdom,271,909.23,5
+15512-UK,New,United Kingdom,68,121,2
+15513-UK,Regular,United Kingdom,5709,14758.22,19
+15514-UK,Return,United Kingdom,2160,4139.46,11
+15516-UK,Return,United Kingdom,27,62.43,3
+15517-UK,One time,United Kingdom,293,267.03,1
+15518-UK,Return,United Kingdom,1273,1942.45,8
+15520-UK,One time,United Kingdom,314,343.5,1
+15521-UK,Regular,United Kingdom,1836,3000.2,8
+15522-UK,New,United Kingdom,573,398.84,2
+15523-UK,One time,United Kingdom,132,412.01,1
+15524-UK,One time,United Kingdom,4,440,1
+15525-UK,Return,United Kingdom,416,825.92,3
+15526-UK,New,United Kingdom,24,148.44,2
+15527-UK,Regular,United Kingdom,992,2429.78,8
+15528-UK,One time,United Kingdom,123,229.33,1
+15529-UK,Regular,United Kingdom,3496,3995.23,11
+15530-UK,Return,United Kingdom,950,1502.35,4
+15531-UK,New,United Kingdom,1105,2007.44,2
+15532-UK,Return,United Kingdom,521,1580.93,4
+15533-UK,Return,United Kingdom,289,807.57,3
+15535-UK,Return,United Kingdom,143,536.4,4
+15537-UK,One time,United Kingdom,29,110.92,1
+15539-UK,One time,United Kingdom,410,538.46,1
+15540-UK,One time,United Kingdom,200,213.3,1
+15541-UK,One time,United Kingdom,49,85.13,1
+15543-UK,One time,United Kingdom,86,127.86,1
+15544-UK,Regular,United Kingdom,3109,3546.71,9
+15545-UK,New,United Kingdom,163,292.72,2
+15547-UK,Regular,United Kingdom,4032,4954.84,14
+15549-UK,Return,United Kingdom,698,1693.26,3
+15550-UK,Return,United Kingdom,295,575.63,4
+15551-UK,One time,United Kingdom,218,436.06,1
+15552-UK,One time,United Kingdom,60,90.12,1
+15553-UK,One time,United Kingdom,451,437.23,1
+15554-UK,One time,United Kingdom,74,217.2,1
+15555-UK,Regular,United Kingdom,4439,4805.17,16
+15556-UK,One time,United Kingdom,236,279.77,1
+15557-UK,One time,United Kingdom,219,473.65,1
+15561-UK,Return,United Kingdom,267,800.59,4
+15562-UK,One time,United Kingdom,39,134.55,1
+15563-UK,Return,United Kingdom,1501,1400.44,4
+15565-UK,New,United Kingdom,60,173.16,2
+15567-UK,One time,United Kingdom,223,186.01,1
+15568-UK,Return,United Kingdom,461,758.29,3
+15569-UK,Return,United Kingdom,666,1375.71,5
+15570-UK,Regular,United Kingdom,2067,4165.52,12
+15571-UK,Return,United Kingdom,264,650.43,4
+15572-UK,Regular,United Kingdom,1229,2552.86,7
+15573-UK,New,United Kingdom,363,607.45,2
+15574-UK,Return,United Kingdom,349,702.25,4
+15576-UK,One time,United Kingdom,404,940.67,1
+15577-UK,Return,United Kingdom,89,258.88,3
+15578-UK,One time,United Kingdom,52,127.1,1
+15579-UK,New,United Kingdom,120,348.6,2
+15581-UK,Regular,United Kingdom,287,3679.97,13
+15582-UK,Return,United Kingdom,453,682.91,3
+15584-UK,Regular,United Kingdom,314,725.11,4
+15585-UK,One time,United Kingdom,320,455.3,1
+15587-UK,Return,United Kingdom,312,913.68,4
+15589-UK,Return,United Kingdom,243,478.53,3
+15592-UK,One time,United Kingdom,354,388.58,1
+15593-UK,One time,United Kingdom,60,199.8,1
+15594-UK,Return,United Kingdom,983,1771.78,5
+15596-UK,Return,United Kingdom,561,1406.59,5
+15597-UK,One time,United Kingdom,279,324.57,1
+15598-UK,One time,United Kingdom,160,240.68,1
+15599-UK,New,United Kingdom,718,761.74,2
+15601-UK,Regular,United Kingdom,4983,6776.56,14
+15602-UK,Regular,United Kingdom,1141,1297.87,9
+15603-UK,One time,United Kingdom,96,48.48,1
+15604-UK,One time,United Kingdom,159,216.39,1
+15605-UK,Return,United Kingdom,441,1198.23,5
+15606-UK,Regular,United Kingdom,892,2920.16,9
+15607-UK,One time,United Kingdom,202,104.76,1
+15608-UK,Return,United Kingdom,714,1093.68,4
+15609-UK,One time,United Kingdom,148,298.48,1
+15610-UK,One time,United Kingdom,66,112.46,1
+15611-UK,Regular,United Kingdom,504,1591.45,13
+15612-UK,New,United Kingdom,52,195.15,2
+15615-UK,Regular,United Kingdom,5508,10399.74,23
+15618-UK,Return,United Kingdom,454,776.85,4
+15619-UK,One time,United Kingdom,136,336.4,1
+15620-UK,Return,United Kingdom,915,1553.18,3
+15621-UK,Return,United Kingdom,501,1293.03,4
+15622-UK,Regular,United Kingdom,1674,3709.56,9
+15623-UK,One time,United Kingdom,125,301.03,1
+15624-UK,Return,United Kingdom,357,588.13,4
+15625-UK,Return,United Kingdom,1188,1534.26,4
+15626-UK,New,United Kingdom,766,675.8,2
+15628-UK,Regular,United Kingdom,1894,2870.24,9
+15630-UK,New,United Kingdom,800,1186.35,2
+15632-UK,Regular,United Kingdom,2109,3285.31,8
+15634-UK,One time,United Kingdom,99,243.55,1
+15636-UK,New,United Kingdom,284,724.76,2
+15637-UK,One time,United Kingdom,128,223.36,1
+15639-UK,One time,United Kingdom,323,425.32,1
+15640-UK,Regular,United Kingdom,6607,12515.66,15
+15641-UK,Return,United Kingdom,1562,1887.2,4
+15643-UK,Return,United Kingdom,246,664,3
+15644-UK,Return,United Kingdom,557,813,4
+15645-UK,One time,United Kingdom,256,612.01,1
+15646-UK,Return,United Kingdom,394,447.64,3
+15648-UK,New,United Kingdom,221,657.35,2
+15649-UK,New,United Kingdom,192,816,2
+15651-UK,Return,United Kingdom,479,646.3,3
+15652-UK,One time,United Kingdom,208,337.74,1
+15653-UK,New,United Kingdom,1200,877.44,2
+15654-UK,New,United Kingdom,475,922.53,2
+15655-UK,One time,United Kingdom,324,560.67,1
+15656-UK,Return,United Kingdom,343,748.5,4
+15657-UK,One time,United Kingdom,24,30,1
+15658-UK,Regular,United Kingdom,242,1024.1,5
+15659-UK,One time,United Kingdom,111,306.45,1
+15660-UK,Return,United Kingdom,1050,1600.86,9
+15661-UK,New,United Kingdom,236,309.8,2
+15663-UK,One time,United Kingdom,106,138.14,1
+15664-UK,One time,United Kingdom,157,386.43,1
+15665-UK,New,United Kingdom,1666,2242.01,2
+15667-UK,One time,United Kingdom,240,301.32,1
+15668-UK,One time,United Kingdom,72,76.32,1
+15669-UK,Return,United Kingdom,342,684.34,4
+15670-UK,One time,United Kingdom,91,173.05,1
+15671-UK,Regular,United Kingdom,1699,2657.13,7
+15673-UK,Return,United Kingdom,1514,2881.02,4
+15674-UK,Regular,United Kingdom,1275,2446.6,5
+15675-UK,Return,United Kingdom,527,323.69,3
+15676-UK,Return,United Kingdom,2252,3435.76,3
+15677-UK,One time,United Kingdom,319,657.23,1
+15678-UK,One time,United Kingdom,184,352.7,1
+15679-UK,Return,United Kingdom,1170,781.28,4
+15680-UK,Return,United Kingdom,952,1333.68,3
+15681-UK,Return,United Kingdom,816,1426.16,5
+15683-UK,One time,United Kingdom,131,193.75,1
+15687-UK,Regular,United Kingdom,1310,2993.1,9
+15689-UK,New,United Kingdom,84,254.1,2
+15690-UK,New,United Kingdom,408,239.76,2
+15691-UK,One time,United Kingdom,72,136.8,1
+15692-UK,One time,United Kingdom,138,191.04,1
+15694-UK,Regular,United Kingdom,1677,6479.4,14
+15695-UK,New,United Kingdom,212,409.98,2
+15696-UK,Return,United Kingdom,1028,2736.46,8
+15699-UK,One time,United Kingdom,113,309.65,1
+15700-UK,New,United Kingdom,357,696.68,2
+15701-UK,Regular,United Kingdom,923,1542.14,4
+15703-UK,One time,United Kingdom,66,211.5,1
+15704-UK,Regular,United Kingdom,1028,2293.62,4
+15705-UK,One time,United Kingdom,62,143.1,1
+15706-UK,Regular,United Kingdom,321,1060.56,4
+15707-UK,Regular,United Kingdom,605,945.58,4
+15708-UK,Regular,United Kingdom,1267,3364.24,7
+15709-UK,One time,United Kingdom,121,133.25,1
+15712-UK,Return,United Kingdom,486,1072.36,5
+15713-UK,New,United Kingdom,150,356.7,2
+15714-UK,New,United Kingdom,187,330.88,2
+15716-UK,Return,United Kingdom,744,1118.81,4
+15717-UK,One time,United Kingdom,70,150.3,1
+15719-UK,Regular,United Kingdom,2725,5045.61,13
+15720-UK,One time,United Kingdom,281,598.73,1
+15721-UK,One time,United Kingdom,409,507.08,1
+15722-UK,Return,United Kingdom,1026,2222.56,5
+15723-UK,One time,United Kingdom,87,203.1,1
+15724-UK,New,United Kingdom,73,218.25,2
+15725-UK,One time,United Kingdom,221,415.25,1
+15727-UK,Regular,United Kingdom,3065,5178.96,7
+15729-UK,One time,United Kingdom,28,85,1
+15730-UK,Return,United Kingdom,689,1120.88,3
+15732-UK,New,United Kingdom,215,294.12,2
+15733-UK,One time,United Kingdom,62,162.3,1
+15734-UK,New,United Kingdom,346,1339.45,2
+15737-UK,Return,United Kingdom,599,1205.12,8
+15738-UK,Regular,United Kingdom,2982,4812.42,16
+15739-UK,One time,United Kingdom,472,449.12,1
+15740-UK,One time,United Kingdom,152,154.88,1
+15743-UK,Return,United Kingdom,216,784.46,4
+15744-UK,One time,United Kingdom,120,34.8,1
+15745-UK,Return,United Kingdom,421,1094.59,4
+15746-UK,One time,United Kingdom,178,196.88,1
+15747-UK,Return,United Kingdom,480,974.04,3
+15748-UK,One time,United Kingdom,51,149.31,1
+15749-UK,Return,United Kingdom,18028,44534.3,3
+15750-UK,Return,United Kingdom,1786,2465.48,8
+15752-UK,Regular,United Kingdom,1978,2637.38,7
+15753-UK,One time,United Kingdom,144,79.2,1
+15754-UK,Return,United Kingdom,199,458.57,3
+15755-UK,Return,United Kingdom,1427,2364.25,6
+15756-UK,Return,United Kingdom,242,532.96,4
+15757-UK,New,United Kingdom,491,714.42,2
+15758-UK,One time,United Kingdom,47,205.25,1
+15759-UK,Return,United Kingdom,60,253.04,3
+15762-UK,New,United Kingdom,251,583.75,2
+15763-UK,New,United Kingdom,271,1086.92,2
+15764-UK,Return,United Kingdom,2050,3279.97,6
+15766-UK,One time,United Kingdom,170,315.06,1
+15768-UK,Return,United Kingdom,244,621.83,3
+15769-UK,Regular,United Kingdom,29672,56252.72,26
+15773-UK,One time,United Kingdom,311,635.68,1
+15774-UK,One time,United Kingdom,87,270.8,1
+15775-UK,One time,United Kingdom,68,104.9,1
+15776-UK,One time,United Kingdom,138,241.62,1
+15777-UK,Return,United Kingdom,378,1047.11,4
+15780-UK,Return,United Kingdom,220,475.28,3
+15781-UK,Return,United Kingdom,180,345.46,3
+15782-UK,Regular,United Kingdom,864,2614.74,3
+15783-UK,One time,United Kingdom,212,246.3,1
+15785-UK,Return,United Kingdom,1612,2328.97,5
+15786-UK,Return,United Kingdom,3364,4932.2,3
+15787-UK,Return,United Kingdom,540,948.05,3
+15789-UK,One time,United Kingdom,438,351.3,1
+15790-UK,One time,United Kingdom,114,220.85,1
+15791-UK,New,United Kingdom,731,1612.69,2
+15793-UK,Return,United Kingdom,553,965.61,3
+15795-UK,One time,United Kingdom,581,610.01,1
+15796-UK,Regular,United Kingdom,861,2711.56,8
+15797-UK,Return,United Kingdom,873,2207.4,4
+15799-UK,Return,United Kingdom,955,884.14,3
+15800-UK,New,United Kingdom,335,699.08,2
+15801-UK,Return,United Kingdom,570,1063.95,3
+15802-UK,One time,United Kingdom,1,451.42,1
+15803-UK,One time,United Kingdom,290,415.82,1
+15804-UK,Regular,United Kingdom,2567,4206.39,13
+15805-UK,Regular,United Kingdom,3387,5528.48,17
+15806-UK,Return,United Kingdom,602,784.58,3
+15807-UK,Return,United Kingdom,430,903.9,3
+15808-UK,Regular,United Kingdom,1343,3734.97,4
+15809-UK,Regular,United Kingdom,301,515.77,5
+15810-UK,Return,United Kingdom,861,1391.98,4
+15811-UK,Return,United Kingdom,1071,2218.62,6
+15812-UK,Regular,United Kingdom,922,1801.14,5
+15813-UK,New,United Kingdom,603,1303.91,2
+15814-UK,Return,United Kingdom,1271,1945.33,4
+15815-UK,Regular,United Kingdom,1856,2100.6,5
+15819-UK,Return,United Kingdom,1357,1905.45,4
+15820-UK,One time,United Kingdom,128,206.98,1
+15821-UK,New,United Kingdom,202,570.96,2
+15822-UK,New,United Kingdom,375,885.47,2
+15823-UK,One time,United Kingdom,1,15,1
+15825-UK,One time,United Kingdom,220,532.94,1
+15826-UK,Return,United Kingdom,963,1654.31,3
+15827-UK,Regular,United Kingdom,882,1836.09,14
+15829-UK,New,United Kingdom,996,636.14,2
+15830-UK,One time,United Kingdom,415,576,1
+15831-UK,Return,United Kingdom,1105,801.76,3
+15832-UK,One time,United Kingdom,465,836.79,1
+15834-UK,Return,United Kingdom,965,2233.75,4
+15835-UK,Return,United Kingdom,439,954.09,4
+15836-UK,One time,United Kingdom,26,137.37,1
+15837-UK,One time,United Kingdom,189,391.98,1
+15838-UK,Regular,United Kingdom,18368,33643.08,19
+15839-UK,Return,United Kingdom,675,1048.49,3
+15840-UK,New,United Kingdom,396,355.56,2
+15841-UK,Return,United Kingdom,942,1224.06,4
+15843-UK,One time,United Kingdom,27,118.95,1
+15844-UK,One time,United Kingdom,134,130.74,1
+15845-UK,Regular,United Kingdom,1926,3711.77,8
+15847-UK,New,United Kingdom,449,389.27,2
+15850-UK,New,United Kingdom,302,238.85,2
+15852-UK,New,United Kingdom,48,160.71,2
+15853-UK,One time,United Kingdom,135,110.8,1
+15854-UK,Regular,United Kingdom,939,2974.65,12
+15855-UK,Regular,United Kingdom,470,712.24,5
+15856-UK,Regular,United Kingdom,11005,16387.57,27
+15857-UK,One time,United Kingdom,308,297,1
+15858-UK,Regular,United Kingdom,1167,1438.85,5
+15860-UK,Regular,United Kingdom,440,977.21,8
+15861-UK,Return,United Kingdom,2544,3165.36,8
+15862-UK,Return,United Kingdom,585,832.88,4
+15863-UK,New,United Kingdom,19,68.84,2
+15864-UK,Regular,United Kingdom,1192,1936.32,6
+15865-UK,Return,United Kingdom,368,895.13,3
+15866-UK,One time,United Kingdom,126,230.53,1
+15867-UK,Regular,United Kingdom,2054,3812.64,15
+15869-UK,New,United Kingdom,175,149.64,2
+15870-UK,One time,United Kingdom,335,354.09,1
+15872-UK,New,United Kingdom,212,360.93,2
+15874-UK,Regular,United Kingdom,2534,4405.88,7
+15877-UK,New,United Kingdom,371,493.28,2
+15880-UK,One time,United Kingdom,211,343.28,1
+15881-UK,Return,United Kingdom,260,501.39,5
+15882-UK,Return,United Kingdom,276,516.36,4
+15883-UK,New,United Kingdom,223,396.48,2
+15885-UK,Return,United Kingdom,111,379.35,3
+15886-UK,One time,United Kingdom,147,181.09,1
+15888-UK,One time,United Kingdom,76,168.31,1
+15889-UK,New,United Kingdom,215,446.87,2
+15891-UK,One time,United Kingdom,442,524.52,1
+15894-UK,New,United Kingdom,168,263.55,2
+15895-UK,One time,United Kingdom,94,179.17,1
+15897-UK,New,United Kingdom,261,222.05,2
+15898-UK,Return,United Kingdom,570,1388.88,5
+15899-UK,One time,United Kingdom,39,56.25,1
+15900-UK,One time,United Kingdom,221,351.11,1
+15901-UK,Return,United Kingdom,384,363.88,3
+15903-UK,Return,United Kingdom,2410,5126.76,7
+15904-UK,One time,United Kingdom,84,164.68,1
+15906-UK,Return,United Kingdom,544,1567.69,7
+15907-UK,Return,United Kingdom,509,967.45,3
+15909-UK,One time,United Kingdom,98,191.94,1
+15910-UK,Regular,United Kingdom,1015,1232.18,8
+15912-UK,New,United Kingdom,185,264.62,2
+15916-UK,Return,United Kingdom,757,1528.09,8
+15917-UK,One time,United Kingdom,42,123.1,1
+15918-UK,New,United Kingdom,153,334.23,2
+15919-UK,New,United Kingdom,545,639.89,2
+15920-UK,Return,United Kingdom,99,167.5,4
+15921-UK,One time,United Kingdom,166,336.03,1
+15922-UK,One time,United Kingdom,138,369.5,1
+15923-UK,One time,United Kingdom,122,127.08,1
+15925-UK,One time,United Kingdom,93,207.15,1
+15930-UK,One time,United Kingdom,139,426.63,1
+15932-UK,Regular,United Kingdom,2325,2495.87,8
+15933-UK,Return,United Kingdom,885,1107.46,3
+15935-UK,New,United Kingdom,115,416.86,2
+15937-UK,One time,United Kingdom,73,145.35,1
+15938-UK,Regular,United Kingdom,240,404.58,5
+15939-UK,Regular,United Kingdom,4728,6115.01,15
+15940-UK,One time,United Kingdom,4,35.8,1
+15942-UK,One time,United Kingdom,232,337.44,1
+15944-UK,One time,United Kingdom,50,325.1,1
+15945-UK,One time,United Kingdom,52,181,1
+15947-UK,One time,United Kingdom,898,1708.24,1
+15948-UK,New,United Kingdom,567,955.24,2
+15949-UK,New,United Kingdom,284,364.72,2
+15950-UK,Return,United Kingdom,729,1765.51,4
+15951-UK,New,United Kingdom,313,708.22,2
+15952-UK,Return,United Kingdom,399,806.57,4
+15953-UK,Regular,United Kingdom,892,1659.38,8
+15955-UK,Regular,United Kingdom,2135,4416.26,14
+15957-UK,One time,United Kingdom,211,428.89,1
+15958-UK,One time,United Kingdom,33,104.35,1
+15963-UK,New,United Kingdom,298,470.76,2
+15965-UK,Return,United Kingdom,453,845.64,4
+15967-UK,New,United Kingdom,211,418.83,2
+15969-UK,Return,United Kingdom,124,666.1,3
+15970-UK,One time,United Kingdom,116,314.1,1
+15971-UK,Regular,United Kingdom,1717,4199.85,12
+15973-UK,One time,United Kingdom,106,307.82,1
+15974-UK,Regular,United Kingdom,2262,3442.15,7
+15975-UK,One time,United Kingdom,243,371.01,1
+15976-UK,New,United Kingdom,277,430.94,2
+15977-UK,New,United Kingdom,1016,1054.73,2
+15978-UK,One time,United Kingdom,888,1098.78,1
+15980-UK,Return,United Kingdom,1560,2398.86,3
+15981-UK,Regular,United Kingdom,1866,3408.48,8
+15983-UK,Return,United Kingdom,892,1475.02,4
+15984-UK,Regular,United Kingdom,1843,2837.67,10
+15985-UK,New,United Kingdom,1086,1142.42,2
+15986-UK,One time,United Kingdom,268,168.12,1
+15987-UK,Return,United Kingdom,1556,1451.28,7
+15988-UK,One time,United Kingdom,181,158.03,1
+15990-UK,New,United Kingdom,443,792.11,2
+15992-UK,One time,United Kingdom,17,41.99,1
+15993-UK,Regular,United Kingdom,2051,2797.57,7
+15994-UK,One time,United Kingdom,177,427.07,1
+15996-UK,Regular,United Kingdom,384,1060.68,6
+15998-UK,Return,United Kingdom,2041,3089.97,5
+16000-UK,Return,United Kingdom,5110,12393.7,3
+16003-UK,Return,United Kingdom,1185,2735.37,5
+16005-UK,Return,United Kingdom,300,615.39,4
+16006-UK,One time,United Kingdom,84,101.4,1
+16007-UK,Return,United Kingdom,1393,1701.94,4
+16008-UK,Return,United Kingdom,323,478.78,3
+16009-UK,Return,United Kingdom,378,992.71,4
+16010-UK,Return,United Kingdom,210,407.5,3
+16011-UK,Regular,United Kingdom,2042,3362.71,16
+16012-UK,Return,United Kingdom,799,1415.29,3
+16013-UK,Regular,United Kingdom,15536,37130.6,47
+16014-UK,Return,United Kingdom,265,662.38,3
+16015-UK,Regular,United Kingdom,909,705.39,3
+16016-UK,Regular,United Kingdom,620,1508.76,8
+16017-UK,One time,United Kingdom,102,211.88,1
+16018-UK,New,United Kingdom,190,408.9,2
+16019-UK,Regular,United Kingdom,1733,3786.24,9
+16020-UK,Return,United Kingdom,487,851.01,3
+16022-UK,One time,United Kingdom,261,628.28,1
+16023-UK,Return,United Kingdom,358,719.81,3
+16024-UK,One time,United Kingdom,398,251.24,1
+16025-UK,One time,United Kingdom,338,439.66,1
+16026-UK,One time,United Kingdom,243,236.09,1
+16027-UK,Regular,United Kingdom,1147,934.62,6
+16029-UK,Regular,United Kingdom,40208,81024.84,63
+16030-UK,One time,United Kingdom,283,331.24,1
+16031-UK,New,United Kingdom,423,548.94,2
+16033-UK,Regular,United Kingdom,3539,8816.4,20
+16034-UK,Return,United Kingdom,242,437.7,3
+16036-UK,New,United Kingdom,716,758.92,2
+16037-UK,Return,United Kingdom,428,855.02,3
+16038-UK,Return,United Kingdom,244,471.78,3
+16040-UK,Return,United Kingdom,684,1313.55,3
+16041-UK,Return,United Kingdom,1584,3166.4,3
+16042-UK,Return,United Kingdom,755,1197.27,5
+16043-UK,Return,United Kingdom,503,773.99,4
+16045-UK,Return,United Kingdom,897,1340.7,4
+16048-UK,New,United Kingdom,144,256.44,2
+16049-UK,Return,United Kingdom,793,1111.79,3
+16050-UK,One time,United Kingdom,278,137.9,1
+16052-UK,One time,United Kingdom,282,362.06,1
+16053-UK,New,United Kingdom,1793,1511.95,2
+16054-UK,One time,United Kingdom,380,783.9,1
+16055-UK,One time,United Kingdom,22,134.8,1
+16056-UK,One time,United Kingdom,347,664.85,1
+16057-UK,Return,United Kingdom,863,2263.12,7
+16059-UK,Regular,United Kingdom,643,1459.86,6
+16062-UK,Return,United Kingdom,800,1153.62,4
+16063-UK,One time,United Kingdom,262,335.32,1
+16065-UK,One time,United Kingdom,231,372.09,1
+16066-UK,Return,United Kingdom,936,1521.87,5
+16070-UK,New,United Kingdom,457,852.15,2
+16071-UK,One time,United Kingdom,180,326.24,1
+16072-UK,One time,United Kingdom,140,584.32,1
+16073-UK,One time,United Kingdom,48,122.4,1
+16076-UK,Regular,United Kingdom,1435,2234.73,10
+16078-UK,One time,United Kingdom,16,79.2,1
+16079-UK,Return,United Kingdom,864,1352,3
+16080-UK,New,United Kingdom,128,217.16,2
+16081-UK,Return,United Kingdom,1477,2806.9,5
+16083-UK,New,United Kingdom,908,1317.62,2
+16084-UK,One time,United Kingdom,216,436.18,1
+16085-UK,Regular,United Kingdom,636,981.51,5
+16086-UK,Return,United Kingdom,511,1121.39,5
+16091-UK,New,United Kingdom,154,315.06,2
+16092-UK,Return,United Kingdom,628,817.86,3
+16093-UK,One time,United Kingdom,20,17,1
+16094-UK,Return,United Kingdom,647,1078.23,4
+16096-UK,One time,United Kingdom,155,320.62,1
+16097-UK,One time,United Kingdom,87,185.05,1
+16098-UK,Regular,United Kingdom,613,2005.63,7
+16099-UK,Return,United Kingdom,434,731.9,3
+16101-UK,One time,United Kingdom,757,1290.7,1
+16102-UK,Regular,United Kingdom,942,1842.14,3
+16103-UK,Return,United Kingdom,558,1429.64,6
+16104-UK,One time,United Kingdom,123,302.36,1
+16105-UK,One time,United Kingdom,330,336.96,1
+16106-UK,One time,United Kingdom,74,108.38,1
+16107-UK,Regular,United Kingdom,1176,3204.16,7
+16108-UK,One time,United Kingdom,615,842.5,1
+16109-UK,New,United Kingdom,612,611.88,2
+16110-UK,Return,United Kingdom,733,1337.48,3
+16112-UK,Return,United Kingdom,574,195.74,4
+16113-UK,One time,United Kingdom,176,161.38,1
+16114-UK,One time,United Kingdom,43,135.75,1
+16115-UK,Regular,United Kingdom,1001,1667.97,8
+16116-UK,One time,United Kingdom,248,612.78,1
+16117-UK,One time,United Kingdom,130,232.21,1
+16119-UK,New,United Kingdom,240,423.36,2
+16120-UK,Return,United Kingdom,878,1309.14,4
+16121-UK,New,United Kingdom,586,867.11,2
+16122-UK,Regular,United Kingdom,1128,684.42,4
+16123-UK,One time,United Kingdom,170,307.78,1
+16124-UK,One time,United Kingdom,48,249,1
+16125-UK,One time,United Kingdom,124,289.35,1
+16126-UK,Return,United Kingdom,2125,6287.77,4
+16127-UK,One time,United Kingdom,323,656.25,1
+16128-UK,Return,United Kingdom,988,1880.22,5
+16131-UK,Return,United Kingdom,1802,3506.54,6
+16133-UK,Regular,United Kingdom,8888,14589.04,33
+16134-UK,New,United Kingdom,371,618.09,2
+16135-UK,One time,United Kingdom,209,517.55,1
+16136-UK,Return,United Kingdom,440,709.38,3
+16139-UK,Return,United Kingdom,330,635.41,3
+16140-UK,New,United Kingdom,730,725.18,2
+16141-UK,One time,United Kingdom,238,620.4,1
+16142-UK,One time,United Kingdom,422,535.34,1
+16143-UK,Return,United Kingdom,919,2424.94,6
+16144-UK,One time,United Kingdom,16,175.2,1
+16145-UK,Regular,United Kingdom,3123,3799.49,11
+16146-UK,Return,United Kingdom,427,734.13,3
+16147-UK,One time,United Kingdom,246,375,1
+16148-UK,One time,United Kingdom,72,76.32,1
+16149-UK,New,United Kingdom,308,280.52,2
+16150-UK,Regular,United Kingdom,1047,2053.02,5
+16152-UK,One time,United Kingdom,642,1829.04,1
+16153-UK,Return,United Kingdom,1073,1824.23,5
+16156-UK,Regular,United Kingdom,1308,3122.04,9
+16157-UK,Return,United Kingdom,347,656.69,3
+16159-UK,One time,United Kingdom,236,348.2,1
+16160-UK,New,United Kingdom,1162,1025.44,2
+16161-UK,Regular,United Kingdom,2599,5575.56,19
+16162-UK,One time,United Kingdom,4,37.4,1
+16163-UK,New,United Kingdom,192,856.6,2
+16164-UK,Return,United Kingdom,433,822.48,3
+16168-UK,Regular,United Kingdom,1892,3787.6,27
+16169-UK,Regular,United Kingdom,1325,1822.97,4
+16170-UK,Regular,United Kingdom,1770,1885.05,6
+16171-UK,One time,United Kingdom,24,73.2,1
+16172-UK,Return,United Kingdom,787,1140.21,5
+16173-UK,Regular,United Kingdom,575,1418.32,6
+16174-UK,Return,United Kingdom,651,1009.55,3
+16175-UK,Regular,United Kingdom,533,1037.59,4
+16177-UK,One time,United Kingdom,95,331.95,1
+16178-UK,One time,United Kingdom,94,197.9,1
+16179-UK,One time,United Kingdom,99,215.83,1
+16180-UK,Regular,United Kingdom,5867,10254.18,8
+16181-UK,One time,United Kingdom,152,305.54,1
+16182-UK,Return,United Kingdom,3791,6617.65,4
+16183-UK,One time,United Kingdom,113,338.71,1
+16184-UK,Regular,United Kingdom,561,1158.79,6
+16185-UK,New,United Kingdom,260,529.41,2
+16186-UK,Regular,United Kingdom,3020,4006.94,12
+16187-UK,Regular,United Kingdom,5048,6911.44,15
+16188-UK,Return,United Kingdom,782,981.86,4
+16189-UK,New,United Kingdom,134,215.48,2
+16190-UK,One time,United Kingdom,88,215.08,1
+16191-UK,Regular,United Kingdom,3351,5180.52,13
+16193-UK,One time,United Kingdom,219,314.45,1
+16198-UK,One time,United Kingdom,129,400.68,1
+16200-UK,New,United Kingdom,523,1080.62,2
+16201-UK,Regular,United Kingdom,1286,1863.47,4
+16202-UK,One time,United Kingdom,191,365.27,1
+16203-UK,Return,United Kingdom,262,592.9,4
+16204-UK,One time,United Kingdom,231,405.71,1
+16205-UK,Return,United Kingdom,517,761.38,4
+16206-UK,Return,United Kingdom,272,537.06,4
+16207-UK,One time,United Kingdom,140,394.38,1
+16208-UK,New,United Kingdom,333,664.26,2
+16209-UK,Return,United Kingdom,1179,2262.62,5
+16210-UK,Regular,United Kingdom,7559,21086.3,18
+16211-UK,One time,United Kingdom,154,547.02,1
+16212-UK,New,United Kingdom,244,690.34,2
+16213-UK,One time,United Kingdom,48,159,1
+16214-UK,Return,United Kingdom,420,1062.75,3
+16215-UK,One time,United Kingdom,104,242.35,1
+16216-UK,One time,United Kingdom,254,914.93,1
+16217-UK,New,United Kingdom,91,304.25,2
+16218-UK,Return,United Kingdom,2088,3084.68,7
+16221-UK,Return,United Kingdom,717,864.86,3
+16222-UK,One time,United Kingdom,365,846.72,1
+16224-UK,Return,United Kingdom,1116,1295.3,4
+16225-UK,Return,United Kingdom,493,1096.32,5
+16226-UK,Return,United Kingdom,192,255.12,3
+16227-UK,One time,United Kingdom,90,314.22,1
+16229-UK,New,United Kingdom,318,1010.6,2
+16230-UK,New,United Kingdom,365,542.03,2
+16232-UK,Return,United Kingdom,550,990.88,4
+16233-UK,Return,United Kingdom,174,536.68,3
+16235-UK,Regular,United Kingdom,330,867.31,5
+16236-UK,One time,United Kingdom,184,432.2,1
+16239-UK,New,United Kingdom,228,414.2,2
+16240-UK,New,United Kingdom,1641,3718.8,2
+16241-UK,Regular,United Kingdom,1453,2607.87,13
+16242-UK,Regular,United Kingdom,1982,3603.21,7
+16243-UK,New,United Kingdom,110,409.1,2
+16244-UK,New,United Kingdom,855,1522.75,2
+16245-UK,Return,United Kingdom,1014,1413.66,3
+16247-UK,One time,United Kingdom,182,114.56,1
+16248-UK,One time,United Kingdom,78,152.94,1
+16249-UK,Regular,United Kingdom,950,1800.07,5
+16250-UK,New,United Kingdom,208,389.44,2
+16253-UK,New,United Kingdom,3233,3683.86,2
+16255-UK,Regular,United Kingdom,1767,2619.91,8
+16256-UK,One time,United Kingdom,581,752.43,1
+16257-UK,One time,United Kingdom,2,46.95,1
+16258-UK,Regular,United Kingdom,2994,5203.51,5
+16260-UK,One time,United Kingdom,311,1035.45,1
+16261-UK,Return,United Kingdom,306,746.83,4
+16265-UK,Regular,United Kingdom,2646,5447,9
+16266-UK,Regular,United Kingdom,398,861.89,7
+16268-UK,New,United Kingdom,533,667.65,2
+16270-UK,One time,United Kingdom,688,1141.24,1
+16271-UK,Regular,United Kingdom,1038,1429.24,5
+16272-UK,One time,United Kingdom,224,411.7,1
+16274-UK,One time,United Kingdom,155,357.95,1
+16275-UK,One time,United Kingdom,336,559.87,1
+16276-UK,One time,United Kingdom,420,810.6,1
+16278-UK,One time,United Kingdom,114,566.38,1
+16279-UK,Return,United Kingdom,1054,1509.58,3
+16281-UK,One time,United Kingdom,934,2062.06,1
+16282-UK,One time,United Kingdom,114,168.3,1
+16283-UK,Return,United Kingdom,1236,1570.81,5
+16284-UK,New,United Kingdom,544,823.97,2
+16287-UK,One time,United Kingdom,298,142.5,1
+16292-UK,One time,United Kingdom,191,302.25,1
+16293-UK,Regular,United Kingdom,982,2248.99,10
+16295-UK,Return,United Kingdom,841,1328.55,4
+16297-UK,One time,United Kingdom,206,301.9,1
+16298-UK,Return,United Kingdom,198,598.2,3
+16302-UK,One time,United Kingdom,158,233.22,1
+16303-UK,Return,United Kingdom,2659,5360.63,3
+16305-UK,One time,United Kingdom,256,361.22,1
+16306-UK,Regular,United Kingdom,487,632.27,6
+16308-UK,Return,United Kingdom,8000,2560,4
+16309-UK,New,United Kingdom,467,706.57,2
+16311-UK,New,United Kingdom,394,616.26,2
+16313-UK,New,United Kingdom,165,274.15,2
+16315-UK,One time,United Kingdom,75,226.37,1
+16316-UK,Regular,United Kingdom,1484,2938.91,8
+16317-UK,Return,United Kingdom,890,1341.65,3
+16318-UK,One time,United Kingdom,199,328.15,1
+16319-UK,One time,United Kingdom,72,404.4,1
+16321-AUS,Return,Australia,135,373.65,5
+16322-UK,New,United Kingdom,231,326.75,2
+16323-UK,One time,United Kingdom,50,207.5,1
+16324-UK,Return,United Kingdom,282,428.68,3
+16325-UK,Return,United Kingdom,194,594.24,3
+16326-UK,Regular,United Kingdom,709,3110.96,14
+16327-UK,Return,United Kingdom,2571,3844.22,6
+16330-UK,Return,United Kingdom,147,251.91,3
+16332-UK,Regular,United Kingdom,801,1593.2,7
+16333-UK,Regular,United Kingdom,32184,26626.8,22
+16337-UK,One time,United Kingdom,87,151.05,1
+16338-UK,One time,United Kingdom,94,214.8,1
+16339-UK,One time,United Kingdom,23,109.95,1
+16340-UK,One time,United Kingdom,501,549.07,1
+16341-UK,Return,United Kingdom,1398,1971.87,4
+16342-UK,Regular,United Kingdom,157,322.41,4
+16343-UK,New,United Kingdom,195,370.48,2
+16344-UK,One time,United Kingdom,18,101.1,1
+16345-UK,One time,United Kingdom,289,575.41,1
+16347-UK,New,United Kingdom,353,887.65,2
+16348-UK,Return,United Kingdom,819,1469.45,7
+16349-UK,One time,United Kingdom,9,53.5,1
+16350-UK,Regular,United Kingdom,545,1116.47,4
+16351-UK,One time,United Kingdom,90,153.9,1
+16352-UK,New,United Kingdom,300,494.44,2
+16353-UK,Regular,United Kingdom,2006,6675.71,23
+16354-UK,New,United Kingdom,150,395.8,2
+16356-UK,Regular,United Kingdom,93,211.77,3
+16357-UK,Return,United Kingdom,246,658.88,3
+16358-UK,Return,United Kingdom,1302,2027.5,4
+16359-UK,Regular,United Kingdom,1183,1750.92,9
+16360-UK,Regular,United Kingdom,2144,3512.53,6
+16361-UK,Regular,United Kingdom,421,896.66,4
+16362-UK,Regular,United Kingdom,351,734.77,5
+16363-UK,One time,United Kingdom,52,109.36,1
+16364-UK,New,United Kingdom,280,707.04,2
+16365-UK,Return,United Kingdom,504,1540.42,9
+16366-UK,One time,United Kingdom,256,327.3,1
+16367-UK,New,United Kingdom,647,804.49,2
+16368-UK,New,United Kingdom,260,497.43,2
+16369-UK,Return,United Kingdom,1035,1553.66,3
+16370-UK,Return,United Kingdom,647,1320.56,4
+16372-UK,New,United Kingdom,166,367.93,2
+16374-UK,New,United Kingdom,240,473.03,2
+16376-UK,New,United Kingdom,694,987.01,2
+16377-UK,One time,United Kingdom,1500,676.2,1
+16378-UK,Return,United Kingdom,267,362.95,3
+16379-UK,Return,United Kingdom,1410,2157.4,4
+16380-UK,One time,United Kingdom,1524,1780.59,1
+16383-UK,New,United Kingdom,475,668.36,2
+16384-UK,New,United Kingdom,260,584.5,2
+16385-UK,Return,United Kingdom,261,555.89,3
+16386-UK,New,United Kingdom,224,317.2,2
+16387-UK,One time,United Kingdom,44,94.36,1
+16389-UK,Return,United Kingdom,1242,1382.07,4
+16392-UK,One time,United Kingdom,203,221.19,1
+16393-UK,Regular,United Kingdom,1576,3046.21,13
+16394-UK,Return,United Kingdom,2604,1555.34,5
+16395-UK,Return,United Kingdom,1476,1486.9,5
+16398-UK,New,United Kingdom,758,1705.8,2
+16399-UK,New,United Kingdom,264,408.57,2
+16400-UK,One time,United Kingdom,172,303.93,1
+16401-UK,Regular,United Kingdom,3882,4098.32,12
+16402-UK,New,United Kingdom,149,299.6,2
+16403-UK,One time,United Kingdom,114,177.5,1
+16404-UK,One time,United Kingdom,157,443.05,1
+16405-UK,New,United Kingdom,187,167.25,2
+16406-UK,One time,United Kingdom,123,163.07,1
+16407-UK,Regular,United Kingdom,1124,2126.93,10
+16409-UK,Return,United Kingdom,1306,2028.88,5
+16411-UK,New,United Kingdom,132,214.65,2
+16412-UK,One time,United Kingdom,73,151.83,1
+16413-UK,One time,United Kingdom,148,262.2,1
+16414-UK,New,United Kingdom,27,126.25,2
+16415-UK,One time,United Kingdom,187,210.35,1
+16416-UK,Return,United Kingdom,672,1051.4,3
+16418-UK,Return,United Kingdom,288,675.27,3
+16419-UK,Return,United Kingdom,436,972.23,6
+16422-UK,Regular,United Kingdom,33704,34684.4,51
+16423-UK,One time,United Kingdom,230,346.12,1
+16424-UK,One time,United Kingdom,88,133.56,1
+16425-UK,One time,United Kingdom,199,302.7,1
+16426-UK,Regular,United Kingdom,1243,1908.25,10
+16427-UK,New,United Kingdom,156,241.06,2
+16429-UK,One time,United Kingdom,9,284.55,1
+16430-UK,One time,United Kingdom,103,300.85,1
+16431-UK,Return,United Kingdom,453,642.81,3
+16432-UK,One time,United Kingdom,276,287.4,1
+16433-UK,One time,United Kingdom,106,184.26,1
+16434-UK,Regular,United Kingdom,767,1522.25,7
+16438-UK,Regular,United Kingdom,463,798.35,5
+16440-UK,Regular,United Kingdom,2018,3640.67,5
+16441-UK,New,United Kingdom,173,381.2,2
+16442-UK,Return,United Kingdom,446,616.79,3
+16444-UK,Return,United Kingdom,407,654.67,4
+16445-UK,One time,United Kingdom,111,230.51,1
+16446-UK,New,United Kingdom,80997,168472.49,2
+16447-UK,One time,United Kingdom,223,259.01,1
+16448-UK,One time,United Kingdom,78,188.89,1
+16449-UK,New,United Kingdom,367,707.69,2
+16450-UK,One time,United Kingdom,200,311.92,1
+16451-UK,One time,United Kingdom,120,266.97,1
+16454-UK,New,United Kingdom,3,6.9,2
+16455-UK,Return,United Kingdom,988,1841.18,7
+16456-UK,Return,United Kingdom,1148,2158.37,5
+16457-UK,One time,United Kingdom,140,208.36,1
+16458-UK,Regular,United Kingdom,2154,3482.74,18
+16460-UK,Return,United Kingdom,879,814.72,3
+16461-UK,One time,United Kingdom,49,151.42,1
+16462-UK,Return,United Kingdom,16,136,3
+16463-UK,Return,United Kingdom,1163,1422.4,4
+16464-UK,Return,United Kingdom,963,1314.68,3
+16466-UK,Regular,United Kingdom,789,1603.46,7
+16468-UK,One time,United Kingdom,31,74.9,1
+16469-UK,Return,United Kingdom,273,650.43,4
+16470-UK,Return,United Kingdom,531,762.39,4
+16471-UK,One time,United Kingdom,141,223.95,1
+16473-UK,Return,United Kingdom,196,316.11,3
+16474-UK,Regular,United Kingdom,943,1871.5,7
+16475-UK,Return,United Kingdom,319,544.3,4
+16477-UK,Return,United Kingdom,1415,2494.46,7
+16478-UK,Return,United Kingdom,224,331,3
+16479-UK,New,United Kingdom,102,300.83,2
+16480-UK,One time,United Kingdom,455,769.29,1
+16482-UK,One time,United Kingdom,346,220.62,1
+16483-UK,One time,United Kingdom,44,139.35,1
+16484-UK,New,United Kingdom,200,404.3,2
+16485-UK,One time,United Kingdom,235,363.65,1
+16488-UK,Return,United Kingdom,728,498.8,3
+16491-UK,One time,United Kingdom,478,731.5,1
+16493-UK,Return,United Kingdom,1164,1351.63,4
+16494-UK,One time,United Kingdom,675,826.53,1
+16495-UK,Return,United Kingdom,337,684.41,3
+16496-UK,Return,United Kingdom,1111,1599.52,3
+16497-UK,Return,United Kingdom,1396,2965.69,6
+16498-UK,New,United Kingdom,45,100.97,2
+16499-UK,New,United Kingdom,127,365.45,2
+16500-UK,Return,United Kingdom,123,400.86,6
+16503-UK,Return,United Kingdom,569,1431.93,4
+16504-UK,One time,United Kingdom,524,484.38,1
+16505-UK,One time,United Kingdom,576,777.6,1
+16506-UK,New,United Kingdom,42,90.3,2
+16509-UK,One time,United Kingdom,64,363.7,1
+16510-UK,One time,United Kingdom,92,248.1,1
+16511-UK,Return,United Kingdom,417,950.26,3
+16513-UK,Regular,United Kingdom,407,874.59,4
+16515-UK,Return,United Kingdom,833,1627.13,5
+16516-UK,One time,United Kingdom,58,101.7,1
+16517-UK,One time,United Kingdom,96,162.7,1
+16518-UK,New,United Kingdom,327,484.32,2
+16519-UK,New,United Kingdom,54,215.08,2
+16520-UK,Return,United Kingdom,558,1046.57,3
+16523-UK,Regular,United Kingdom,4265,9418.47,21
+16525-UK,Regular,United Kingdom,7397,13027.45,26
+16526-UK,One time,United Kingdom,106,290.36,1
+16527-UK,One time,United Kingdom,106,228.06,1
+16528-UK,One time,United Kingdom,171,244.41,1
+16529-UK,One time,United Kingdom,198,455.25,1
+16531-UK,Regular,United Kingdom,915,1244.59,7
+16532-UK,Return,United Kingdom,2016,6748.8,3
+16533-UK,Return,United Kingdom,612,1095.56,3
+16535-UK,One time,United Kingdom,356,593.75,1
+16536-UK,One time,United Kingdom,251,548.97,1
+16539-UK,Return,United Kingdom,477,1388.81,4
+16542-UK,One time,United Kingdom,46,119.62,1
+16545-UK,One time,United Kingdom,78,339.3,1
+16546-UK,New,United Kingdom,549,787.15,2
+16549-UK,Regular,United Kingdom,2365,4154.64,10
+16550-UK,Return,United Kingdom,1540,2298.97,5
+16551-UK,Return,United Kingdom,970,922.12,3
+16552-UK,New,United Kingdom,219,379.73,2
+16553-UK,Regular,United Kingdom,4600,5719.82,12
+16554-UK,Return,United Kingdom,402,837.1,3
+16555-UK,New,United Kingdom,175,285.89,2
+16556-UK,Regular,United Kingdom,1890,3313.79,7
+16557-UK,New,United Kingdom,111,281.85,2
+16558-UK,Regular,United Kingdom,5377,8338.49,20
+16560-UK,New,United Kingdom,504,841.41,2
+16561-UK,New,United Kingdom,244,511.12,2
+16563-UK,One time,United Kingdom,486,1077.74,1
+16565-UK,One time,United Kingdom,46,173.7,1
+16566-UK,Regular,United Kingdom,362,614.66,5
+16567-UK,New,United Kingdom,996,865.6,2
+16569-UK,One time,United Kingdom,93,124.2,1
+16570-UK,Regular,United Kingdom,2112,3738.4,10
+16571-UK,Return,United Kingdom,1239,1421.69,3
+16572-UK,Return,United Kingdom,532,1009.6,3
+16573-UK,New,United Kingdom,360,663.61,2
+16574-UK,One time,United Kingdom,416,451.44,1
+16581-UK,One time,United Kingdom,134,105.84,1
+16582-UK,One time,United Kingdom,164,313.62,1
+16583-UK,One time,United Kingdom,111,233.45,1
+16584-UK,New,United Kingdom,646,936.08,2
+16586-UK,One time,United Kingdom,95,463.95,1
+16587-UK,One time,United Kingdom,71,225.15,1
+16589-UK,Regular,United Kingdom,368,459.24,3
+16591-UK,One time,United Kingdom,41,213.5,1
+16592-UK,Regular,United Kingdom,2927,4113.68,16
+16593-UK,Return,United Kingdom,116,330.03,3
+16594-UK,One time,United Kingdom,64,181.09,1
+16595-UK,One time,United Kingdom,335,360.16,1
+16596-UK,New,United Kingdom,97,250.15,2
+16597-UK,One time,United Kingdom,184,90.04,1
+16598-UK,One time,United Kingdom,73,145.05,1
+16600-UK,Return,United Kingdom,1145,813.52,6
+16601-UK,One time,United Kingdom,134,244.8,1
+16602-UK,One time,United Kingdom,336,528.08,1
+16603-UK,New,United Kingdom,480,482.47,2
+16607-UK,Regular,United Kingdom,2859,3347.71,14
+16609-UK,Return,United Kingdom,2420,5493.46,7
+16610-UK,One time,United Kingdom,66,75.66,1
+16611-UK,One time,United Kingdom,47,129.49,1
+16612-UK,Return,United Kingdom,506,1187.66,4
+16613-UK,One time,United Kingdom,293,618.59,1
+16614-UK,One time,United Kingdom,223,506.19,1
+16616-UK,New,United Kingdom,370,500.42,2
+16617-UK,One time,United Kingdom,91,151.85,1
+16618-UK,Return,United Kingdom,1363,2647.59,5
+16619-UK,One time,United Kingdom,133,226.21,1
+16620-UK,New,United Kingdom,88,178.96,2
+16621-UK,Return,United Kingdom,302,813.48,4
+16623-UK,One time,United Kingdom,39,129.45,1
+16624-UK,New,United Kingdom,488,810.57,2
+16625-UK,One time,United Kingdom,164,333.08,1
+16626-UK,Regular,United Kingdom,2690,4413.1,17
+16627-UK,One time,United Kingdom,162,322.8,1
+16628-UK,Regular,United Kingdom,1205,2188.05,5
+16629-UK,New,United Kingdom,493,417.73,2
+16633-UK,Regular,United Kingdom,1138,2883.1,6
+16634-UK,New,United Kingdom,82,217.9,2
+16637-UK,Return,United Kingdom,927,1154.47,4
+16638-UK,Regular,United Kingdom,1255,1680.72,10
+16639-UK,Return,United Kingdom,510,1257.51,3
+16641-UK,One time,United Kingdom,256,231.1,1
+16642-UK,New,United Kingdom,479,688.33,2
+16643-UK,One time,United Kingdom,269,487.51,1
+16644-UK,New,United Kingdom,826,833.78,2
+16647-UK,New,United Kingdom,146,214.06,2
+16648-UK,One time,United Kingdom,281,290.66,1
+16650-UK,One time,United Kingdom,372,518.42,1
+16652-UK,Regular,United Kingdom,3283,6773.97,7
+16653-UK,New,United Kingdom,733,1212.66,2
+16654-UK,Return,United Kingdom,282,601.27,4
+16655-UK,Return,United Kingdom,2367,3794.52,6
+16656-UK,Regular,United Kingdom,8894,8625.8,15
+16657-UK,Return,United Kingdom,1229,933.62,4
+16658-UK,One time,United Kingdom,40,123.24,1
+16659-UK,One time,United Kingdom,72,39.12,1
+16660-UK,Return,United Kingdom,571,1267.65,4
+16665-UK,One time,United Kingdom,59,135.4,1
+16666-UK,One time,United Kingdom,233,118.98,1
+16667-UK,New,United Kingdom,237,570.13,2
+16668-UK,Regular,United Kingdom,318,306.72,6
+16669-UK,Return,United Kingdom,888,1374.87,3
+16670-UK,Regular,United Kingdom,2556,4095.9,11
+16671-UK,Return,United Kingdom,875,1692.27,3
+16672-UK,Regular,United Kingdom,2832,8134.94,20
+16674-UK,New,United Kingdom,188,319.61,2
+16676-UK,Return,United Kingdom,636,1592.12,4
+16678-UK,Regular,United Kingdom,2397,3109.99,12
+16679-UK,One time,United Kingdom,29,129.75,1
+16680-UK,One time,United Kingdom,94,183.7,1
+16681-UK,Regular,United Kingdom,1407,1770.34,6
+16682-UK,Regular,United Kingdom,1040,1028,5
+16684-UK,Regular,United Kingdom,50255,66653.56,28
+16685-UK,New,United Kingdom,396,324.24,2
+16686-UK,Regular,United Kingdom,2030,3062.83,7
+16688-UK,Regular,United Kingdom,804,1260.86,4
+16689-UK,New,United Kingdom,330,422.6,2
+16690-UK,New,United Kingdom,138,225.58,2
+16692-UK,New,United Kingdom,152,1276,2
+16693-UK,New,United Kingdom,204,482.01,2
+16696-UK,Return,United Kingdom,146,657.9,4
+16697-UK,One time,United Kingdom,27,112.75,1
+16698-UK,New,United Kingdom,840,1998,2
+16700-UK,Regular,United Kingdom,4024,5076.55,13
+16701-UK,Regular,United Kingdom,6393,5398.3,13
+16705-UK,Regular,United Kingdom,5476,14034.99,20
+16706-UK,Return,United Kingdom,249,531.35,3
+16708-UK,One time,United Kingdom,285,656.63,1
+16709-UK,Regular,United Kingdom,851,3029.87,5
+16710-UK,Return,United Kingdom,1836,2483.04,10
+16711-UK,Return,United Kingdom,833,1651.03,5
+16712-UK,Regular,United Kingdom,1749,3645.43,11
+16713-UK,Regular,United Kingdom,4276,6923.13,15
+16714-UK,Return,United Kingdom,610,1161.53,3
+16715-UK,One time,United Kingdom,642,301.72,1
+16716-UK,New,United Kingdom,120,901.2,2
+16717-UK,Return,United Kingdom,1866,3858.38,6
+16718-UK,One time,United Kingdom,413,623.75,1
+16719-UK,Regular,United Kingdom,1204,1790.42,7
+16720-UK,One time,United Kingdom,182,155.24,1
+16721-UK,One time,United Kingdom,172,292.47,1
+16722-UK,Regular,United Kingdom,5001,4730.81,13
+16723-UK,New,United Kingdom,399,589.15,2
+16725-UK,Regular,United Kingdom,294,781.02,7
+16726-UK,Return,United Kingdom,977,1382.02,5
+16727-UK,One time,United Kingdom,177,272.82,1
+16728-UK,Return,United Kingdom,677,1054.67,4
+16729-UK,Regular,United Kingdom,5783,7239.92,21
+16730-UK,Return,United Kingdom,994,743.11,3
+16732-UK,One time,United Kingdom,317,603.75,1
+16734-UK,Return,United Kingdom,346,650.51,3
+16735-UK,Return,United Kingdom,1573,2300.56,5
+16737-UK,One time,United Kingdom,288,417.6,1
+16738-UK,One time,United Kingdom,3,3.75,1
+16739-UK,One time,United Kingdom,172,323,1
+16742-UK,One time,United Kingdom,1,464.9,1
+16743-UK,Return,United Kingdom,2047,2238.09,7
+16744-UK,Regular,United Kingdom,805,1304.76,7
+16745-UK,Regular,United Kingdom,6735,7194.3,17
+16746-UK,Regular,United Kingdom,4665,6697.66,18
+16747-UK,New,United Kingdom,583,836.06,2
+16748-UK,Return,United Kingdom,880,1515.9,5
+16750-UK,Regular,United Kingdom,214,623.93,5
+16751-UK,One time,United Kingdom,1031,1764.72,1
+16752-UK,One time,United Kingdom,54,207.5,1
+16753-UK,One time,United Kingdom,189,223.92,1
+16754-UK,One time,United Kingdom,4280,2002.4,1
+16755-UK,Return,United Kingdom,1064,1496.83,3
+16756-UK,One time,United Kingdom,106,239.4,1
+16757-UK,One time,United Kingdom,81,106.83,1
+16758-UK,One time,United Kingdom,203,369.34,1
+16759-UK,Return,United Kingdom,609,789.79,3
+16761-UK,One time,United Kingdom,341,316.62,1
+16762-UK,Return,United Kingdom,618,1501.38,3
+16763-UK,One time,United Kingdom,319,611.85,1
+16764-UK,Regular,United Kingdom,1259,2799.25,13
+16765-UK,One time,United Kingdom,4,34,1
+16766-UK,New,United Kingdom,536,1145.6,2
+16767-UK,Regular,United Kingdom,4435,5580.6,11
+16768-UK,Return,United Kingdom,196,478.09,3
+16769-UK,One time,United Kingdom,83,380.39,1
+16770-UK,Return,United Kingdom,464,770.1,5
+16771-UK,Regular,United Kingdom,1489,2246.81,5
+16773-UK,One time,United Kingdom,171,171.59,1
+16774-UK,Regular,United Kingdom,322,661.52,4
+16775-UK,Regular,United Kingdom,440,1695.66,11
+16776-UK,One time,United Kingdom,262,388.28,1
+16777-UK,New,United Kingdom,64,226.35,2
+16778-UK,New,United Kingdom,194,245.94,2
+16779-UK,Regular,United Kingdom,5325,10629.72,22
+16780-UK,New,United Kingdom,271,425.19,2
+16781-UK,One time,United Kingdom,113,311.25,1
+16782-UK,Regular,United Kingdom,712,2279.9,13
+16784-UK,One time,United Kingdom,24,107.6,1
+16788-UK,New,United Kingdom,311,597.48,2
+16789-UK,One time,United Kingdom,32,80.8,1
+16790-UK,Return,United Kingdom,898,1545.62,6
+16791-UK,Return,United Kingdom,763,1721.78,7
+16792-UK,New,United Kingdom,44,110.38,2
+16793-UK,One time,United Kingdom,146,243.84,1
+16794-UK,Regular,United Kingdom,937,1222.71,10
+16795-UK,One time,United Kingdom,239,414.88,1
+16796-UK,One time,United Kingdom,186,305.62,1
+16800-UK,One time,United Kingdom,540,1201.49,1
+16801-UK,Return,United Kingdom,499,1619.73,4
+16803-UK,One time,United Kingdom,245,332.3,1
+16804-UK,Return,United Kingdom,246,536.99,3
+16805-UK,New,United Kingdom,539,460.59,2
+16806-UK,Regular,United Kingdom,378,801.49,4
+16807-UK,Return,United Kingdom,778,1121.59,3
+16808-UK,New,United Kingdom,196,288.42,2
+16809-UK,Return,United Kingdom,652,914.69,5
+16810-UK,One time,United Kingdom,114,309.54,1
+16811-UK,New,United Kingdom,477,547.07,2
+16812-UK,One time,United Kingdom,81,479.35,1
+16813-UK,Regular,United Kingdom,1525,1692.98,10
+16814-UK,Regular,United Kingdom,2769,6509.1,21
+16816-UK,Regular,United Kingdom,274,417.06,4
+16817-UK,Regular,United Kingdom,822,1604.75,9
+16818-UK,Regular,United Kingdom,2165,3349.57,11
+16820-UK,One time,United Kingdom,307,497.61,1
+16823-UK,One time,United Kingdom,136,358.38,1
+16824-UK,New,United Kingdom,236,460.64,2
+16825-UK,New,United Kingdom,566,775.18,2
+16826-UK,One time,United Kingdom,158,341.7,1
+16828-UK,New,United Kingdom,59,128.5,2
+16829-UK,One time,United Kingdom,99,197.22,1
+16830-UK,One time,United Kingdom,264,325.91,1
+16832-UK,Return,United Kingdom,33,199.15,3
+16833-UK,Return,United Kingdom,440,1106.53,4
+16834-UK,One time,United Kingdom,358,413.46,1
+16835-UK,New,United Kingdom,61,180.85,2
+16836-UK,New,United Kingdom,165,251.87,2
+16837-UK,Regular,United Kingdom,1563,3170.98,11
+16838-UK,New,United Kingdom,185,588.85,2
+16839-UK,Regular,United Kingdom,8975,16594.35,34
+16841-UK,Regular,United Kingdom,2250,1869.82,6
+16842-UK,Return,United Kingdom,693,1264.19,3
+16843-UK,Regular,United Kingdom,10159,10196.57,16
+16846-UK,One time,United Kingdom,135,214.32,1
+16847-UK,One time,United Kingdom,78,193.44,1
+16848-UK,One time,United Kingdom,182,281.42,1
+16849-UK,One time,United Kingdom,33,124.57,1
+16850-UK,One time,United Kingdom,249,332.41,1
+16851-UK,Return,United Kingdom,271,342.45,3
+16852-UK,New,United Kingdom,56,144.91,2
+16855-UK,New,United Kingdom,164,328.4,2
+16856-UK,One time,United Kingdom,12,35.4,1
+16858-UK,One time,United Kingdom,91,375.69,1
+16859-UK,New,United Kingdom,827,747.81,2
+16861-UK,New,United Kingdom,140,173.76,2
+16863-UK,New,United Kingdom,409,502.8,2
+16866-UK,Return,United Kingdom,60,207.74,3
+16869-UK,Return,United Kingdom,585,825.42,4
+16871-UK,Return,United Kingdom,1253,2812.34,6
+16872-UK,Return,United Kingdom,600,680.02,3
+16873-UK,Return,United Kingdom,3840,7123.62,6
+16875-UK,Return,United Kingdom,1069,2095.53,5
+16877-UK,Return,United Kingdom,463,853.72,6
+16878-UK,One time,United Kingdom,12,13.3,1
+16880-UK,Regular,United Kingdom,753,1519.08,7
+16881-UK,One time,United Kingdom,600,432,1
+16882-UK,Return,United Kingdom,424,705.12,3
+16883-UK,New,United Kingdom,104,276.73,2
+16884-UK,New,United Kingdom,320,429.84,2
+16885-UK,Return,United Kingdom,184,471.51,3
+16887-UK,One time,United Kingdom,157,194.88,1
+16889-UK,Return,United Kingdom,925,1578.67,3
+16891-UK,Return,United Kingdom,283,809.7,5
+16892-UK,Return,United Kingdom,239,525.54,5
+16893-UK,One time,United Kingdom,62,145.93,1
+16895-UK,One time,United Kingdom,102,219.14,1
+16897-UK,New,United Kingdom,73,289.78,2
+16898-UK,Return,United Kingdom,419,508.81,3
+16899-UK,Return,United Kingdom,522,1281.56,6
+16900-UK,Return,United Kingdom,833,887.11,3
+16902-UK,One time,United Kingdom,629,1706.88,1
+16903-UK,One time,United Kingdom,262,373.24,1
+16904-UK,Regular,United Kingdom,2034,3754.27,16
+16905-UK,Regular,United Kingdom,1408,3102.43,7
+16906-UK,Regular,United Kingdom,281,579.77,4
+16907-UK,Return,United Kingdom,298,981.65,5
+16909-UK,One time,United Kingdom,436,379.14,1
+16910-UK,Regular,United Kingdom,886,1510.06,8
+16912-UK,Regular,United Kingdom,1029,2575.38,11
+16913-UK,One time,United Kingdom,82,113.44,1
+16914-UK,One time,United Kingdom,121,208.46,1
+16915-UK,Regular,United Kingdom,132,621.68,6
+16916-UK,New,United Kingdom,440,576.26,2
+16917-UK,One time,United Kingdom,232,391.52,1
+16918-UK,Return,United Kingdom,721,1068.82,6
+16919-UK,Regular,United Kingdom,1413,2596.45,11
+16921-UK,One time,United Kingdom,171,169.79,1
+16923-UK,Regular,United Kingdom,3417,7247.61,19
+16924-UK,Regular,United Kingdom,493,846.75,3
+16926-UK,One time,United Kingdom,35,230.25,1
+16927-UK,Return,United Kingdom,993,543.05,3
+16928-UK,Regular,United Kingdom,2114,2847.6,17
+16929-UK,Regular,United Kingdom,929,1295.39,7
+16930-UK,Return,United Kingdom,341,380.55,3
+16931-UK,Regular,United Kingdom,3158,4604.22,21
+16932-UK,One time,United Kingdom,87,161.94,1
+16933-UK,New,United Kingdom,288,563.23,2
+16934-UK,New,United Kingdom,399,950.93,2
+16936-UK,One time,United Kingdom,173,262.68,1
+16938-UK,Return,United Kingdom,2540,2736.38,4
+16940-UK,Return,United Kingdom,2169,3049.88,3
+16942-UK,Regular,United Kingdom,811,1920.59,9
+16943-UK,Return,United Kingdom,145,816.73,3
+16945-UK,Regular,United Kingdom,2725,4345.5,19
+16947-UK,One time,United Kingdom,312,406.48,1
+16948-UK,Return,United Kingdom,1614,435.02,3
+16949-UK,Return,United Kingdom,791,1286.27,6
+16950-UK,Return,United Kingdom,644,1178.56,3
+16951-UK,Return,United Kingdom,1318,1277.75,3
+16952-UK,New,United Kingdom,92,167.61,2
+16953-UK,One time,United Kingdom,10,20.8,1
+16954-UK,Regular,United Kingdom,1054,2085.08,9
+16955-UK,Return,United Kingdom,266,518.67,4
+16956-UK,One time,United Kingdom,114,308.74,1
+16957-UK,New,United Kingdom,172,416.64,2
+16959-UK,One time,United Kingdom,49,117.35,1
+16960-UK,Return,United Kingdom,304,507.05,3
+16961-UK,One time,United Kingdom,125,234.17,1
+16963-UK,One time,United Kingdom,35,110.55,1
+16965-UK,One time,United Kingdom,291,201.19,1
+16966-UK,Regular,United Kingdom,1981,2154.97,7
+16967-UK,One time,United Kingdom,333,319.02,1
+16968-UK,New,United Kingdom,326,439.43,2
+16969-UK,Return,United Kingdom,816,650.41,3
+16971-UK,One time,United Kingdom,72,357.21,1
+16976-UK,One time,United Kingdom,88,251.52,1
+16978-UK,One time,United Kingdom,166,344.33,1
+16979-UK,Regular,United Kingdom,865,1852,6
+16980-UK,New,United Kingdom,788,1078.96,2
+16982-UK,One time,United Kingdom,182,384.06,1
+16983-UK,Return,United Kingdom,1379,1931.25,7
+16984-UK,New,United Kingdom,2423,4481.35,2
+16985-UK,Return,United Kingdom,1832,5464.12,10
+16986-UK,New,United Kingdom,1040,1873.2,2
+16987-UK,Return,United Kingdom,402,1625.05,7
+16988-UK,One time,United Kingdom,43,126.12,1
+16989-UK,Regular,United Kingdom,1233,1133.25,6
+16990-UK,One time,United Kingdom,100,179,1
+16992-UK,Return,United Kingdom,860,1614.31,5
+16996-UK,Return,United Kingdom,544,1456.96,6
+16997-UK,Return,United Kingdom,360,702,3
+16998-UK,Return,United Kingdom,76,295,4
+16999-UK,New,United Kingdom,294,484.82,2
+17001-UK,Regular,United Kingdom,2164,3989.57,11
+17002-UK,Return,United Kingdom,679,1493.73,3
+17004-UK,New,United Kingdom,819,1412.94,2
+17006-UK,Return,United Kingdom,272,781.78,4
+17007-UK,Return,United Kingdom,597,889.93,6
+17010-UK,One time,United Kingdom,118,195.36,1
+17011-UK,One time,United Kingdom,186,270.9,1
+17014-UK,Regular,United Kingdom,245,586.33,3
+17015-UK,Return,United Kingdom,1981,1842.56,3
+17017-UK,Regular,United Kingdom,6673,8694.26,20
+17018-UK,New,United Kingdom,176,920.1,2
+17019-UK,Return,United Kingdom,827,1272.61,4
+17022-UK,One time,United Kingdom,108,71,1
+17024-UK,Return,United Kingdom,69,95.85,3
+17025-UK,Return,United Kingdom,235,357.77,3
+17026-UK,New,United Kingdom,97,154.83,2
+17027-UK,Regular,United Kingdom,421,890.29,6
+17029-UK,New,United Kingdom,400,716,2
+17030-UK,One time,United Kingdom,146,146.87,1
+17031-UK,New,United Kingdom,235,380.35,2
+17033-UK,Return,United Kingdom,750,1030.14,3
+17034-UK,Return,United Kingdom,410,745.52,3
+17035-UK,New,United Kingdom,229,433.53,2
+17037-UK,One time,United Kingdom,656,1267.32,1
+17038-UK,One time,United Kingdom,28,112.4,1
+17040-UK,One time,United Kingdom,181,449.73,1
+17041-UK,Return,United Kingdom,951,1081.57,3
+17042-UK,Regular,United Kingdom,994,1044.38,5
+17043-UK,Return,United Kingdom,998,1735.18,4
+17044-UK,One time,United Kingdom,504,948.48,1
+17045-UK,Return,United Kingdom,106,339.44,3
+17046-UK,One time,United Kingdom,510,642.02,1
+17047-UK,Return,United Kingdom,533,1100.9,3
+17048-UK,Return,United Kingdom,485,925.35,3
+17049-UK,Regular,United Kingdom,2676,5659.98,9
+17050-UK,Regular,United Kingdom,1614,3228.84,6
+17051-UK,One time,United Kingdom,184,247.14,1
+17052-UK,One time,United Kingdom,261,413.75,1
+17053-UK,One time,United Kingdom,122,498.48,1
+17054-UK,Return,United Kingdom,804,1356.33,5
+17058-UK,Return,United Kingdom,592,1179.89,3
+17059-UK,Return,United Kingdom,1855,3095.04,5
+17060-UK,One time,United Kingdom,216,234.24,1
+17061-UK,Regular,United Kingdom,1526,5232.23,11
+17062-UK,Return,United Kingdom,430,538.37,4
+17063-UK,Return,United Kingdom,770,1461.14,7
+17064-UK,Return,United Kingdom,318,859.35,3
+17068-UK,Regular,United Kingdom,2164,4552.14,21
+17069-UK,Return,United Kingdom,1506,2709.7,9
+17070-UK,One time,United Kingdom,133,312.14,1
+17071-UK,Regular,United Kingdom,1197,2429.03,9
+17073-UK,Regular,United Kingdom,759,1446.09,4
+17075-UK,Regular,United Kingdom,292,834.12,4
+17076-UK,Return,United Kingdom,295,841.08,3
+17078-UK,New,United Kingdom,788,378.2,2
+17079-UK,One time,United Kingdom,24,118.8,1
+17080-UK,New,United Kingdom,166,287.62,2
+17081-UK,New,United Kingdom,78,290.16,2
+17082-UK,New,United Kingdom,1049,2003.85,2
+17083-UK,Return,United Kingdom,772,1405.78,3
+17084-UK,New,United Kingdom,1816,2949.75,2
+17085-UK,Return,United Kingdom,786,1566.65,5
+17086-UK,Regular,United Kingdom,1859,2050.08,6
+17088-UK,Return,United Kingdom,868,1991.01,4
+17090-UK,Return,United Kingdom,921,2043.95,7
+17091-UK,Regular,United Kingdom,1746,3827.76,9
+17092-UK,Regular,United Kingdom,1131,1777.78,4
+17094-UK,One time,United Kingdom,152,302,1
+17095-UK,Return,United Kingdom,618,1324.16,3
+17096-UK,Return,United Kingdom,339,1022.13,4
+17097-SPN,Regular,Spain,459,954.42,8
+17100-UK,New,United Kingdom,800,971.74,2
+17101-UK,Return,United Kingdom,815,1621.73,4
+17102-UK,One time,United Kingdom,2,25.5,1
+17105-UK,New,United Kingdom,693,665.78,2
+17107-UK,Return,United Kingdom,4837,10815.43,6
+17109-UK,Return,United Kingdom,589,885.04,6
+17110-UK,One time,United Kingdom,50,163.3,1
+17111-UK,One time,United Kingdom,302,248.61,1
+17114-UK,Regular,United Kingdom,219,808.62,8
+17115-UK,Return,United Kingdom,372,837.5,3
+17117-UK,One time,United Kingdom,68,116.2,1
+17118-UK,One time,United Kingdom,154,157.02,1
+17119-UK,New,United Kingdom,334,606.91,2
+17120-UK,One time,United Kingdom,120,307.46,1
+17122-UK,One time,United Kingdom,80,138.32,1
+17123-UK,One time,United Kingdom,246,345.3,1
+17124-UK,One time,United Kingdom,130,298.89,1
+17125-UK,One time,United Kingdom,291,259.35,1
+17126-UK,Return,United Kingdom,792,1004.75,5
+17128-UK,One time,United Kingdom,76,157.09,1
+17131-UK,Regular,United Kingdom,983,2463.17,5
+17133-UK,Return,United Kingdom,2730,4892.24,7
+17134-UK,New,United Kingdom,102,425,2
+17135-UK,Return,United Kingdom,1224,1139.73,7
+17138-UK,One time,United Kingdom,126,380.5,1
+17139-UK,Regular,United Kingdom,5182,10668.47,12
+17140-UK,One time,United Kingdom,302,465.32,1
+17142-UK,One time,United Kingdom,81,579,1
+17144-UK,New,United Kingdom,483,984.57,2
+17146-UK,Return,United Kingdom,212,749.78,3
+17147-UK,Return,United Kingdom,882,1714.59,4
+17148-UK,One time,United Kingdom,82,124.88,1
+17152-UK,Return,United Kingdom,517,1689.5,3
+17153-UK,One time,United Kingdom,104,213.78,1
+17154-UK,One time,United Kingdom,490,329.34,1
+17155-UK,New,United Kingdom,242,251.7,2
+17157-UK,New,United Kingdom,172,319,2
+17158-UK,Return,United Kingdom,778,1266.97,3
+17159-UK,Return,United Kingdom,1111,1538.88,3
+17160-UK,Return,United Kingdom,2856,3518.03,6
+17162-UK,Regular,United Kingdom,1001,1715.46,10
+17163-UK,New,United Kingdom,66,293.1,2
+17164-UK,Return,United Kingdom,1501,2467.35,7
+17165-UK,One time,United Kingdom,100,158.68,1
+17166-UK,New,United Kingdom,78,206.34,2
+17169-UK,New,United Kingdom,526,835.78,2
+17171-UK,One time,United Kingdom,185,224.91,1
+17172-UK,One time,United Kingdom,480,317.76,1
+17173-UK,Regular,United Kingdom,1122,3766.6,8
+17174-UK,One time,United Kingdom,41,59.9,1
+17175-UK,Return,United Kingdom,866,1443.69,4
+17176-UK,One time,United Kingdom,170,306.13,1
+17179-UK,Return,United Kingdom,290,711.79,3
+17180-UK,Return,United Kingdom,683,796.03,4
+17181-UK,New,United Kingdom,241,239.92,2
+17183-UK,Regular,United Kingdom,1296,3347.31,6
+17186-UK,New,United Kingdom,200,144,2
+17187-UK,One time,United Kingdom,144,203.95,1
+17188-UK,Return,United Kingdom,1328,2474.23,7
+17189-UK,New,United Kingdom,227,384.4,2
+17190-UK,New,United Kingdom,161,444.74,2
+17191-UK,Return,United Kingdom,1167,2095.13,7
+17193-UK,Regular,United Kingdom,1254,1699.3,7
+17194-UK,New,United Kingdom,119,262.62,2
+17197-UK,One time,United Kingdom,191,1013.01,1
+17198-UK,Return,United Kingdom,357,692.22,3
+17201-UK,One time,United Kingdom,268,342.63,1
+17203-UK,Return,United Kingdom,2850,3563.85,6
+17204-UK,Return,United Kingdom,646,1564.56,4
+17205-UK,One time,United Kingdom,884,384.08,1
+17206-UK,One time,United Kingdom,76,204.24,1
+17211-UK,Regular,United Kingdom,1323,2317.22,8
+17212-UK,One time,United Kingdom,147,226.85,1
+17213-UK,Return,United Kingdom,1176,2781.23,7
+17214-UK,Return,United Kingdom,276,1069.12,6
+17217-UK,One time,United Kingdom,24,113.5,1
+17218-UK,Regular,United Kingdom,958,1960.72,10
+17219-UK,One time,United Kingdom,89,114.23,1
+17220-UK,Regular,United Kingdom,1905,3198.25,14
+17221-UK,New,United Kingdom,288,335.13,2
+17222-UK,One time,United Kingdom,128,354.15,1
+17223-UK,New,United Kingdom,112,426.79,2
+17226-UK,One time,United Kingdom,406,393.49,1
+17227-UK,Regular,United Kingdom,741,939.32,6
+17228-UK,Regular,United Kingdom,1532,1906.09,8
+17229-UK,New,United Kingdom,185,318.76,2
+17230-UK,Return,United Kingdom,1651,3638.41,8
+17231-UK,Regular,United Kingdom,1742,3174.32,10
+17232-UK,New,United Kingdom,203,421.52,2
+17233-UK,One time,United Kingdom,131,190.88,1
+17234-UK,One time,United Kingdom,55,149.89,1
+17235-UK,New,United Kingdom,224,550.06,2
+17236-UK,Regular,United Kingdom,474,916.13,6
+17237-UK,New,United Kingdom,105,314.69,2
+17238-UK,Regular,United Kingdom,1822,3744.65,17
+17239-UK,One time,United Kingdom,150,382.5,1
+17242-UK,New,United Kingdom,611,1135.04,2
+17243-UK,Regular,United Kingdom,3370,8676.85,26
+17244-UK,One time,United Kingdom,616,954.9,1
+17245-UK,One time,United Kingdom,75,171.45,1
+17247-UK,One time,United Kingdom,106,282.19,1
+17248-UK,One time,United Kingdom,213,318.65,1
+17250-UK,New,United Kingdom,168,384.52,2
+17251-UK,One time,United Kingdom,110,283.28,1
+17252-UK,New,United Kingdom,193,353.86,2
+17253-UK,One time,United Kingdom,43,178.26,1
+17254-UK,New,United Kingdom,252,272.44,2
+17255-UK,New,United Kingdom,232,298.41,2
+17256-UK,New,United Kingdom,141,240,2
+17259-UK,New,United Kingdom,410,603.37,2
+17262-UK,Return,United Kingdom,367,1253.36,5
+17263-UK,One time,United Kingdom,36,63.44,1
+17265-UK,New,United Kingdom,394,562.9,2
+17266-UK,Return,United Kingdom,161,310.64,3
+17267-UK,New,United Kingdom,159,317.62,2
+17268-UK,Return,United Kingdom,844,763.64,4
+17272-UK,Return,United Kingdom,1778,2148.63,4
+17274-UK,One time,United Kingdom,79,111.98,1
+17277-UK,New,United Kingdom,430,1065.35,2
+17278-UK,One time,United Kingdom,179,246.04,1
+17279-UK,One time,United Kingdom,48,187.83,1
+17282-UK,Return,United Kingdom,1877,1703.41,3
+17284-UK,Return,United Kingdom,1364,1652.58,6
+17286-UK,One time,United Kingdom,118,153.92,1
+17287-UK,Return,United Kingdom,559,1064.11,7
+17288-UK,Regular,United Kingdom,1203,1419.73,7
+17289-UK,Return,United Kingdom,520,944.41,3
+17290-UK,New,United Kingdom,404,525.24,2
+17291-UK,One time,United Kingdom,72,550.8,1
+17293-UK,Regular,United Kingdom,1140,1875.11,9
+17295-UK,Return,United Kingdom,294,556.95,3
+17297-UK,One time,United Kingdom,67,131.78,1
+17298-UK,New,United Kingdom,387,498.42,2
+17299-UK,Return,United Kingdom,678,669.11,4
+17301-UK,One time,United Kingdom,149,197.63,1
+17302-UK,Return,United Kingdom,575,1135.63,5
+17303-UK,One time,United Kingdom,144,250.04,1
+17306-UK,Regular,United Kingdom,11491,8631.31,19
+17309-UK,One time,United Kingdom,41,82.75,1
+17311-UK,New,United Kingdom,1005,1384.85,2
+17312-UK,Return,United Kingdom,372,644.3,3
+17313-UK,One time,United Kingdom,1402,2328.84,1
+17314-UK,Regular,United Kingdom,1896,2527.92,8
+17315-UK,Regular,United Kingdom,3888,6292.26,38
+17317-UK,Return,United Kingdom,1146,2600.34,3
+17320-UK,Return,United Kingdom,634,1200.62,3
+17321-UK,New,United Kingdom,373,700.86,2
+17323-UK,Regular,United Kingdom,776,921.07,7
+17324-UK,Return,United Kingdom,844,990.23,4
+17325-UK,One time,United Kingdom,60,96.8,1
+17329-UK,New,United Kingdom,142,523.11,2
+17330-UK,New,United Kingdom,120,363.9,2
+17331-UK,One time,United Kingdom,16,175.2,1
+17333-UK,One time,United Kingdom,375,494.25,1
+17334-UK,New,United Kingdom,315,307.02,2
+17337-UK,Return,United Kingdom,1269,2027.87,4
+17338-UK,Regular,United Kingdom,3128,6643.93,8
+17339-UK,New,United Kingdom,152,243.36,2
+17340-UK,Regular,United Kingdom,5967,12353.29,11
+17341-UK,Return,United Kingdom,489,781.36,3
+17343-UK,One time,United Kingdom,56,193.64,1
+17344-UK,One time,United Kingdom,66,160.57,1
+17345-UK,Return,United Kingdom,346,537.74,4
+17346-UK,Regular,United Kingdom,1657,2676.56,15
+17347-UK,One time,United Kingdom,216,228.96,1
+17348-UK,Return,United Kingdom,1401,1159.52,5
+17349-UK,One time,United Kingdom,112,110.75,1
+17350-UK,Return,United Kingdom,795,1286.07,4
+17351-UK,Return,United Kingdom,113,587.15,3
+17353-UK,New,United Kingdom,1200,1740,2
+17354-UK,One time,United Kingdom,1006,1393.06,1
+17356-UK,One time,United Kingdom,166,178.22,1
+17357-UK,New,United Kingdom,153,388.14,2
+17358-UK,New,United Kingdom,202,365.85,2
+17359-UK,One time,United Kingdom,161,127.86,1
+17360-UK,Return,United Kingdom,335,585.79,3
+17361-UK,Return,United Kingdom,157,488.2,3
+17362-UK,New,United Kingdom,191,312.23,2
+17364-UK,Regular,United Kingdom,2701,4481.18,11
+17365-UK,Regular,United Kingdom,4777,4801.56,8
+17367-UK,One time,United Kingdom,150,168.4,1
+17368-UK,Return,United Kingdom,1391,1912.67,8
+17370-UK,Return,United Kingdom,540,446.18,4
+17371-UK,Return,United Kingdom,152,423.89,3
+17372-UK,Return,United Kingdom,749,1342.68,8
+17373-UK,Return,United Kingdom,408,646.92,4
+17374-UK,New,United Kingdom,85,495.77,2
+17375-UK,Return,United Kingdom,367,400.1,3
+17376-UK,New,United Kingdom,86,203.2,2
+17377-UK,Regular,United Kingdom,2076,4100.92,20
+17379-UK,One time,United Kingdom,663,404.66,1
+17381-UK,Regular,United Kingdom,25649,20275.61,29
+17382-UK,One time,United Kingdom,25,65.4,1
+17383-UK,One time,United Kingdom,150,199.29,1
+17384-UK,New,United Kingdom,88,336.4,2
+17385-UK,One time,United Kingdom,201,261.11,1
+17386-UK,Return,United Kingdom,1902,2686.42,6
+17387-UK,New,United Kingdom,542,784.11,2
+17388-UK,Return,United Kingdom,1068,1259.56,4
+17389-UK,Regular,United Kingdom,7612,31833.68,34
+17391-UK,New,United Kingdom,480,508.8,2
+17392-UK,New,United Kingdom,320,457.91,2
+17394-UK,One time,United Kingdom,241,203.87,1
+17396-UK,Return,United Kingdom,2005,7330.8,8
+17397-UK,New,United Kingdom,254,696.41,2
+17398-UK,Return,United Kingdom,310,653.38,3
+17400-UK,Return,United Kingdom,1097,2129.96,5
+17402-UK,Regular,United Kingdom,701,2633.85,13
+17403-UK,One time,United Kingdom,117,281.62,1
+17404-SWDN,Regular,Sweden,32748,31906.82,15
+17405-UK,Return,United Kingdom,726,1031.41,3
+17406-UK,Return,United Kingdom,787,2200.42,3
+17408-UK,One time,United Kingdom,3,32.65,1
+17409-UK,New,United Kingdom,105,771.85,2
+17410-UK,Regular,United Kingdom,616,1214.72,5
+17411-UK,Return,United Kingdom,306,778.94,3
+17412-UK,Regular,United Kingdom,738,1258.06,7
+17414-UK,New,United Kingdom,2100,778,2
+17415-UK,One time,United Kingdom,114,507.84,1
+17416-UK,Regular,United Kingdom,4302,6893.42,7
+17418-UK,New,United Kingdom,289,463.46,2
+17419-UK,Regular,United Kingdom,1876,4226.57,12
+17420-UK,Return,United Kingdom,265,598.83,3
+17422-UK,Regular,United Kingdom,2253,1979.37,6
+17423-UK,New,United Kingdom,459,698.41,2
+17425-UK,New,United Kingdom,407,759.17,2
+17426-UK,Return,United Kingdom,3094,5037.26,6
+17427-UK,One time,United Kingdom,34,100.8,1
+17428-UK,Regular,United Kingdom,9474,17256.85,28
+17429-UK,Return,United Kingdom,624,524.92,3
+17430-UK,New,United Kingdom,190,265.76,2
+17431-UK,One time,United Kingdom,292,403.3,1
+17432-UK,New,United Kingdom,207,365.76,2
+17433-UK,One time,United Kingdom,185,303.16,1
+17434-UK,Regular,United Kingdom,1693,2373.82,7
+17436-UK,New,United Kingdom,90,216.3,2
+17438-UK,One time,United Kingdom,103,388.45,1
+17440-UK,Return,United Kingdom,246,186.42,3
+17442-UK,Regular,United Kingdom,1496,2248.56,6
+17443-CAN,One time,Canada,504,534.24,1
+17444-CAN,Return,Canada,2119,2940.04,3
+17446-UK,New,United Kingdom,198,120.9,2
+17447-UK,New,United Kingdom,443,541.53,2
+17449-UK,Regular,United Kingdom,1122,2520.86,7
+17450-UK,Regular,United Kingdom,69993,194550.79,46
+17451-UK,Regular,United Kingdom,1203,1721.4,7
+17453-UK,New,United Kingdom,219,486.72,2
+17454-UK,Return,United Kingdom,243,517.53,4
+17455-UK,One time,United Kingdom,66,131.7,1
+17456-UK,One time,United Kingdom,222,249.86,1
+17457-UK,Regular,United Kingdom,826,1737.7,5
+17458-UK,One time,United Kingdom,170,316.5,1
+17459-UK,New,United Kingdom,537,657.3,2
+17460-UK,Regular,United Kingdom,236,622.43,6
+17461-UK,Return,United Kingdom,799,757.46,3
+17462-UK,New,United Kingdom,227,675.69,2
+17463-UK,Return,United Kingdom,1095,1896.41,5
+17464-UK,One time,United Kingdom,220,289.96,1
+17466-UK,New,United Kingdom,306,763.28,2
+17468-UK,New,United Kingdom,116,137,2
+17469-UK,Regular,United Kingdom,787,1870.97,5
+17470-UK,Return,United Kingdom,1675,1125.07,5
+17472-UK,Return,United Kingdom,462,710.29,3
+17475-UK,One time,United Kingdom,178,194.37,1
+17480-UK,One time,United Kingdom,338,511.82,1
+17481-UK,Return,United Kingdom,1061,1255.59,4
+17483-UK,Return,United Kingdom,191,414.04,3
+17486-UK,One time,United Kingdom,191,396.87,1
+17489-UK,New,United Kingdom,428,376.64,2
+17490-UK,Return,United Kingdom,1134,2092.32,7
+17491-UK,Regular,United Kingdom,2013,3558.87,10
+17492-UK,One time,United Kingdom,155,374.57,1
+17495-UK,New,United Kingdom,229,497.56,2
+17496-UK,One time,United Kingdom,79,271.05,1
+17498-UK,One time,United Kingdom,394,272.22,1
+17499-UK,One time,United Kingdom,711,622.88,1
+17500-UK,Return,United Kingdom,17,1138,3
+17501-UK,New,United Kingdom,160,288.6,2
+17502-UK,Return,United Kingdom,376,689.1,4
+17503-UK,New,United Kingdom,486,558.96,2
+17504-UK,Regular,United Kingdom,1664,2997.03,9
+17505-UK,New,United Kingdom,556,1145.84,2
+17506-UK,One time,United Kingdom,139,302.2,1
+17507-UK,New,United Kingdom,359,605.58,2
+17508-GRC,One time,Greece,289,387.31,1
+17509-UK,Return,United Kingdom,3534,6115.14,8
+17510-UK,One time,United Kingdom,214,308.48,1
+17511-UK,Regular,United Kingdom,64549,91062.38,31
+17512-UK,Regular,United Kingdom,2753,2924.99,10
+17513-UK,One time,United Kingdom,254,513.2,1
+17514-UK,One time,United Kingdom,135,208.65,1
+17515-UK,Return,United Kingdom,243,639.02,4
+17516-UK,Return,United Kingdom,416,768.08,5
+17517-UK,One time,United Kingdom,102,153.94,1
+17519-UK,Regular,United Kingdom,1236,1844.02,6
+17520-UK,One time,United Kingdom,365,546.81,1
+17521-UK,Return,United Kingdom,519,723.21,3
+17522-UK,Regular,United Kingdom,1034,1070.71,5
+17523-UK,Return,United Kingdom,872,652.74,4
+17524-UK,One time,United Kingdom,90,145,1
+17525-UK,One time,United Kingdom,82,422.7,1
+17526-UK,Return,United Kingdom,310,1195.9,4
+17527-UK,Regular,United Kingdom,488,939.37,4
+17528-UK,Regular,United Kingdom,2138,3628.5,8
+17530-UK,Regular,United Kingdom,1526,2385,10
+17531-UK,One time,United Kingdom,136,296.7,1
+17534-UK,One time,United Kingdom,103,223.36,1
+17535-UK,One time,United Kingdom,136,164.4,1
+17536-UK,One time,United Kingdom,6,76.5,1
+17537-UK,New,United Kingdom,700,897.62,2
+17538-UK,One time,United Kingdom,134,98.42,1
+17540-UK,New,United Kingdom,194,578.9,2
+17542-UK,One time,United Kingdom,134,170.75,1
+17545-UK,Return,United Kingdom,341,645.96,3
+17548-UK,One time,United Kingdom,58,103.3,1
+17549-UK,New,United Kingdom,210,148.86,2
+17550-UK,Return,United Kingdom,86,267.16,3
+17551-UK,One time,United Kingdom,150,306.84,1
+17552-UK,Return,United Kingdom,719,930.41,4
+17553-UK,One time,United Kingdom,1048,1487.6,1
+17554-UK,Regular,United Kingdom,1763,1952.45,5
+17555-UK,New,United Kingdom,349,483.26,2
+17556-UK,One time,United Kingdom,101,157.9,1
+17557-UK,Regular,United Kingdom,306,541.46,3
+17560-UK,Return,United Kingdom,651,854.95,5
+17561-UK,One time,United Kingdom,146,167.62,1
+17562-UK,Regular,United Kingdom,817,1122.38,7
+17564-UK,Regular,United Kingdom,146,454.01,3
+17566-UK,New,United Kingdom,518,901.21,2
+17567-UK,Regular,United Kingdom,2632,4331.48,8
+17569-UK,One time,United Kingdom,159,344.14,1
+17571-UK,Return,United Kingdom,905,1498.51,4
+17572-UK,Return,United Kingdom,95,226.75,4
+17573-UK,Return,United Kingdom,308,380.6,3
+17574-UK,One time,United Kingdom,77,185.65,1
+17576-UK,Regular,United Kingdom,1994,3622.68,19
+17578-UK,One time,United Kingdom,138,143.46,1
+17579-UK,Return,United Kingdom,258,448.9,3
+17580-UK,Return,United Kingdom,88,215.72,3
+17581-UK,Regular,United Kingdom,5927,11045.04,25
+17582-UK,One time,United Kingdom,123,175.27,1
+17584-UK,New,United Kingdom,458,1242.3,2
+17585-UK,Return,United Kingdom,1671,1133.07,4
+17588-UK,Return,United Kingdom,676,1240.2,3
+17589-UK,Return,United Kingdom,1631,2404.17,4
+17590-UK,Regular,United Kingdom,828,1479.22,3
+17591-UK,Regular,United Kingdom,1009,2225.97,7
+17593-UK,Return,United Kingdom,3101,3927.34,5
+17594-UK,New,United Kingdom,550,993.18,2
+17595-UK,New,United Kingdom,229,388.79,2
+17596-UK,Regular,United Kingdom,4400,2827.93,7
+17597-UK,One time,United Kingdom,1176,2044.37,1
+17600-UK,One time,United Kingdom,144,161.67,1
+17601-UK,One time,United Kingdom,103,116.01,1
+17602-UK,Regular,United Kingdom,4151,5102.97,6
+17603-UK,One time,United Kingdom,74,394.72,1
+17604-UK,New,United Kingdom,169,309.36,2
+17608-UK,New,United Kingdom,232,193.42,2
+17609-UK,Regular,United Kingdom,723,1112.22,5
+17611-UK,Regular,United Kingdom,2560,3984.22,15
+17612-UK,Regular,United Kingdom,1808,2048.45,6
+17613-UK,Regular,United Kingdom,2496,4559.15,14
+17614-UK,One time,United Kingdom,238,390.07,1
+17615-UK,Return,United Kingdom,140,329.6,3
+17616-UK,Return,United Kingdom,224,571.2,3
+17618-UK,Return,United Kingdom,331,971.58,3
+17619-UK,One time,United Kingdom,127,218.52,1
+17620-UK,One time,United Kingdom,60,81.44,1
+17621-UK,Return,United Kingdom,514,1379.9,3
+17623-UK,One time,United Kingdom,265,527.05,1
+17624-UK,New,United Kingdom,554,843.48,2
+17625-UK,Return,United Kingdom,1198,2047,4
+17628-UK,One time,United Kingdom,79,75.75,1
+17629-UK,Regular,United Kingdom,1629,1814.12,8
+17630-UK,New,United Kingdom,158,503.6,2
+17631-UK,Return,United Kingdom,334,528.33,3
+17633-UK,Return,United Kingdom,644,1324.84,4
+17634-UK,Regular,United Kingdom,840,2361.97,9
+17636-UK,One time,United Kingdom,182,285.56,1
+17637-UK,New,United Kingdom,280,547.06,2
+17639-UK,One time,United Kingdom,49,108.5,1
+17640-UK,One time,United Kingdom,250,621.66,1
+17642-UK,New,United Kingdom,474,712.29,2
+17643-UK,One time,United Kingdom,71,101.55,1
+17644-UK,Regular,United Kingdom,1793,2895.64,11
+17646-UK,Return,United Kingdom,323,1008.39,3
+17647-UK,One time,United Kingdom,30,133.06,1
+17648-UK,Return,United Kingdom,487,1797.5,4
+17649-UK,One time,United Kingdom,399,868.49,1
+17650-UK,One time,United Kingdom,150,166.08,1
+17651-UK,Regular,United Kingdom,3112,3945,10
+17652-UK,Regular,United Kingdom,2509,4867.72,12
+17653-UK,Return,United Kingdom,1409,1207.56,4
+17654-UK,One time,United Kingdom,41,117.55,1
+17655-UK,Return,United Kingdom,1116,2638.94,7
+17656-UK,Return,United Kingdom,1399,1674.69,5
+17658-UK,New,United Kingdom,616,595.42,2
+17659-UK,Regular,United Kingdom,1525,2999.46,12
+17660-UK,One time,United Kingdom,130,196,1
+17663-UK,Return,United Kingdom,797,1802.91,7
+17664-UK,New,United Kingdom,604,604.64,2
+17666-UK,New,United Kingdom,596,728.16,2
+17667-UK,Return,United Kingdom,1037,2055.51,5
+17668-UK,New,United Kingdom,93,347.75,2
+17669-UK,Regular,United Kingdom,1916,3406.72,7
+17670-UK,One time,United Kingdom,110,205.7,1
+17671-UK,Return,United Kingdom,772,1572.71,4
+17672-UK,New,United Kingdom,1690,3178.17,2
+17673-UK,Return,United Kingdom,1487,1629.12,6
+17674-UK,New,United Kingdom,672,551.04,2
+17675-UK,Regular,United Kingdom,8360,20374.28,31
+17676-UK,Return,United Kingdom,932,1387.68,6
+17677-UK,Regular,United Kingdom,9775,16363.23,30
+17678-UK,One time,United Kingdom,207,298.11,1
+17679-UK,New,United Kingdom,729,1992.11,2
+17680-UK,One time,United Kingdom,96,184.4,1
+17682-UK,Regular,United Kingdom,1367,2474.33,6
+17684-UK,One time,United Kingdom,145,239.41,1
+17685-UK,Regular,United Kingdom,1956,3191.53,7
+17686-UK,Return,United Kingdom,2478,5739.46,7
+17690-UK,Regular,United Kingdom,1773,4757.95,15
+17691-UK,New,United Kingdom,134,290.4,2
+17692-UK,Return,United Kingdom,672,740.94,4
+17693-UK,One time,United Kingdom,231,200.47,1
+17694-UK,One time,United Kingdom,184,283.12,1
+17695-UK,New,United Kingdom,779,765.34,2
+17696-UK,Regular,United Kingdom,1756,2285.71,8
+17697-UK,One time,United Kingdom,93,338.95,1
+17698-UK,One time,United Kingdom,93,154.95,1
+17700-UK,Return,United Kingdom,1266,2534.64,4
+17701-UK,One time,United Kingdom,109,417.95,1
+17702-UK,Return,United Kingdom,1353,1824.37,4
+17703-UK,Return,United Kingdom,590,798.74,3
+17704-UK,New,United Kingdom,343,885.19,2
+17705-UK,Regular,United Kingdom,963,1823.52,9
+17706-UK,Regular,United Kingdom,3899,10504.49,17
+17707-UK,New,United Kingdom,144,152.4,2
+17708-UK,New,United Kingdom,91,267.08,2
+17709-UK,One time,United Kingdom,17,137.45,1
+17711-UK,New,United Kingdom,246,385.1,2
+17712-UK,One time,United Kingdom,215,522.91,1
+17714-UK,One time,United Kingdom,92,153,1
+17715-UK,One time,United Kingdom,384,326.4,1
+17716-UK,Regular,United Kingdom,3072,5655.99,11
+17718-UK,One time,United Kingdom,83,139.35,1
+17719-UK,Regular,United Kingdom,2466,5396.04,15
+17720-UK,Return,United Kingdom,576,1195.94,4
+17722-UK,Return,United Kingdom,1595,2424.04,4
+17723-UK,Regular,United Kingdom,792,3276.4,6
+17724-UK,Return,United Kingdom,300,1033,3
+17725-UK,Regular,United Kingdom,2162,3439.08,11
+17727-UK,One time,United Kingdom,645,1060.25,1
+17728-UK,Return,United Kingdom,1469,2876.01,3
+17730-UK,Regular,United Kingdom,3576,5298.48,13
+17731-UK,Return,United Kingdom,493,1240.11,4
+17732-UK,One time,United Kingdom,93,303.97,1
+17733-UK,New,United Kingdom,463,692.19,2
+17734-UK,Return,United Kingdom,422,700.63,3
+17735-UK,Regular,United Kingdom,8439,13110.02,19
+17736-UK,Return,United Kingdom,238,377.44,3
+17737-UK,New,United Kingdom,108,168.24,2
+17738-UK,Return,United Kingdom,1029,1879.05,4
+17739-UK,Regular,United Kingdom,861,2791.35,7
+17742-UK,New,United Kingdom,89,355.11,2
+17744-UK,Regular,United Kingdom,3412,2322.4,6
+17746-UK,One time,United Kingdom,29,110.25,1
+17747-UK,One time,United Kingdom,12,71.4,1
+17749-UK,New,United Kingdom,320,674.52,2
+17750-UK,Regular,United Kingdom,3957,1797.57,9
+17752-UK,One time,United Kingdom,192,80.64,1
+17754-UK,Regular,United Kingdom,1869,1772.26,5
+17757-UK,Regular,United Kingdom,3320,5605.29,30
+17758-UK,Regular,United Kingdom,2091,3456.7,8
+17759-UK,Return,United Kingdom,708,834.99,3
+17760-UK,New,United Kingdom,239,287.59,2
+17761-UK,One time,United Kingdom,398,712.78,1
+17763-UK,One time,United Kingdom,12,15,1
+17764-UK,New,United Kingdom,395,818.82,2
+17765-UK,Return,United Kingdom,144,371.88,3
+17767-UK,One time,United Kingdom,128,271.2,1
+17768-UK,Return,United Kingdom,1186,2273.18,3
+17769-UK,Regular,United Kingdom,1862,3997.98,10
+17770-UK,Return,United Kingdom,365,1143.27,5
+17771-UK,New,United Kingdom,287,245.81,2
+17772-UK,New,United Kingdom,58,182.77,2
+17774-UK,Return,United Kingdom,512,1225.41,4
+17775-UK,One time,United Kingdom,72,56.4,1
+17777-UK,Return,United Kingdom,507,665.86,3
+17779-UK,Return,United Kingdom,397,658.57,3
+17781-UK,New,United Kingdom,34,188.02,2
+17783-UK,New,United Kingdom,354,283.47,2
+17785-UK,One time,United Kingdom,67,131.94,1
+17786-UK,New,United Kingdom,200,278.74,2
+17787-UK,Regular,United Kingdom,910,1865.19,4
+17788-UK,New,United Kingdom,211,1117.9,2
+17789-UK,One time,United Kingdom,74,225.9,1
+17790-UK,Regular,United Kingdom,836,1965.55,14
+17791-UK,One time,United Kingdom,46,106.1,1
+17793-UK,One time,United Kingdom,232,323.04,1
+17795-UK,New,United Kingdom,341,350.39,2
+17796-UK,Return,United Kingdom,178,697.9,4
+17797-UK,Return,United Kingdom,498,780.43,3
+17799-UK,Regular,United Kingdom,1758,3055.93,10
+17800-UK,Regular,United Kingdom,736,1199.01,9
+17802-UK,Return,United Kingdom,752,1285.04,3
+17805-UK,One time,United Kingdom,478,512.31,1
+17806-UK,One time,United Kingdom,727,546.04,1
+17809-UK,Regular,United Kingdom,2057,5411.91,12
+17811-UK,Regular,United Kingdom,4177,7837.73,39
+17812-UK,Return,United Kingdom,350,732.16,4
+17813-UK,Regular,United Kingdom,790,1770.88,5
+17816-UK,Return,United Kingdom,30,36.56,4
+17817-UK,Return,United Kingdom,67,387.68,3
+17819-UK,Regular,United Kingdom,1031,3704.87,7
+17824-UK,One time,United Kingdom,408,298.4,1
+17827-UK,Return,United Kingdom,1247,1995.46,5
+17828-MLTA,Return,Malta,667,1820.09,4
+17829-UAE,One time,United Arab Emirates,496,889.24,1
+17830-UK,Return,United Kingdom,92,398.7,3
+17831-UK,One time,United Kingdom,12,35.4,1
+17832-UK,One time,United Kingdom,208,155.37,1
+17835-UK,Return,United Kingdom,348,350.64,3
+17836-UK,One time,United Kingdom,88,110.21,1
+17837-UK,Regular,United Kingdom,518,1593.38,8
+17838-UK,Return,United Kingdom,1879,2779.3,5
+17839-UK,One time,United Kingdom,285,338.8,1
+17841-UK,Regular,United Kingdom,23071,40991.57,124
+17843-UK,One time,United Kingdom,113,205.48,1
+17844-CAN,One time,Canada,52,51.56,1
+17846-UK,One time,United Kingdom,1,2033.1,1
+17848-UK,Regular,United Kingdom,398,901.2,9
+17849-UK,Regular,United Kingdom,114,605.8,4
+17850-UK,Return,United Kingdom,1733,5391.21,34
+17852-UK,New,United Kingdom,53,114.34,2
+17854-UK,New,United Kingdom,84,311.26,2
+17855-UK,One time,United Kingdom,197,208.97,1
+17856-UK,Return,United Kingdom,842,1418.03,4
+17857-UK,Regular,United Kingdom,19256,26879.04,23
+17858-UK,Regular,United Kingdom,2706,5155.66,12
+17859-UK,One time,United Kingdom,127,148.21,1
+17860-UK,One time,United Kingdom,104,252.8,1
+17861-UK,Return,United Kingdom,1988,2100.8,8
+17862-UK,One time,United Kingdom,100,330.9,1
+17863-UK,Regular,United Kingdom,2638,3160,6
+17864-UK,Return,United Kingdom,810,597.5,3
+17865-UK,Regular,United Kingdom,5757,10526.32,20
+17866-UK,One time,United Kingdom,174,329.65,1
+17867-UK,Return,United Kingdom,542,1197.1,6
+17869-UK,Return,United Kingdom,111,428.18,5
+17870-UK,Regular,United Kingdom,1401,1894.35,12
+17871-UK,One time,United Kingdom,182,155.9,1
+17873-UK,Return,United Kingdom,1047,1859.16,5
+17874-UK,Return,United Kingdom,221,683.46,6
+17877-UK,One time,United Kingdom,98,237.61,1
+17878-UK,One time,United Kingdom,401,379.45,1
+17879-UK,One time,United Kingdom,45,178.52,1
+17880-UK,One time,United Kingdom,314,458.92,1
+17881-UK,One time,United Kingdom,32,133.35,1
+17883-UK,Return,United Kingdom,379,671.77,4
+17884-UK,Return,United Kingdom,854,717.45,4
+17885-UK,One time,United Kingdom,167,190.19,1
+17886-UK,Return,United Kingdom,481,899.61,3
+17887-UK,One time,United Kingdom,30,111.35,1
+17888-UK,Regular,United Kingdom,980,726.05,8
+17889-UK,New,United Kingdom,79,203.87,2
+17890-UK,New,United Kingdom,416,602.09,2
+17891-UK,One time,United Kingdom,393,203.86,1
+17892-UK,Return,United Kingdom,109,244.1,3
+17893-UK,One time,United Kingdom,161,112.25,1
+17894-UK,Regular,United Kingdom,405,1119.81,8
+17895-UK,One time,United Kingdom,130,98,1
+17896-UK,One time,United Kingdom,288,256.32,1
+17897-UK,Return,United Kingdom,229,566.6,3
+17898-UK,New,United Kingdom,190,152.06,2
+17899-UK,One time,United Kingdom,171,155.8,1
+17900-UK,New,United Kingdom,73,112.2,2
+17901-UK,One time,United Kingdom,24,110.38,1
+17904-UK,One time,United Kingdom,63,191.67,1
+17905-UK,Return,United Kingdom,407,800.24,4
+17906-UK,One time,United Kingdom,26,72.9,1
+17908-UK,One time,United Kingdom,173,243.28,1
+17911-UK,One time,United Kingdom,223,366.23,1
+17912-UK,Return,United Kingdom,185,311.01,5
+17913-UK,New,United Kingdom,289,411.6,2
+17914-UK,One time,United Kingdom,473,336.43,1
+17917-UK,Return,United Kingdom,187,341.28,3
+17919-UK,One time,United Kingdom,756,1304.04,1
+17920-UK,Regular,United Kingdom,2516,4204.1,17
+17921-UK,Return,United Kingdom,430,826.52,4
+17923-UK,One time,United Kingdom,50,207.5,1
+17924-UK,Return,United Kingdom,1160,2962.5,7
+17925-UK,One time,United Kingdom,72,244.08,1
+17926-UK,New,United Kingdom,306,397.29,2
+17928-UK,New,United Kingdom,140,212.54,2
+17929-UK,Return,United Kingdom,108,843,4
+17930-UK,Regular,United Kingdom,1594,1740.48,5
+17931-UK,New,United Kingdom,249,408.36,2
+17932-UK,Return,United Kingdom,789,1331.57,3
+17934-UK,New,United Kingdom,478,704.25,2
+17935-UK,New,United Kingdom,82,145.79,2
+17936-UK,One time,United Kingdom,262,389.84,1
+17937-UK,Regular,United Kingdom,1754,4301.22,7
+17939-UK,One time,United Kingdom,40,99.14,1
+17940-UK,Regular,United Kingdom,9755,4106.44,10
+17941-UK,One time,United Kingdom,252,304.56,1
+17942-UK,One time,United Kingdom,38,77.5,1
+17946-UK,New,United Kingdom,75,149.58,2
+17947-UK,One time,United Kingdom,168,176.68,1
+17948-UK,One time,United Kingdom,144,358.56,1
+17949-UK,Regular,United Kingdom,30546,58510.48,45
+17950-UK,Return,United Kingdom,366,482.2,3
+17951-UK,Return,United Kingdom,616,1008.54,3
+17954-UK,Regular,United Kingdom,2234,2332.72,12
+17955-UK,Return,United Kingdom,273,557.3,4
+17956-UK,One time,United Kingdom,1,12.75,1
+17957-UK,One time,United Kingdom,287,111.68,1
+17958-UK,One time,United Kingdom,84,508.46,1
+17960-UK,One time,United Kingdom,41,73.78,1
+17961-UK,Regular,United Kingdom,560,1296.44,39
+17962-UK,One time,United Kingdom,128,102.83,1
+17964-UK,New,United Kingdom,301,471.7,2
+17965-UK,Regular,United Kingdom,1556,2622.57,14
+17966-UK,Return,United Kingdom,2571,1098.43,5
+17967-UK,One time,United Kingdom,80,123.07,1
+17968-UK,One time,United Kingdom,160,277.35,1
+17969-UK,New,United Kingdom,152,228.2,2
+17970-UK,One time,United Kingdom,525,582.59,1
+17972-UK,One time,United Kingdom,37,136.04,1
+17973-UK,One time,United Kingdom,176,337.04,1
+17974-UK,Return,United Kingdom,519,740.79,3
+17975-UK,Regular,United Kingdom,1568,4488.81,13
+17976-UK,One time,United Kingdom,106,353.19,1
+17977-UK,One time,United Kingdom,342,288.14,1
+17978-UK,One time,United Kingdom,499,300.92,1
+17979-UK,Return,United Kingdom,397,757.71,4
+17980-UK,Return,United Kingdom,682,811.45,3
+17984-UK,One time,United Kingdom,98,152.68,1
+17985-UK,One time,United Kingdom,183,634.95,1
+17986-UK,One time,United Kingdom,10,20.8,1
+17987-UK,One time,United Kingdom,261,198.57,1
+17988-UK,Return,United Kingdom,43,201.12,7
+17990-UK,Return,United Kingdom,414,630.84,3
+17991-UK,New,United Kingdom,25,93.35,2
+17994-UK,Return,United Kingdom,497,678.49,4
+17995-UK,One time,United Kingdom,133,76.1,1
+17997-UK,Return,United Kingdom,2298,1970.67,8
+17999-UK,New,United Kingdom,221,382.06,2
+18001-UK,New,United Kingdom,363,417.23,2
+18004-UK,One time,United Kingdom,78,169.47,1
+18005-UK,New,United Kingdom,93,249.72,2
+18006-UK,One time,United Kingdom,220,444.68,1
+18008-UK,Regular,United Kingdom,1581,2116.19,9
+18009-UK,One time,United Kingdom,126,257.34,1
+18010-UK,One time,United Kingdom,60,174.8,1
+18011-UK,One time,United Kingdom,71,102.79,1
+18013-UK,New,United Kingdom,285,187.29,2
+18014-UK,One time,United Kingdom,68,166.42,1
+18015-UK,One time,United Kingdom,157,120.03,1
+18016-UK,Return,United Kingdom,1029,1483.56,5
+18017-UK,Return,United Kingdom,300,523,3
+18018-UK,New,United Kingdom,55,122.14,2
+18019-UK,One time,United Kingdom,7,38.45,1
+18022-UK,One time,United Kingdom,736,668.11,1
+18024-UK,New,United Kingdom,184,389.78,2
+18027-UK,One time,United Kingdom,78,115.31,1
+18030-UK,New,United Kingdom,67,230.65,2
+18032-UK,One time,United Kingdom,42,73.5,1
+18033-UK,One time,United Kingdom,253,97.97,1
+18034-UK,New,United Kingdom,561,422.88,2
+18035-UK,Return,United Kingdom,611,730.4,3
+18036-UK,Return,United Kingdom,234,405.62,3
+18037-UK,Regular,United Kingdom,20,70.02,6
+18040-UK,New,United Kingdom,148,357.2,2
+18041-UK,Regular,United Kingdom,3819,4183.39,21
+18042-UK,One time,United Kingdom,33,165.05,1
+18043-UK,Return,United Kingdom,282,559.51,3
+18044-UK,Regular,United Kingdom,1033,2088.6,10
+18045-UK,One time,United Kingdom,142,189.4,1
+18048-UK,New,United Kingdom,127,172.29,2
+18050-UK,One time,United Kingdom,40,74.4,1
+18053-UK,One time,United Kingdom,302,300.02,1
+18055-UK,Regular,United Kingdom,2455,6784.19,10
+18056-UK,One time,United Kingdom,211,363.65,1
+18058-UK,One time,United Kingdom,88,170.16,1
+18059-UK,Return,United Kingdom,263,306.46,3
+18061-UK,Regular,United Kingdom,955,2119.41,10
+18062-UK,Return,United Kingdom,396,720.52,3
+18064-UK,New,United Kingdom,384,814,2
+18065-UK,Return,United Kingdom,1027,2392.83,14
+18066-UK,One time,United Kingdom,108,318,1
+18067-UK,One time,United Kingdom,189,396.33,1
+18068-UK,One time,United Kingdom,6,101.7,1
+18069-UK,Return,United Kingdom,1311,2036.67,5
+18071-UK,New,United Kingdom,260,453,2
+18072-UK,One time,United Kingdom,288,247.44,1
+18073-UK,Regular,United Kingdom,3108,3877.52,12
+18074-UK,One time,United Kingdom,190,489.6,1
+18075-UK,Regular,United Kingdom,1464,2611.75,10
+18077-UK,Regular,United Kingdom,1878,2633.01,11
+18078-UK,New,United Kingdom,145,336.13,2
+18079-UK,Return,United Kingdom,7432,3651.97,4
+18080-UK,New,United Kingdom,642,1231.5,2
+18081-UK,Return,United Kingdom,195,343.45,3
+18082-UK,One time,United Kingdom,621,703.37,1
+18084-UK,One time,United Kingdom,312,90.48,1
+18085-UK,New,United Kingdom,265,689.95,2
+18086-UK,One time,United Kingdom,106,101.34,1
+18087-UK,New,United Kingdom,3907,4055.72,2
+18088-UK,One time,United Kingdom,109,167.67,1
+18092-UK,Regular,United Kingdom,4252,9068.26,11
+18093-UK,Return,United Kingdom,1392,2106.52,4
+18094-UK,Return,United Kingdom,2518,3017.3,7
+18095-UK,New,United Kingdom,419,580.05,2
+18096-UK,Return,United Kingdom,825,911.15,3
+18097-UK,Return,United Kingdom,1686,2697.8,6
+18099-UK,One time,United Kingdom,149,168.31,1
+18101-UK,New,United Kingdom,88,223.65,2
+18102-UK,Regular,United Kingdom,64124,259657.3,60
+18104-UK,One time,United Kingdom,362,754.64,1
+18105-UK,One time,United Kingdom,46,113.48,1
+18106-UK,One time,United Kingdom,128,430.7,1
+18108-UK,One time,United Kingdom,84,271,1
+18109-UK,Regular,United Kingdom,4237,8052.97,26
+18110-UK,One time,United Kingdom,86,236.3,1
+18112-UK,New,United Kingdom,255,352.69,2
+18113-UK,One time,United Kingdom,72,76.32,1
+18114-UK,One time,United Kingdom,55,220.1,1
+18116-UK,Return,United Kingdom,848,1418.03,8
+18117-UK,One time,United Kingdom,618,320.72,1
+18118-UK,Regular,United Kingdom,2882,5653.82,26
+18119-UK,One time,United Kingdom,125,181.12,1
+18120-UK,One time,United Kingdom,31,111.15,1
+18121-UK,New,United Kingdom,450,673.1,2
+18122-UK,Regular,United Kingdom,1234,1826.21,6
+18123-UK,New,United Kingdom,594,589.44,2
+18125-UK,Return,United Kingdom,804,1142.99,4
+18126-UK,One time,United Kingdom,144,206.83,1
+18127-UK,Return,United Kingdom,188,348.73,3
+18129-UK,One time,United Kingdom,48,112.55,1
+18130-UK,Return,United Kingdom,824,1059.39,3
+18133-UK,One time,United Kingdom,1350,931.5,1
+18135-UK,Return,United Kingdom,349,681.91,5
+18136-UK,Return,United Kingdom,379,784.33,3
+18138-UK,One time,United Kingdom,38,152.65,1
+18139-UK,Return,United Kingdom,5557,8438.34,6
+18142-UK,New,United Kingdom,1276,1019.52,2
+18143-UK,New,United Kingdom,570,1000.16,2
+18144-UK,Regular,United Kingdom,1343,2888.75,12
+18145-UK,Return,United Kingdom,2625,2861.55,4
+18146-UK,New,United Kingdom,153,160.35,2
+18147-UK,New,United Kingdom,203,179.34,2
+18149-UK,Return,United Kingdom,310,612.08,3
+18150-UK,Return,United Kingdom,332,566.58,3
+18151-UK,New,United Kingdom,355,653.35,2
+18154-UK,New,United Kingdom,255,399.19,2
+18155-UK,Return,United Kingdom,266,371.62,3
+18156-UK,New,United Kingdom,301,734.94,2
+18158-UK,New,United Kingdom,354,453.4,2
+18159-UK,One time,United Kingdom,139,530.15,1
+18160-UK,New,United Kingdom,294,638.06,2
+18161-UK,Return,United Kingdom,812,1618.69,5
+18164-UK,One time,United Kingdom,184,399.65,1
+18165-UK,One time,United Kingdom,254,302.46,1
+18167-UK,Return,United Kingdom,382,1384.86,3
+18168-UK,Regular,United Kingdom,594,1169.94,6
+18169-UK,One time,United Kingdom,61,202.65,1
+18170-UK,Return,United Kingdom,409,980.31,3
+18171-UK,Return,United Kingdom,481,1231.31,5
+18172-UK,Regular,United Kingdom,3184,7561.68,20
+18173-UK,Regular,United Kingdom,1220,2106.84,4
+18174-UK,One time,United Kingdom,50,104,1
+18176-UK,One time,United Kingdom,283,476.35,1
+18177-UK,Regular,United Kingdom,710,1341.42,6
+18178-UK,Return,United Kingdom,983,1590.81,4
+18179-UK,Regular,United Kingdom,1360,1793.17,6
+18180-UK,Return,United Kingdom,1721,1843.75,6
+18181-UK,One time,United Kingdom,146,382.8,1
+18183-UK,New,United Kingdom,371,632.07,2
+18184-UK,One time,United Kingdom,60,49.8,1
+18185-UK,One time,United Kingdom,183,304.25,1
+18188-UK,Return,United Kingdom,1168,2001.04,3
+18189-UK,New,United Kingdom,566,1090.24,2
+18190-UK,New,United Kingdom,140,284.46,2
+18191-UK,One time,United Kingdom,140,207.8,1
+18192-UK,One time,United Kingdom,339,957.97,1
+18193-UK,One time,United Kingdom,124,243.76,1
+18194-UK,One time,United Kingdom,632,973.84,1
+18196-UK,New,United Kingdom,433,689.13,2
+18198-UK,Regular,United Kingdom,4074,5425.56,17
+18200-UK,One time,United Kingdom,111,163.8,1
+18202-UK,Return,United Kingdom,581,1396.99,3
+18203-UK,One time,United Kingdom,43,160.42,1
+18204-UK,Return,United Kingdom,1200,1993.7,3
+18205-UK,New,United Kingdom,192,517.36,2
+18209-UK,One time,United Kingdom,58,139.1,1
+18210-UK,Regular,United Kingdom,1398,2621.38,6
+18211-UK,Regular,United Kingdom,359,600.07,5
+18212-UK,One time,United Kingdom,101,248.42,1
+18213-UK,One time,United Kingdom,232,232.48,1
+18215-UK,One time,United Kingdom,118,299.34,1
+18216-UK,One time,United Kingdom,200,481.75,1
+18217-UK,New,United Kingdom,491,621.75,2
+18218-UK,New,United Kingdom,584,662.08,2
+18219-UK,Regular,United Kingdom,885,2069.77,10
+18220-UK,One time,United Kingdom,288,305.28,1
+18221-UK,Regular,United Kingdom,791,1041.61,5
+18222-UK,One time,United Kingdom,335,443,1
+18223-UK,Regular,United Kingdom,2948,6484.54,14
+18224-UK,One time,United Kingdom,69,158.95,1
+18225-UK,Regular,United Kingdom,3244,5509.12,12
+18226-UK,Regular,United Kingdom,3466,5228.05,11
+18227-UK,One time,United Kingdom,21,93.75,1
+18228-UK,New,United Kingdom,238,779.9,2
+18229-UK,Regular,United Kingdom,2488,7276.9,20
+18230-UK,Regular,United Kingdom,1316,2810.2,7
+18231-UK,Regular,United Kingdom,821,2083.27,5
+18232-UK,Return,United Kingdom,302,592.97,4
+18233-UK,One time,United Kingdom,4,440,1
+18235-UK,Return,United Kingdom,1578,1796.48,3
+18236-UK,Regular,United Kingdom,403,882.24,6
+18237-UK,Regular,United Kingdom,622,987.1,5
+18239-UK,Return,United Kingdom,795,1561.61,5
+18240-UK,One time,United Kingdom,126,422.58,1
+18241-UK,Regular,United Kingdom,1051,2073.09,17
+18242-UK,Return,United Kingdom,1017,2232.49,4
+18245-UK,Return,United Kingdom,1788,2567.06,7
+18246-UK,New,United Kingdom,166,596.1,2
+18248-UK,New,United Kingdom,511,804.02,2
+18249-UK,One time,United Kingdom,128,95.34,1
+18250-UK,One time,United Kingdom,199,349.27,1
+18251-UK,One time,United Kingdom,7824,4314.72,1
+18252-UK,New,United Kingdom,239,526.67,2
+18255-UK,One time,United Kingdom,74,103.3,1
+18257-UK,Return,United Kingdom,1041,2337.63,8
+18259-UK,Return,United Kingdom,714,2338.6,3
+18260-UK,Regular,United Kingdom,1478,2643.2,6
+18261-UK,New,United Kingdom,146,324.24,2
+18262-UK,One time,United Kingdom,182,149.48,1
+18263-UK,Return,United Kingdom,1468,1213.16,3
+18265-UK,New,United Kingdom,311,801.51,2
+18268-UK,One time,United Kingdom,2,25.5,1
+18269-UK,One time,United Kingdom,76,168.6,1
+18270-UK,New,United Kingdom,101,283.15,2
+18272-UK,Return,United Kingdom,2050,3078.58,6
+18273-UK,Return,United Kingdom,80,204,3
+18274-UK,One time,United Kingdom,88,175.92,1
+18276-UK,One time,United Kingdom,186,335.86,1
+18277-UK,One time,United Kingdom,68,110.38,1
+18278-UK,One time,United Kingdom,66,173.9,1
+18280-UK,One time,United Kingdom,45,180.6,1
+18281-UK,One time,United Kingdom,54,80.82,1
+18282-UK,New,United Kingdom,103,178.05,2
+18283-UK,Regular,United Kingdom,1397,2094.88,16
+18287-UK,Return,United Kingdom,1586,1837.28,3

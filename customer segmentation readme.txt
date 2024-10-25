@@ -20,12 +20,6 @@ categorise clients based on their demographics, shopping patterns, or other trai
 		-asumming RSA is Republic of South Africe and EIRE is Ireland - replacing them
 		-leave out the records with unspecified location
 
-
-
-
-
-
---have the loyal customers returned items?
 		
 
 
@@ -33,23 +27,10 @@ categorise clients based on their demographics, shopping patterns, or other trai
 
 
 
-tables:
--total quantity of units purchased by customer
--total amount spent by customer
--total number of individual orders by customer
--customers grouped by purchase category and number of times they purchased from that category
--number of distinct items purchased by customer and by order
--returning customers (order in consecutive months and how many consecutive months)
 
 
 
-visualizations:
--scatterplot of all customers with total units purchased vs total spent w/ number of orders as the size
-	-do segmentation on the plot
--scatterplot of regular customers with total units purchased vs total spent w/ number of orders as the size
-	-do segmentation on the plot
--scatterplot of return customers with total units purchased vs total spent w/ number of orders as the size
-	-do segmentation on the plot
+
 
 
 
