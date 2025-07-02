@@ -38,7 +38,7 @@ UPDATE [Online Retail]
 
 
 
---a table of the orders
+--a table of all orders not grouped
 DROP TABLE IF EXISTS orders;
 SELECT
 	InvoiceNo
@@ -58,8 +58,6 @@ WHERE CustomerID IS NOT NULL
 
 --397,680 entries in the orders table
 SELECT * FROM orders;
-
-
 
 --returns
 DROP TABLE IF EXISTS returns;
@@ -220,8 +218,8 @@ ALTER TABLE orders
 
 
 --CASE to update the country abbreviations
-UPDATE returns
---UPDATE orders
+--UPDATE returns
+UPDATE orders
 	SET Country_abbrv = CASE
 		WHEN Country = 'Australia' THEN 'AUS'
 		WHEN Country = 'Austria' THEN 'AUT'
@@ -271,7 +269,7 @@ UPDATE orders
 	SET CustomerID = CONCAT(CustomerID, '-', Country_abbrv)
 
 
-SELECT * FROM returns;
+SELECT * FROM orders;
 
 
 
@@ -485,10 +483,31 @@ UPDATE Customers
 SELECT * FROM Customers;
 
 
+--unique grouped orders
+DROP TABLE IF EXISTS #unique_orders;
+WITH order_info (InvoiceNo, total_spent) AS
+		(
+		SELECT	
+			InvoiceNo,
+			SUM(Quantity*UnitPrice)
+				OVER (PARTITION BY InvoiceNo)
+					AS total_spent
+		FROM orders
+		GROUP BY InvoiceNo, Quantity, UnitPrice
+		)
+SELECT DISTINCT
+	o.CustomerID,
+	c.CustomerStatus,
+	i.InvoiceNo,
+	i.total_spent
+INTO #unique_orders
+FROM order_info i
+JOIN orders o 
+	ON i.InvoiceNo = o.InvoiceNo
+JOIN Customers c
+	ON c.CustomerID = o.CustomerID;
 
-
-
-
+SELECT * FROM #unique_orders ORDER BY InvoiceNo;
 
 ----total sales
 DROP TABLE IF EXISTS total;
